@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sales.viethas.com/sitemap.xml

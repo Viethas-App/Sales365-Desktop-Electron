@@ -1,0 +1,520 @@
+{
+    "en":[
+        {
+            "colname":"categorys",
+            "datas":[
+                {
+                    "_id": "categorys1kecPifnewK",
+                    "name": "Mixed Drinks List", 
+                    "type": 1
+                },{
+                    "_id": "categorys1oIDmlw3FvF",
+                    "name": "Food List",
+                    "type": 1
+                },{
+                    "_id": "categorys2KdOcmunDPq",
+                    "name": "Service List", 
+                    "type": 2
+                },{
+                    "_id": "categorys3PO9zvdyiqm",
+                    "name": "Prepackaged Drinks List",
+                    "type": 3
+                },{
+                    "_id": "categorys3Ned5ScvUla",
+                    "name": "Ingredient List",
+                    "type": 3
+                },{
+                    "_id": "id_category_topping",
+                    "name": "Side Dish List",
+                    "type": 4
+                },{
+                    "_id": "id_category_combo",
+                    "name": "Combination Dish List",
+                    "type": 5
+                }
+            ]
+        },{
+            "colname":"products",
+            "datas":[
+                {                   
+                    "_id": "products1PkecPifnewK",     
+                    "id_category": "categorys1kecPifnewK",
+                    
+                    "manysize": false,
+                    "describe":"",                                          
+                    "img":"https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/cafe-coffee/cafe-sua.png",
+                    "name":"Iced Milk Coffee",
+                    "type": 1,    
+                    "delete_hidden": false,           
+                    "time_warning": 5,                    
+                    "units":[{"barcode": "0123456781", "default": true, "price": 15000, "price2": 0, "ratio":1, "unit": "Cup"}]  
+                },{
+                    "_id": "products1PoIDmlw3FvF",  
+                    "id_category": "categorys1oIDmlw3FvF",
+                    
+                    "manysize": true,
+                    "describe":"",                                          
+                    "img":"https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/cafe-coffee/cafe-da.png",
+                    "name":"Iced Coffee",                               
+                    "time_warning": 15,
+                    "type": 1,
+                    "delete_hidden": false       
+                },{
+                                                        
+                    "id_subs_group": "products1PoIDmlw3FvF",    
+                    "name":"Size small",                                      
+                    "units":[{"barcode": "0123456782", "default": true, "price": 15000, "price2": 0, "ratio":1, "unit": "Cup"}],
+                    "delete_hidden": false     
+                },{
+                                                        
+                    "id_subs_group": "products1PoIDmlw3FvF",       
+                    "name":"Size large",                                                     
+                    "units":[{"barcode": "0123456783", "default": true, "price": 20000, "price2": 0, "ratio":1, "unit": "Cup"}],
+                    "delete_hidden": false     
+                },{                        
+                    "id_category": "categorys2KdOcmunDPq",                             
+                                                                                 
+                    "img":"https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/cafe-coffee/may-lanh.png",
+                    "name":"Air-conditioned room",                               
+                    "type": 2,
+                    "delete_hidden": false,                       
+                    "units":[{"barcode": "814881446640", "default": true, "price": 5000, "ratio":1, "unit": "Person"}]  
+                },{                
+                    "id_category":"categorys3PO9zvdyiqm",     
+                    
+                    "manysize":false,
+                    "maylot":false,
+                    "brand": "CocaCola",                   
+                    "describe":"",                                          
+                    "img":"https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/cafe-coffee/cola.jpg",
+                    "name":"Coca cola",                        
+                    "type": 3,
+                    "delete_hidden": false,                       
+                    "time_warning": 10,
+                    "warning_number": 5,
+                    "item_code": "",
+                    "quantity": 0, 
+                    "tax": 0,             
+                    "quantity_branch": {},
+                    "units":[{"barcode": "0123456789", "default": true, "price": 15000, "price2": 10000, "price_import": 8000, "ratio":1, "unit": "Size large"}]   
+                },{   
+                    "id_category": "categorys3Ned5ScvUla",    
+                    "allow_sell":false,
+                    "selling":false,
+                    "manysize":false,
+                    "maylot":false,
+                    "brand": "Pepsi",                   
+                    "describe":"",                                                                      
+                    "img":"https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/cafe-coffee/pepsi.png",
+                    "name":"Pepsi",                     
+                    "type": 3,
+                    "delete_hidden": false,                      
+                    "warning_number": 5,
+                    "item_code": "",
+                    "quantity": 0, 
+                    "tax": 0,             
+                    "quantity_branch": {},
+                    "units":[{"barcode": "0123456789", "default": true, "price": 15000, "price2": 10000, "price_import": 8000, "ratio":1, "unit": "Bottle"}]     
+                }
+            ]
+        },{
+            "colname":"suppliers",
+            "datas":[
+                {
+                    "address": "116/18 Thien Phuoc, F9, Tan Binh",
+                    "email": "viethas.info@gmail.com",
+                    "name": "VIETHAS Technology Co., Ltd.",
+                    "note": "None",
+                    "countryCode": "VN",
+                    "phone": "0909925354",
+                    "phoneNumber": "+84909925354",
+                    "taxcode": "312122525",
+                    "delete_hidden": false
+                }                
+            ]
+        },{
+            "colname":"customers",
+            "datas":[
+                {
+                    "_id": "id_retail",
+                    "name": "Retail Customer",
+                    "type": 2,
+                    "delete_hidden": false
+                },
+                {
+                    "address": "115 TL8 Street, Phu My Ward",
+                    "date": "2025-04-23T09:55:48.252Z",
+                    "datebirth": "2025-04-23T09:55:48.252Z",
+                    "debt_enable": true,
+                    "district": "Cu Chi",
+                    "email": "vanminh@gmail.com",
+                    "gender": "Male",
+                    "type": 1,
+                    "delete_hidden": false,
+                    "name": "Nguyen Van Minh",
+                    "note": "",
+                    "countryCode": "VN",
+                    "phone": "0934606060",
+                    "phoneNumber": "+84934606060",
+                    "province": "Ho Chi Minh",
+                    "time_for_payment": 30
+                }                
+            ]
+        },{
+            "colname":"taxs",
+            "datas":[
+                {
+                    "name": "VAT", 
+                    "value": 0,
+                    "status": true,
+                    "default": true                        
+                },{
+                    "name": "VAT", 
+                    "value": 5,
+                    "status": true,
+                    "default": false     
+                },{
+                    "name": "VAT", 
+                    "value": 10,
+                    "status": true,
+                    "default": false     
+                }
+            ]
+        },{
+            "colname":"wallets",
+            "datas":[
+                {
+                    "_id": "id_cash",
+                    "name": "Cash",
+                    "delete_hidden": false
+                },
+                {
+                    "address": "Ho Chi Minh",
+                    "bank_name": "Foreign Trade Bank",
+                    "holder": "Truong Thi Thu Huong",
+                    "name": "Vietcombank",
+                    "note": "",
+                    "number": "1940201041052",
+                    "delete_hidden": false
+                }                
+            ]
+        },{
+            "colname":"incoming_groups",
+            "datas":[
+                {
+                    "name": "Other Income",
+                    "default": true
+                }                
+            ]
+        },{
+            "colname":"spending_groups",
+            "datas":[
+                {
+                    "name": "Other Expenses",
+                    "default": true
+                }                
+            ]
+        },{
+            "colname":"areas",
+            "datas":[
+                {
+                    "_id": "go_home",
+                    "name": "Take away", 
+                    "status": true                  
+                },{
+                    "_id": "areasAhpeouR7cvEthBa",
+                    "name": "Area A", 
+                    "status": true 
+                },{
+                    "_id": "areasBkqoC9wEcapRBao",
+                    "name": "Area B", 
+                    "status": true                   
+                }
+            ]
+        },{
+            "colname":"tables",
+            "datas":[
+                {
+                    "_id": "go_home",
+                    "id_area": "go_home",
+                    "name": "Take away", 
+                    "status": true                   
+                },{
+                    "id_area": "areasAhpeouR7cvEthBa",
+                    "name": "Table A1", 
+                    "status": false                   
+                },{
+                    "id_area": "areasAhpeouR7cvEthBa",
+                    "name": "Table A2", 
+                    "status": false     
+                },{
+                    "id_area": "areasBkqoC9wEcapRBao",
+                    "name": "Table B1", 
+                    "status": false 
+                },{
+                    "id_area": "areasBkqoC9wEcapRBao",
+                    "name": "Table B2", 
+                    "status": false               
+                }
+            ]
+        }
+    ],
+    "vi":[
+        {
+            "colname":"categorys",
+            "datas":[
+                {
+                    "_id": "categorys1kecPifnewK",
+                    "name": "Danh mục nước pha chế", 
+                    "type": 1
+                },{
+                    "_id": "categorys1oIDmlw3FvF",
+                    "name": "Danh mục món ăn",
+                    "type": 1
+                },{
+                    "_id": "categorys2KdOcmunDPq",
+                    "name": "Danh mục dịch vụ", 
+                    "type": 2
+                },{
+                    "_id": "categorys3PO9zvdyiqm",
+                    "name": "Danh mục nước đóng sẳn",
+                    "type": 3
+                },{
+                    "_id": "categorys3Ned5ScvUla",
+                    "name": "Danh mục nguyên liệu",
+                    "type": 3
+                },{
+                    "_id": "id_category_topping",
+                    "name": "Danh mục món bán kèm",
+                    "type": 4
+                },{
+                    "_id": "id_category_combo",
+                    "name": "Danh mục món kết hợp",
+                    "type": 5
+                }
+            ]
+        },{
+            "colname":"products",
+            "datas":[
+                {                   
+                    "_id": "products1PkecPifnewK",     
+                    "id_category": "categorys1kecPifnewK",
+                    
+                    "manysize": false,
+                    "describe":"",                                          
+                    "img":"https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/cafe-coffee/cafe-sua.png",
+                    "name":"Cà phê sửa đá",
+                    "type": 1,
+                    "delete_hidden": false,               
+                    "time_warning": 5,                    
+                    "units":[{"barcode": "0123456781", "default": true, "price": 15000, "price2": 0, "ratio":1, "unit": "Ly"}]  
+                },{
+                    "_id": "products1PoIDmlw3FvF",  
+                    "id_category": "categorys1oIDmlw3FvF",
+                    
+                    "manysize": true,
+                    "describe":"",                                          
+                    "img":"https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/cafe-coffee/cafe-da.png",
+                    "name":"Cà phê đá",                               
+                    "time_warning": 15,
+                    "type": 1,
+                    "delete_hidden": false       
+                },{
+                                                        
+                    "id_subs_group": "products1PoIDmlw3FvF",    
+                    "name":"Size nhỏ",                                      
+                    "units":[{"barcode": "0123456783", "default": true, "price": 15000, "price2": 0, "ratio":1, "unit": "Ly"}],
+                    "delete_hidden": false     
+                },{
+                                                        
+                    "id_subs_group": "products1PoIDmlw3FvF",       
+                    "name":"Size lớn",                                                     
+                    "units":[{"barcode": "0123456782", "default": true, "price": 20000, "price2": 0, "ratio":1, "unit": "Ly"}],
+                    "delete_hidden": false     
+                },{                        
+                    "id_category": "categorys2KdOcmunDPq",                             
+                                                                                 
+                    "img":"https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/cafe-coffee/may-lanh.png",
+                    "name":"Phòng máy lạnh",                               
+                    "type": 2,
+                    "delete_hidden": false,                       
+                    "units":[{"barcode": "814881446640", "default": true, "price": 5000, "ratio":1, "unit": "Người"}]  
+                },{                
+                    "id_category":"categorys3PO9zvdyiqm",     
+                    
+                    "manysize":false,
+                    "maylot":false,
+                    "brand": "CocaCola",                   
+                    "describe":"",                                          
+                    "img":"https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/cafe-coffee/cola.jpg",
+                    "name":"Coca cola",                        
+                    "type": 3,
+                    "delete_hidden": false,                       
+                    "time_warning": 10,
+                    "warning_number": 5,
+                    "item_code": "",
+                    "quantity": 0, 
+                    "tax": 0,             
+                    "quantity_branch": {},
+                    "units":[{"barcode": "0123456789", "default": true, "price": 15000, "price2": 10000, "price_import": 8000, "ratio":1, "unit": "Size lớn"}]   
+                },{   
+                    "id_category": "categorys3Ned5ScvUla",    
+                    "allow_sell":false,
+                    "selling":false,
+                    "manysize":false,
+                    "maylot":false,
+                    "brand": "Pepsi",                   
+                    "describe":"",                                                                      
+                    "img":"https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/cafe-coffee/pepsi.png",
+                    "name":"Pepsi",                     
+                    "type": 3,
+                    "delete_hidden": false,                      
+                    "warning_number": 5,
+                    "item_code": "",
+                    "quantity": 0, 
+                    "tax": 0,             
+                    "quantity_branch": {},
+                    "units":[{"barcode": "0123456789", "default": true, "price": 15000, "price2": 10000, "price_import": 8000, "ratio":1, "unit": "Chai"}]     
+                }
+            ]
+        },{
+            "colname":"suppliers",
+            "datas":[
+                {                       
+                    "address": "116/18 Thiên Phước, F9, Tân Bình",
+                    "email": "viethas.info@gmail.com",
+                    "name": "Công Ty TNHH GPCN VIETHAS",
+                    "note": "không có",
+                    "countryCode": "VN",
+                    "phone": "0909925354",
+                    "phoneNumber": "+84909925354",
+                    "taxcode": "312122525",
+                    "delete_hidden": false             
+                }
+            ]
+        },{
+            "colname":"customers",
+            "datas":[
+                {
+                    "_id": "id_retail",
+                    "name": "Khách lẻ",
+                    "type":2,
+                    "delete_hidden": false   
+                },{
+                    "address":"115 đường TL8, phường Phú Mỹ",
+                    "date": "2025-04-23T09:55:48.252Z",
+                    "datebirth": "2025-04-23T09:55:48.252Z",
+                    "debt_enable": true,
+                    "district": "Củ chi",
+                    "email": "vanminh@gmail.com",
+                    "gender": "Nam",
+                    "type": 1,
+                    "delete_hidden": false,
+                    "name": "Nguyễn Văn Minh",
+                    "note": "",
+                    "countryCode": "VN",
+                    "phone": "0934606060",
+                    "phoneNumber": "+84934606060",
+                    "province": "Hồ chí minh",
+                    "time_for_payment": 30                 
+                }
+            ]
+        },{
+            "colname":"taxs",
+            "datas":[
+                {
+                    "name": "VAT", 
+                    "value": 0,
+                    "status": true,
+                    "default": true                        
+                },{
+                    "name": "VAT", 
+                    "value": 5,
+                    "status": true,
+                    "default": false     
+                },{
+                    "name": "VAT", 
+                    "value": 10,
+                    "status": true,
+                    "default": false     
+                }
+            ]
+        },{
+            "colname":"wallets",
+            "datas":[
+                {
+                    "_id": "id_cash",
+                    "name": "Tiền mặt",
+                    "delete_hidden": false                    
+                },{
+                    "address": "Hồ chí minh",
+                    "bank_name": "Ngân Hàng Ngoại Thương",
+                    "holder": "Trương Thị Thu Hương",
+                    "name": "Vietcombank",
+                    "note":"",
+                    "number": "1940201041052",
+                    "delete_hidden": false                      
+                }
+            ]
+        },{
+            "colname":"incoming_groups",
+            "datas":[
+                {
+                    "name": "Thu khác",
+                    "default": true               
+                }
+            ]
+        },{
+            "colname":"spending_groups",
+            "datas":[
+                {
+                    "name": "Chi khác",
+                    "default": true                    
+                }
+            ]
+        },{
+            "colname":"areas",
+            "datas":[
+                {
+                    "_id": "go_home",
+                    "name": "Take away", 
+                    "status": true                  
+                },{
+                    "_id": "areasAhpeouR7cvEthBa",
+                    "name": "Khu vực A", 
+                    "status": true 
+                },{
+                    "_id": "areasBkqoC9wEcapRBao",
+                    "name": "Khu vực B", 
+                    "status": true                   
+                }
+            ]
+        },{
+            "colname":"tables",
+            "datas":[
+                {
+                    "_id": "go_home",
+                    "id_area": "go_home",
+                    "name": "Take away", 
+                    "status": false                   
+                },{
+                    "id_area": "areasAhpeouR7cvEthBa",
+                    "name": "Bàn A1", 
+                    "status": false                   
+                },{
+                    "id_area": "areasAhpeouR7cvEthBa",
+                    "name": "Bàn A2", 
+                    "status": false     
+                },{
+                    "id_area": "areasBkqoC9wEcapRBao",
+                    "name": "Bàn B1", 
+                    "status": false 
+                },{
+                    "id_area": "areasBkqoC9wEcapRBao",
+                    "name": "Bàn B2", 
+                    "status": false               
+                }
+            ]
+        }
+    ]
+}

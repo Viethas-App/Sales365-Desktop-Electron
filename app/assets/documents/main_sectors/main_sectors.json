@@ -1,0 +1,113 @@
+
+[
+    {
+        "label": "Grocery Store",
+        "main_sector": "sales-grocery",
+        "main_project": "sales"
+    },
+    {
+        "label": "Cosmetics",
+        "main_sector": "sales-cosmetic",
+        "main_project": "sales"
+    },
+    {
+        "label": "Spa - Beauty",
+        "main_sector": "sales-beauty-spa",
+        "main_project": "sales"
+    },
+    {
+        "label": "Fashion",
+        "main_sector": "sales-fashion",
+        "main_project": "sales"
+    },
+    {
+        "label": "Construction Materials",
+        "main_sector": "sales-construction",
+        "main_project": "sales"
+    },
+    {
+        "label": "Medical Supplies",
+        "main_sector": "sales-medical",
+        "main_project": "sales"
+    },
+    {
+        "label": "Household Goods",
+        "main_sector": "sales-household-goods",
+        "main_project": "sales"
+    },
+    {
+        "label": "Furniture",
+        "main_sector": "sales-furniture",
+        "main_project": "sales"
+    },
+    {
+        "label": "Stationery",
+        "main_sector": "sales-stationery",
+        "main_project": "sales"
+    },
+    {
+        "label": "Mom & Kid",
+        "main_sector": "sales-mom-kid",
+        "main_project": "sales"
+    },
+    {
+        "label": "Manufacturing",
+        "main_sector": "sales-manufacture",
+        "main_project": "sales"
+    },
+    {
+        "label": "Flowers & Gifts",
+        "main_sector": "sales-flower-gift",
+        "main_project": "sales"
+    },
+    {
+        "label": "Vehicles & Accessories",
+        "main_sector": "sales-vehicle-parts",
+        "main_project": "sales"
+    },
+    {
+        "label": "Other",
+        "main_sector": "sales-other",
+        "main_project": "sales"
+    },
+    {
+        "label": "Eatery - Restaurant",
+        "main_sector": "cafe-restaurant",
+        "main_project": "cafe"
+    },
+    {
+        "label": "Coffee Shop",
+        "main_sector": "cafe-coffee",
+        "main_project": "cafe"
+    },
+    {
+        "label": "Milk Tea Shop",
+        "main_sector": "cafe-milk-tea",
+        "main_project": "cafe"
+    },
+    {
+        "label": "Bakery",
+        "main_sector": "cafe-cake",
+        "main_project": "cafe"
+    },
+    {
+        "label": "Karaoke - Internet Cafe - Billiards",
+        "main_sector": "cafe-karaoke-net-bida",
+        "main_project": "cafe"
+    },
+    {
+        "label": "Bar - Pub - Club",
+        "main_sector": "cafe-bar-pub-club",
+        "main_project": "cafe"
+    },
+    {
+        "label": "Canteen - Rest Stop",
+        "main_sector": "cafe-canteen-rest-stop",
+        "main_project": "cafe"
+    },
+    {
+        "label": "Other",
+        "main_sector": "cafe-other",
+        "main_project": "cafe"
+    }
+]

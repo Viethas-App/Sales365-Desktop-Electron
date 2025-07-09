@@ -1,0 +1,302 @@
+{
+    "en":[
+        {
+            "colname":"categorys",
+            "datas":[
+                {
+                    "_id": "categorys1kecPifnewK",
+                    "name": "Product Category",
+                    "type": 3
+                },
+                {
+                    "_id": "categorys2KdOcmunDPq",
+                    "name": "Service Category",
+                    "type": 2
+                },
+                {
+                    "_id": "id_category_combo",
+                    "name": "Combo Category",
+                    "type": 5
+                }
+            ]            
+        },{
+            "colname":"products",
+            "datas":[
+                {                        
+                    "id_category": "categorys1kecPifnewK",
+                    
+                    "selling": true,
+                    "manysize": false,
+                    "manylot": false,                    
+                    "brand": "Bảo Thạch",
+                    "cost_stock_last": 0,
+                    "img": "https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/sales-medical/bang-gac.jpg",   
+                    "tax": 0,                  
+                    "name": "Bandage",                    
+                    "quantity": 0,
+                    "quantity_branch": {},                    
+                    "warning_number": 2,
+                    "item_code": "",
+                    "type": 3,
+                    "delete_hidden": false,
+                    "units": [{"barcode": "0123456789", "default": true, "price": 26000, "price2": 23000, "price_import": 20000, "ratio": 1, "unit": "Pack"}]
+                },{                        
+                    "id_category": "categorys2KdOcmunDPq",
+                    
+                    "selling": true,                                
+                    "img": "https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/sales-medical/cham-soc-y-te-tai-nha.jpg", 
+                    "tax": 0,                         
+                    "name": "Home Medical Care",                                          
+                    "type": 2,
+                    "delete_hidden": false,
+                    "units": [{"barcode": "814881446640", "default": true, "price": 12000000, "ratio": 1, "unit": "Month"}]   
+                }
+            ]
+        },{
+            "colname":"suppliers",
+            "datas":[
+                {
+                    "address": "116/18 Thien Phuoc, F9, Tan Binh",
+                    "email": "viethas.info@gmail.com",
+                    "name": "VIETHAS Technology Co., Ltd.",
+                    "note": "None",
+                    "countryCode": "VN",
+                    "phone": "0909925354",
+                    "phoneNumber": "+84909925354",
+                    "taxcode": "312122525",
+                    "delete_hidden": false
+                }                
+            ]
+        },{
+            "colname":"customers",
+            "datas":[
+                {
+                    "_id": "id_retail",
+                    "name": "Retail Customer",
+                    "type": 2,
+                    "delete_hidden": false
+                },
+                {
+                    "address": "115 TL8 Street, Phu My Ward",
+                    "date": "2025-04-23T09:55:48.252Z",
+                    "datebirth": "2025-04-23T09:55:48.252Z",
+                    "debt_enable": true,
+                    "district": "Cu Chi",
+                    "email": "vanminh@gmail.com",
+                    "gender": "Male",
+                    "type": 1,
+                    "delete_hidden": false,
+                    "name": "Nguyen Van Minh",
+                    "note": "",
+                    "countryCode": "VN",
+                    "phone": "0934606060",
+                    "phoneNumber": "+84934606060",
+                    "province": "Ho Chi Minh",
+                    "time_for_payment": 30
+                }                
+            ]
+        },{
+            "colname":"taxs",
+            "datas":[
+                {
+                    "name": "VAT", 
+                    "value": 0,
+                    "status": true,
+                    "default": true                        
+                },{
+                    "name": "VAT", 
+                    "value": 5,
+                    "status": true,
+                    "default": false     
+                },{
+                    "name": "VAT", 
+                    "value": 10,
+                    "status": true,
+                    "default": false     
+                }
+            ]
+        },{
+            "colname":"wallets",
+            "datas":[
+                {
+                    "_id": "id_cash",
+                    "name": "Cash",
+                    "delete_hidden": false
+                },
+                {
+                    "address": "Ho Chi Minh",
+                    "bank_name": "Foreign Trade Bank",
+                    "holder": "Truong Thi Thu Huong",
+                    "name": "Vietcombank",
+                    "note": "",
+                    "number": "1940201041052",
+                    "delete_hidden": false
+                }                
+            ]
+        },{
+            "colname":"incoming_groups",
+            "datas":[
+                {
+                    "name": "Other Income",
+                    "default": true
+                }                
+            ]
+        },{
+            "colname":"spending_groups",
+            "datas":[
+                {
+                    "name": "Other Expenses",
+                    "default": true
+                }                
+            ]
+        }
+    ],
+    "vi":[
+        {
+            "colname":"categorys",
+            "datas":[
+                {
+                    "_id": "categorys1kecPifnewK",
+                    "name": "Danh mục sản phẩm", 
+                    "type": 3
+                },{
+                    "_id": "categorys2KdOcmunDPq",
+                    "name": "Danh mục dịch vụ", 
+                    "type": 2
+                },{
+                    "_id": "id_category_combo",
+                    "name": "Danh mục món kết hợp",
+                    "type": 5
+                }
+            ]
+        },{
+            "colname":"products",
+            "datas":[
+                {                        
+                    "id_category": "categorys1kecPifnewK",
+                    
+                    "selling":true,
+                    "manysize":false,
+                    "manylot":false,                    
+                    "brand": "Bảo Thạch",
+                    "cost_stock_last": 0,
+                    "img": "https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/sales-medical/bang-gac.jpg",  
+                    "tax": 0,                   
+                    "name": "Băng gạc",                    
+                    "quantity": 0,
+                    "quantity_branch": {},                    
+                    "warning_number": 2,
+                    "item_code": "",
+                    "type": 3,
+                    "delete_hidden": false,
+                    "units":[{"barcode": "0123456789", "default": true, "price": 26000, "price2": 23000, "price_import": 20000, "ratio":1, "unit": "Bịch"}]
+                },{                        
+                    "id_category": "categorys2KdOcmunDPq",
+                    
+                    "selling":true,                                
+                    "img": "https://raw.githubusercontent.com/Viethas-App/Sales365-Desktop-Electron/refs/heads/main/assets/sales-medical/cham-soc-y-te-tai-nha.jpg",
+                    "tax": 0,                          
+                    "name": "Chăm sóc y tế tại nhà",                                          
+                    "type": 2,
+                    "delete_hidden": false,
+                    "units":[{"barcode": "814881446640", "default": true, "price": 12000000, "ratio":1, "unit": "Tháng"}]   
+                }
+            ]
+        },{
+            "colname":"suppliers",
+            "datas":[
+                {                       
+                    "address": "116/18 Thiên Phước, F9, Tân Bình",
+                    "email": "viethas.info@gmail.com",
+                    "name": "Công Ty TNHH GPCN VIETHAS",
+                    "note": "không có",
+                    "countryCode": "VN",
+                    "phone": "0909925354",
+                    "phoneNumber": "+84909925354",
+                    "taxcode": "312122525",
+                    "delete_hidden": false             
+                }
+            ]
+        },{
+            "colname":"customers",
+            "datas":[
+                {
+                    "_id": "id_retail",
+                    "name": "Khách lẻ",
+                    "type":2,
+                    "delete_hidden": false   
+                },{
+                    "address":"115 đường TL8, phường Phú Mỹ",
+                    "date": "2025-04-23T09:55:48.252Z",
+                    "datebirth": "2025-04-23T09:55:48.252Z",
+                    "debt_enable": true,
+                    "district": "Củ chi",
+                    "email": "vanminh@gmail.com",
+                    "gender": "Nam",
+                    "type": 1,
+                    "delete_hidden": false,
+                    "name": "Nguyễn Văn Minh",
+                    "note": "",
+                    "countryCode": "VN",
+                    "phone": "0934606060",
+                    "phoneNumber": "+84934606060",
+                    "province": "Hồ chí minh",
+                    "time_for_payment": 30                 
+                }
+            ]
+        },{
+            "colname":"taxs",
+            "datas":[
+                {
+                    "name": "VAT", 
+                    "value": 0,
+                    "status": true,
+                    "default": true                        
+                },{
+                    "name": "VAT", 
+                    "value": 5,
+                    "status": true,
+                    "default": false     
+                },{
+                    "name": "VAT", 
+                    "value": 10,
+                    "status": true,
+                    "default": false     
+                }
+            ]
+        },{
+            "colname":"wallets",
+            "datas":[
+                {
+                    "_id": "id_cash",
+                    "name": "Tiền mặt",
+                    "delete_hidden": false                    
+                },{
+                    "address": "Hồ chí minh",
+                    "bank_name": "Ngân Hàng Ngoại Thương",
+                    "holder": "Trương Thị Thu Hương",
+                    "name": "Vietcombank",
+                    "note":"",
+                    "number": "1940201041052",
+                    "delete_hidden": false                      
+                }
+            ]
+        },{
+            "colname":"incoming_groups",
+            "datas":[
+                {
+                    "name": "Thu khác",
+                    "default": true               
+                }
+            ]
+        },{
+            "colname":"spending_groups",
+            "datas":[
+                {
+                    "name": "Chi khác",
+                    "default": true                    
+                }
+            ]
+        }
+    ]
+}

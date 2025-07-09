@@ -1,7 +1,7 @@
 {
   "name": "Sales365-Viethas",
   "description": "A Sales App from Viethas",
-  "version": "1.0.0",
+  "version": "1.0.9",
   "main": "./build/index.js",
   "repository": {
     "type": "git",
@@ -44,7 +44,7 @@
   },
   "license": "MIT",
   "build": {
-    "appId": "com.viethas.sales",
+    "appId": "com.viethas.sales365",
     "productName": "Sales365-Viethas",
     "files": [
       "assets/*",
@@ -71,8 +71,16 @@
     "win": {
       "artifactName": "${productName}-${version}-windows-${arch}.${ext}",
       "target": "nsis",
-      "icon": "./assets/appIcon.ico"
+      "icon": "./assets/appIcon.png"
     },
+"nsis": {
+  "oneClick": false,
+  "perMachine": true,
+  "allowToChangeInstallationDirectory": true,
+  "createDesktopShortcut": true,
+  "createStartMenuShortcut": true,
+  "shortcutName": "Sales365 Viethas"
+},
     "linux": {
       "artifactName": "${productName}-${version}-linux-${arch}.${ext}",
       "target": "AppImage",

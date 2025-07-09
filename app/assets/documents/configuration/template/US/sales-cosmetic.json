@@ -1,0 +1,22 @@
+{
+    "en":[
+        {
+            "name":"Giao diện 1",
+            "url":"sales-pos",
+            "image": "assets/img/pos_interface.png",
+            "giai_thich":"sales-pos là đường dẫn để router tới giao diện đó"
+        },
+        {
+            "name":"Giao diện 2",
+            "url":"sales-desktop",
+            "image": "assets/img/desktop_interface.png",
+            "giai_thich":"sales-desktop là đường dẫn để router tới giao diện đó"
+        },
+        {
+            "name":"Giao diện 3",
+            "url":"sales-retail",
+            "image": "assets/img/sapo_interface.png",
+            "giai_thich":"sales-retail là đường dẫn để router tới giao diện đó"
+        }
+    ]
+}

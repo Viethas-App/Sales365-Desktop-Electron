@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="279px" height="40px" viewBox="0 0 280 50" >
+  <g id="Group_61918" data-name="Group 61918" transform="translate(-16 -92)">
+    <g id="Rectangle_14850" data-name="Rectangle 14850" transform="translate(16 92)" fill="#fff" stroke="var(--ion-color-vh-green)" stroke-width="1">
+      <rect width="279px" height="40px" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="279" height="49" rx="24.5" fill="none"/>
+    </g>
+    <text id="Truy_cập_trang_bán_hàng" data-name="Truy cập trang bán hàng" transform="translate(34 123)" fill="" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0"></tspan></text>
+    <path id="Subtraction_3" data-name="Subtraction 3" d="M268,83H242V33h26a25,25,0,1,1,0,50Z" transform="translate(3 59)" fill=""/>
+    <path id="Path_142920" data-name="Path 142920" d="M7,10l7.482,7.482L21.965,10Z" transform="translate(256.259 131.482) rotate(-90)" fill="#fff"/>
+    <path id="Path_142921" data-name="Path 142921" d="M5.2,13.2a1.4,1.4,0,1,0,1.4,1.4A1.4,1.4,0,0,0,5.2,13.2ZM1,2V3.4H2.4L4.92,8.713l-.945,1.715A1.353,1.353,0,0,0,3.8,11.1a1.4,1.4,0,0,0,1.4,1.4h8.4V11.1H5.494a.173.173,0,0,1-.175-.175l.021-.084L5.97,9.7h5.215a1.393,1.393,0,0,0,1.225-.721l2.506-4.543A.684.684,0,0,0,15,4.1a.7.7,0,0,0-.7-.7H3.947L3.289,2H1ZM12.2,13.2a1.4,1.4,0,1,0,1.4,1.4A1.4,1.4,0,0,0,12.2,13.2Z" transform="translate(216 109)" fill=""/>
+  </g>
+</svg>

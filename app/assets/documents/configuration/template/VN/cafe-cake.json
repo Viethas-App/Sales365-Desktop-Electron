@@ -1,0 +1,22 @@
+{
+    "vi":[
+        {
+            "name":"Giao diện 1",
+            "url":"cafe-pos",
+            "image": "assets/img/cafe_pos.png",
+            "giai_thich":"cafe-pos là đường dẫn để router tới giao diện đó"
+        },
+        {
+            "name":"Giao diện 2",
+            "url":"cafe-desktop",
+            "image": "assets/img/cafe_desktop.png",
+            "giai_thich":"cafe-desktop là đường dẫn để router tới giao diện đó"
+        },
+        {
+            "name":"Giao diện 3",
+            "url":"cafe-fnb",
+            "image": "assets/img/cafe_sapo_interface.png",
+            "giai_thich":"cafe-fnb là đường dẫn để router tới giao diện đó"
+        }
+    ]
+}
