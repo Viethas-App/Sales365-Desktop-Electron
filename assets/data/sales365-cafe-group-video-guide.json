@@ -1,6 +1,286 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Cấu hình thuế [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/SqrMxsXk-r0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvX9OEYUgJaUZYYW7FO21xFDbNDQ",
+      "link": "https://www.youtube.com/watch?v=SqrMxsXk-r0",
+      "groups": [
+        "tax"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thiết lập trang in  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/-x_Ky19OZ0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqwmEzYGfKtqmVIAKFriKC5_jwlA",
+      "link": "https://www.youtube.com/watch?v=-x_Ky19OZ0g",
+      "groups": [
+        "settings_configuration_printer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thêm tính năng nâng cao  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/6Q5G_4GkWNY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJuMDqK_Tjg9SWLOhv3w5U_ABC7g",
+      "link": "https://www.youtube.com/watch?v=6Q5G_4GkWNY",
+      "groups": [
+        "settings_configuration_feature_access"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Hiển thị  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/Eg5cJIfOeyA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq9t5mvgMBWTtxql_5JM0JQfUXjw",
+      "link": "https://www.youtube.com/watch?v=Eg5cJIfOeyA",
+      "groups": [
+        "settings_configuration_display"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Hóa đơn  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/nBUeYRNC7IY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDUx14GxKuSJShw8k-XjYCJR__Lg",
+      "link": "https://www.youtube.com/watch?v=nBUeYRNC7IY",
+      "groups": [
+        "settings_configuration_invoices"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Báo cáo  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/Iqua58QbB5Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcya6qxRBrOGqRr1b4hYPKPURduw",
+      "link": "https://www.youtube.com/watch?v=Iqua58QbB5Y",
+      "groups": [
+        "settings_configuration_sale_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Cân điện tử  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/U6l56vw_krE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfJk89qpOLQkzQY6wS2GkouRbxDA",
+      "link": "https://www.youtube.com/watch?v=U6l56vw_krE",
+      "groups": [
+        "settings_electronic_scale"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế tem sản phẩm - Thiết kế tem Lô/HSD [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/WBabfgvc_Cg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCatMb8PsmXqASamm-EpcqwiZHzWA",
+      "link": "https://www.youtube.com/watch?v=WBabfgvc_Cg",
+      "groups": [
+        "design_barcode_label_lots"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế tem sản phẩm - Thiết kế tem sản phẩm  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/pP8KIczGvH8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkSIcqUESyINdQlqwKMy2G24T0fg",
+      "link": "https://www.youtube.com/watch?v=pP8KIczGvH8",
+      "groups": [
+        "design_barcode_label_products"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Quản lý lô/HSD  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/ecOu-NSji1k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQxuyY092YCI048is1rcdpwSA5lA",
+      "link": "https://www.youtube.com/watch?v=ecOu-NSji1k",
+      "groups": [
+        "stock_manage_lots"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Kiểm kho [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/A5lceLdxCfE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfkSkWCXUuFvVY14OG6yJALWcnZw",
+      "link": "https://www.youtube.com/watch?v=A5lceLdxCfE",
+      "groups": [
+        "stock_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Nhận tiền [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/R_f0Su0nSOw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1TLnARnGywDRThMLFZywpoHoZjg",
+      "link": "https://www.youtube.com/watch?v=R_f0Su0nSOw",
+      "groups": [
+        "cashflow_receiving"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Chuyển tiền [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/kI_WZSZSDns/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRJY823R4MryVZ-FRurtjDYKiOiw",
+      "link": "https://www.youtube.com/watch?v=kI_WZSZSDns",
+      "groups": [
+        "cashflow_transfers"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Sản phẩm [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/9Ruiam1MJpk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByEPk5WJTJygbSQ8Ck3quXmT2jpg",
+      "link": "https://www.youtube.com/watch?v=9Ruiam1MJpk",
+      "groups": [
+        "settings_configuration_products"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Hóa đơn điện tử [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/vC3FlvOolYg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIpKraVRpEbMaqPiavVLiKT05DdQ",
+      "link": "https://www.youtube.com/watch?v=vC3FlvOolYg",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thông tin cửa hàng [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/zbrOvbogh7I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgm46isvicE35VI6UMOVxorxA7Lg",
+      "link": "https://www.youtube.com/watch?v=zbrOvbogh7I",
+      "groups": [
+        "settings_store_information"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thẻ trả trước - Đổi điểm lấy thẻ [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/HpoL_O2Q1Eg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDp3IA7gdMTMM87ak0_gGcIBwyJWw",
+      "link": "https://www.youtube.com/watch?v=HpoL_O2Q1Eg",
+      "groups": [
+        "sales_program_card_goods_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thẻ trả trước - Thiết kế thẻ [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/fTBRxoDOwf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADv78o_Mjcvs5pA81GB6OR2ZEwXg",
+      "link": "https://www.youtube.com/watch?v=fTBRxoDOwf4",
+      "groups": [
+        "sales_program_card_goods_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thẻ trả trước - Báo cáo thẻ [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/OP0lAtS8XW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdalSdiZPro6rWmKo6jVwOM8QAPA",
+      "link": "https://www.youtube.com/watch?v=OP0lAtS8XW4",
+      "groups": [
+        "sales_program_card_goods_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng -Thẻ trả trước -HĐ đổi thẻ lấy hàng hóa [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/aumEj4AF62w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiMa-Atahh2uSakZ6pZP6LOCEVIg",
+      "link": "https://www.youtube.com/watch?v=aumEj4AF62w",
+      "groups": [
+        "sales_program_card_goods_exchange_card_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thẻ trả trước - Hóa đơn bán thẻ [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/-AWt8CKLoBQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMo8Ho2lSQ1Cko656GrVQrWgUeuw",
+      "link": "https://www.youtube.com/watch?v=-AWt8CKLoBQ",
+      "groups": [
+        "sales_program_card_goods_sell_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thẻ trả trước - Phát hành thẻ [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/WOSMtTcCfRc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0X3QNQ3HmH6jfQcIVb30O5bJNVg",
+      "link": "https://www.youtube.com/watch?v=WOSMtTcCfRc",
+      "groups": [
+        "sales_program_card_goods_releases"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thẻ trả trước - Danh sách thẻ [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/lCYAZEyfMB4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkppGKE5NLMezQh-stCK_y3So-Lg",
+      "link": "https://www.youtube.com/watch?v=lCYAZEyfMB4",
+      "groups": [
+        "sales_program_card_goods_list_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Đổi điểm sang voucher [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/oXL7GlPrPdg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvxiV749I9iuZrL4lQePjUQ_HbmQ",
+      "link": "https://www.youtube.com/watch?v=oXL7GlPrPdg",
+      "groups": [
+        "sales_program_voucher_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Thiết kế voucher [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/ST-brrwvQ4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_5sUj1FSZ-DIvj858nV2Y9HWS-w",
+      "link": "https://www.youtube.com/watch?v=ST-brrwvQ4g",
+      "groups": [
+        "sales_program_voucher_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Báo cáo voucher [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/5IAfPpefEbw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALZg21_M9KLnxhNEbOjLSBvPSk3w",
+      "link": "https://www.youtube.com/watch?v=5IAfPpefEbw",
+      "groups": [
+        "sales_program_voucher_report_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - HĐ đổi voucher lấy hàng hóa [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/YFy053GtT00/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyyxDJBMVKiRVBqreQQ-qZh3dmpw",
+      "link": "https://www.youtube.com/watch?v=YFy053GtT00",
+      "groups": [
+        "sales_program_voucher_exchange_voucher_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Hóa đơn bán voucher [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/aXFFoxsIYaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkWk4dCYee_42LifTMltmteilpTw",
+      "link": "https://www.youtube.com/watch?v=aXFFoxsIYaE",
+      "groups": [
+        "sales_program_voucher_buy_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Phát hành voucher [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/6kG3NfyLdZ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKzN6RZl0hGVp8ltVS3YOGzJG4LQ",
+      "link": "https://www.youtube.com/watch?v=6kG3NfyLdZ4",
+      "groups": [
+        "sales_program_voucher_releases_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Danh sách voucher [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/5uBP7RZigsw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA85jvt3qrUEM_V7aTbOk3ZOrOnaQ",
+      "link": "https://www.youtube.com/watch?v=5uBP7RZigsw",
+      "groups": [
+        "sales_program_voucher_list_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Coupon - Đổi điểm lấy coupon  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/iHNcvWElY1g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIcQ6WpcD8GvkZvzWkSvEs_RAdRw",
+      "link": "https://www.youtube.com/watch?v=iHNcvWElY1g",
+      "groups": [
+        "sales_program_coupons_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Coupon - Thiết kế coupon  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/lhJeUeQlPI4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI60WBHOqqEvwF-GPHjQic2Ig31w",
+      "link": "https://www.youtube.com/watch?v=lhJeUeQlPI4",
+      "groups": [
+        "sales_program_coupons_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điểm - Quản lý điểm  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/TztveTDQxCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpqcUlyKkoVzrlTcvLrJvdQ8xoQA",
+      "link": "https://www.youtube.com/watch?v=TztveTDQxCQ",
+      "groups": [
+        "sales_program_reward_points_manage_point"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điểm - Theo sản phẩm  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/oGOLv1TjCTA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTbaDcICsC4Oh9hbADevc6_0OMcg",
+      "link": "https://www.youtube.com/watch?v=oGOLv1TjCTA",
+      "groups": [
+        "sales_program_reward_points_by_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điểm - Theo hóa đơn  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/s99gZPWt3fk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3T-pi3OGCF9t-uIa3VmOohYIkSw",
+      "link": "https://www.youtube.com/watch?v=s99gZPWt3fk",
+      "groups": [
+        "sales_program_reward_points_by_bill"
+      ]
+    },
+    {
       "title": "Hướng dẫn Chương trình bán hàng - Coupon - Phát hành coupon   [Sales365-sales-desktop-VIE]",
       "image": "https://i.ytimg.com/vi/45TXs96StKE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf_voWZ0yIYjQgH95kFlO3j1qypw",
       "link": "https://www.youtube.com/watch?v=45TXs96StKE",
@@ -69,7 +349,7 @@
       "image": "https://i.ytimg.com/vi/eOO-m_OEO0A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVD2uiHBjfb1CWXEVr1icq33MPOg",
       "link": "https://www.youtube.com/watch?v=eOO-m_OEO0A",
       "groups": [
-        "partner_customer"
+        "partner_customer_list"
       ]
     },
     {
@@ -77,7 +357,7 @@
       "image": "https://i.ytimg.com/vi/TWCogVHx_jY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-0o_oQ6YXNa4wG2VoOZ4CaXr6yw",
       "link": "https://www.youtube.com/watch?v=TWCogVHx_jY",
       "groups": [
-        "partner_employee"
+        "partner_employee_list"
       ]
     },
     {
@@ -421,7 +701,8 @@
       "image": "https://i.ytimg.com/vi/JRYSTL0m-H4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwuyHFdCKGhrnwJtw2MGkJxTmyVg",
       "link": "https://www.youtube.com/watch?v=JRYSTL0m-H4",
       "groups": [
-        "invoice_sales_return_invoice"
+        "invoice_sales_return_invoice",
+        "quick_user_guide"
       ]
     },
     {
@@ -437,7 +718,8 @@
       "image": "https://i.ytimg.com/vi/HN-V_J9NyBA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxImQ2_YN8ybq2UAzloM9_yUNEZQ",
       "link": "https://www.youtube.com/watch?v=HN-V_J9NyBA",
       "groups": [
-        "product_print_barcode"
+        "product_print_barcode",
+        "quick_user_guide"
       ]
     },
     {
@@ -477,7 +759,8 @@
       "image": "https://i.ytimg.com/vi/hbdzezYJayQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHQMii6gRWH3iEVdViTK_zZJtDnA",
       "link": "https://www.youtube.com/watch?v=hbdzezYJayQ",
       "groups": [
-        "product_product_category"
+        "product_product_category",
+        "quick_user_guide"
       ]
     },
     {
@@ -485,7 +768,8 @@
       "image": "https://i.ytimg.com/vi/ov4seU3NCMk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-SOUxf3PcFxM5zVJhhsNRY7unOg",
       "link": "https://www.youtube.com/watch?v=ov4seU3NCMk",
       "groups": [
-        "product_product_list"
+        "product_product_list",
+        "quick_user_guide"
       ]
     }
   ]
