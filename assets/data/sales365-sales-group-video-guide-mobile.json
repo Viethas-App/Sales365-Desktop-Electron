@@ -1,5 +1,491 @@
 {
   "vi": [
-
+    {
+      "title": "02  Thao tác thêm, xóa, sửa sản phẩm [ HDSD Bán hàng Sales365 Mobile ]",
+      "image": "https://i.ytimg.com/vi/0EUFnHM6JKQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhNIGUoWDAP&rs=AOn4CLB_elh9YrHhEmNR5B_fuJsBHg_P9A",
+      "link": "https://www.youtube.com/watch?v=0EUFnHM6JKQ",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "02 1 Thao tác thêm, xóa, sửa sản phẩm có lô và hạn sử dụng [ HDSD Bán hàng Sales365 Mobile ]",
+      "image": "https://i.ytimg.com/vi/tMBYxP7eAFw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIGUoWjAP&rs=AOn4CLCSvf0u5hKoCjsb73z9ROjuWztNDQ",
+      "link": "https://www.youtube.com/watch?v=tMBYxP7eAFw",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "02.2 Thao tác thêm, xóa, sửa sản phẩm có thuộc tính và lô hạn sử dụng [ Bán hàng Sales365 Mobile ]",
+      "image": "https://i.ytimg.com/vi/RiS7U8xdSXs/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGUoWjAP&rs=AOn4CLACte4-fuly28qnBm9VZXkl2c9-tw",
+      "link": "https://www.youtube.com/watch?v=RiS7U8xdSXs",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "04  Thao tác thêm, xóa, sửa dịch vụ [ Bán hàng Sales365 Mobile ]",
+      "image": "https://i.ytimg.com/vi/On3poU9k8dI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLA4xLd0Rdk_Q9Aa62n7d2dD-kmEaw",
+      "link": "https://www.youtube.com/watch?v=On3poU9k8dI",
+      "groups": [
+        "product_service_list"
+      ]
+    },
+    {
+      "title": "05  Thao tác tạo và quản lý đơn nhập hàng  Bán hàng Sales365 Mobile",
+      "image": "https://i.ytimg.com/vi/pac3C2Wq3rQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLCpajgtg-rRW16EpmHBz1BagfMxzA",
+      "link": "https://www.youtube.com/watch?v=pac3C2Wq3rQ",
+      "groups": [
+        "invoice_purchase"
+      ]
+    },
+    {
+      "title": "05 1 Thao tác nhập hàng có thuộc tính và lô hạn sử dụng [Bán hàng Sales365 Mobile ]",
+      "image": "https://i.ytimg.com/vi/h4AwTAD6TCg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIGUoWjAP&rs=AOn4CLAkLFgRbvNjmxAafQMULQezl4RkhQ",
+      "link": "https://www.youtube.com/watch?v=h4AwTAD6TCg",
+      "groups": [
+        "invoice_purchase"
+      ]
+    },
+    {
+      "title": "06  Thao tác tạo và quản lý đơn trả hàng Nhà cung cấp [ Bán hàng Sales365 Mobile ]",
+      "image": "https://i.ytimg.com/vi/B14QZhFLOds/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIGUoWTAP&rs=AOn4CLABUeWQcmceO-FdQCy97j09cLMcdA",
+      "link": "https://www.youtube.com/watch?v=B14QZhFLOds",
+      "groups": [
+        "invoice_supplier_return"
+      ]
+    },
+    {
+      "title": "07  Thao tác tạo đơn tồn đầu kỳ [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/PSFf6_OgHLs/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLCV0BwuBdMw3vYjasrCPTVbk1fIlA",
+      "link": "https://www.youtube.com/watch?v=PSFf6_OgHLs",
+      "groups": [
+        "invoice_opening_stock"
+      ]
+    },
+    {
+      "title": "08  Thao tác bán hàng, lưu tạm đơn khi bán hàng [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/OjzIecU3AIM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIGUoWjAP&rs=AOn4CLCmzHqKfcA4qpgksU75_SN-JSwoFw",
+      "link": "https://www.youtube.com/watch?v=OjzIecU3AIM",
+      "groups": [
+        "sales_mobile_guide"
+      ]
+    },
+    {
+      "title": "09  Thao tác tạo và quản lý đơn khách trả hàng [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/hdHUljmEUQo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLAqZFB81ysSw9nu0YnwDkH9bvAxcg",
+      "link": "https://www.youtube.com/watch?v=hdHUljmEUQo",
+      "groups": [
+        "invoice_customer_return"
+      ]
+    },
+    {
+      "title": "08 1 Thao tác bán hàng   Áp dụng chương trình khuyến mãi [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/AJMynfvC2zY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIGUoXDAP&rs=AOn4CLBLAgBNPEfN1brcUP8ezFFmzFd6VQ",
+      "link": "https://www.youtube.com/watch?v=AJMynfvC2zY",
+      "groups": [
+        "sales_mobile_guide"
+      ]
+    },
+    {
+      "title": "10  Thao tác xem các loại báo cáo [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/SKMLJPgC07k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLARqguCWCGttYHjvdRnMdBGkAGzow",
+      "link": "https://www.youtube.com/watch?v=SKMLJPgC07k",
+      "groups": [
+        "report"
+      ]
+    },
+    {
+      "title": "11  Thao tác xem Sổ quỹ tiền mặt và Nhật ký thu chi [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/IoubePaAqzc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLADhbhkuPTRvTjmRKY_uCkuWtlq3Q",
+      "link": "https://www.youtube.com/watch?v=IoubePaAqzc",
+      "groups": [
+        "cashflow_cashbook",
+        "cashflow_diary"
+      ]
+    },
+    {
+      "title": "12  Thao tác tạo và quản lý phiếu thu [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/MAFXiSpyWqQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLAFhR3EO-vD4ggGBCxDmgtqiHBjGw",
+      "link": "https://www.youtube.com/watch?v=MAFXiSpyWqQ",
+      "groups": [
+        "cashflow_receipts"
+      ]
+    },
+    {
+      "title": "13  Thao tác tạo và quản lý phiếu chi [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/Dst0Uogl-wc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLB6qvel0bZR1P0gXVsaCKjDpA-zHQ",
+      "link": "https://www.youtube.com/watch?v=Dst0Uogl-wc",
+      "groups": [
+        "cashflow_expenses"
+      ]
+    },
+    {
+      "title": "14  Thao tác xem công nợ Khách hàng, nhà cung cấp [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/gVRT7DBrTms/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLCvvvWtuMTF_z8HxSsuACvKjCVm-A",
+      "link": "https://www.youtube.com/watch?v=gVRT7DBrTms",
+      "groups": [
+        "cashflow_supplier_liability",
+        "cashflow_customer_debt"
+      ]
+    },
+    {
+      "title": "15  Thao tác tạo và quản lý tài khoản thanh toán [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/6KEeraOoorE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLCV833tk3GraPu_2xLi-sFpYt1ztQ",
+      "link": "https://www.youtube.com/watch?v=6KEeraOoorE",
+      "groups": [
+        "cashflow_wallet"
+      ]
+    },
+    {
+      "title": "16  Thao tác nhập công nợ khách hàng, nhà cung cấp đầu kỳ [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/C7PhaDgGiwY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLDtDJmIx2AbrrE7Xv5hHRKKGRB4Gg",
+      "link": "https://www.youtube.com/watch?v=C7PhaDgGiwY",
+      "groups": [
+        "cashflow_beginning_supplier_liability",
+        "cashflow_beginning_customer_debt"
+      ]
+    },
+    {
+      "title": "17  Thao tác tạo và quản lý Biên nhận bảo hành, sửa chữa [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/-48QOPKenYM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLAVCQHqph5c5PGJQZiSvqAMzPFZJA",
+      "link": "https://www.youtube.com/watch?v=-48QOPKenYM",
+      "groups": [
+        "warranty_receipt_quote"
+      ]
+    },
+    {
+      "title": "18  Thao tác tạo hóa đơn bảo hành, sửa chữa [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/dje_dcYCvN8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLBGXjucypQ49eiI8Q5_E3olE5At3Q",
+      "link": "https://www.youtube.com/watch?v=dje_dcYCvN8",
+      "groups": [
+        "warranty_invoices"
+      ]
+    },
+    {
+      "title": "19  Thao tác kết nối dịch vụ GHTK [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/WURbM59Zy4I/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIGUoWTAP&rs=AOn4CLCkVp-GrLtIOviahJx7wvO3ard8YQ",
+      "link": "https://www.youtube.com/watch?v=WURbM59Zy4I",
+      "groups": [
+        "delivery"
+      ]
+    },
+    {
+      "title": "03  Thao tác thêm, xóa, sửa danh mục sản phẩm, danh mục dịch vụ  [ Bán hàng Sales365 Mobile ]",
+      "image": "https://i.ytimg.com/vi/8xC4UZSvhmM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIGUoXjAP&rs=AOn4CLBlKd0FRwpBXX8q6czrtulb_Trhpw",
+      "link": "https://www.youtube.com/watch?v=8xC4UZSvhmM",
+      "groups": [
+        "product_product_category",
+        "product_service_category"
+      ]
+    },
+    {
+      "title": "20  Thao tác kết nối dịch vụ giao hàng Ahamove [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/xhGVZnSKUc0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWTAP&rs=AOn4CLBuUxlVCSukRdc-jt8hfxqsKgnIzQ",
+      "link": "https://www.youtube.com/watch?v=xhGVZnSKUc0",
+      "groups": [
+        "delivery"
+      ]
+    },
+    {
+      "title": "21  Thao tác kết nối dịch vụ Giao Hàng Nhanh GHN [ Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/KvmNg4sHRYA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWzAP&rs=AOn4CLAc1u4ybVgHWM3SD6L2OmPEYikczw",
+      "link": "https://www.youtube.com/watch?v=KvmNg4sHRYA",
+      "groups": [
+        "delivery"
+      ]
+    },
+    {
+      "title": "23  Thao tác đẩy đơn vận chuyển áp dụng chung cho các đơn vị VC [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/AdLQUDpJGig/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIGUoWjAP&rs=AOn4CLD2SK3Z3mQY_izvqiDWwSLlMcOQoA",
+      "link": "https://www.youtube.com/watch?v=AdLQUDpJGig",
+      "groups": [
+        "delivery"
+      ]
+    },
+    {
+      "title": "24  Thao tác quản lý khách hàng và nhà cung cấp [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/2Z8hG3AW_WY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIGUoWjAP&rs=AOn4CLDhENP-WYdwGspyJpH7fc_E_LMOXQ",
+      "link": "https://www.youtube.com/watch?v=2Z8hG3AW_WY",
+      "groups": [
+        "partner_customer_list",
+        "partner_supplier"
+      ]
+    },
+    {
+      "title": "25  Thao tác phân quyền và quản lý nhân viên [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/uC1EmumDmeE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhUIGUoXjAP&rs=AOn4CLBlFtahQSwoDpvhMGE6V-yO3YXH5Q",
+      "link": "https://www.youtube.com/watch?v=uC1EmumDmeE",
+      "groups": [
+        "partner_employee_list"
+      ]
+    },
+    {
+      "title": "26  Thao tác thiết lập thuế [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/VVwvuJWdlFo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhIIGUoVTAP&rs=AOn4CLDy4EOS25vJan1wg6qhr4VgvTb-vQ",
+      "link": "https://www.youtube.com/watch?v=VVwvuJWdlFo",
+      "groups": [
+        "tax"
+      ]
+    },
+    {
+      "title": "27  Thao tác quản lý Chương trình khuyến mãi giảm giá tiền, phần trăm [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/QqNAkFwFNYw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIGUoXDAP&rs=AOn4CLAVmnIMyhWd9AwFQvuFuuD_nOdEGw",
+      "link": "https://www.youtube.com/watch?v=QqNAkFwFNYw",
+      "groups": [
+        "sales_program_promotions"
+      ]
+    },
+    {
+      "title": "27 1 Thao tác quản lý Chương trình khuyến mãi sản phẩm đồng giá [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/5wqzPW57J-k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIGUoWzAP&rs=AOn4CLDPkmKxSUD9xBgUom2QFZp9SRGlGw",
+      "link": "https://www.youtube.com/watch?v=5wqzPW57J-k",
+      "groups": [
+        "sales_program_promotions"
+      ]
+    },
+    {
+      "title": "27 2 Thao tác quản lý Chương trình giảm giá tiền khi mua đủ số lượng SP [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/zz175eqqesw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIGUoXzAP&rs=AOn4CLAJ1s9wP8L-uLwOmZgTzfVyXIrooQ",
+      "link": "https://www.youtube.com/watch?v=zz175eqqesw",
+      "groups": [
+        "sales_program_promotions"
+      ]
+    },
+    {
+      "title": "27 3 Thao tác quản lý Chương trình khuyến mãi tặng quà khi mua sản phẩm[Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/tCyEgsWxdVo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIGUoXzAP&rs=AOn4CLCIDaMl-Piwhv3TDm_apc0IvVbcAA",
+      "link": "https://www.youtube.com/watch?v=tCyEgsWxdVo",
+      "groups": [
+        "sales_program_promotions"
+      ]
+    },
+    {
+      "title": "27 4 Thao tác quản lý Chương trình khuyến mãi tặng quà theo giá trị đơn [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/fBPptx0qDLE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIGUoXzAP&rs=AOn4CLCZoBtRW8vIWkm3eFh0fKR2B-5rzg",
+      "link": "https://www.youtube.com/watch?v=fBPptx0qDLE",
+      "groups": [
+        "sales_program_promotions"
+      ]
+    },
+    {
+      "title": "29  Thao tác thiết kế tem không hỗ trợ in tem trên điện thoại [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/rZ__bhGfrCI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhYIGUoYDAP&rs=AOn4CLBM4alSwN4lw873o-fXZKxyNvkxDw",
+      "link": "https://www.youtube.com/watch?v=rZ__bhGfrCI",
+      "groups": [
+        "design_barcode"
+      ]
+    },
+    {
+      "title": "28 3 Thao tác chọn máy in và in hóa đơn với phần mềm bán hàng Sales365 [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/z5fW49yBd7U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDl_RiXZ_WYFXP7AsESmI6yHWtJXA",
+      "link": "https://www.youtube.com/watch?v=z5fW49yBd7U",
+      "groups": [
+        "settings_configuration_printer"
+      ]
+    },
+    {
+      "title": "28 2 Thao tác kết nối máy in hóa đơn Bluetooth bằng điện thoại [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/0n1iJZh0ZTo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTmL2--047lIoMAMss8cs-4ZxrsQ",
+      "link": "https://www.youtube.com/watch?v=0n1iJZh0ZTo",
+      "groups": [
+        "settings_configuration_printer"
+      ]
+    },
+    {
+      "title": "28 1 Thao tác kết nối máy in hóa đơn mạng LAN bằng điện thoại [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/QmQiyz2wIC8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCucTkNC7b2AMcAM4jSGreD9hLREQ",
+      "link": "https://www.youtube.com/watch?v=QmQiyz2wIC8",
+      "groups": [
+        "settings_configuration_printer"
+      ]
+    },
+    {
+      "title": "28  Thao tác kết nối máy in hóa đơn Wifi bằng điện thoại [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/cqPqAwn96G4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCijMpL3D4Q4JAE546XTsZM50J7Pw",
+      "link": "https://www.youtube.com/watch?v=cqPqAwn96G4",
+      "groups": [
+        "settings_configuration_printer"
+      ]
+    },
+    {
+      "title": "30  Thao tác kiểm kho, quản lý kho [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/1zfeeyVV5i0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIGUoWTAP&rs=AOn4CLD_X5SOQwUYPRHH31XudU97Hu6-Vg",
+      "link": "https://www.youtube.com/watch?v=1zfeeyVV5i0",
+      "groups": [
+        "stock_inventory"
+      ]
+    },
+    {
+      "title": "30 1 Thao tác cân bằng kho [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/BiLi4dMaj9g/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIGUoWjAP&rs=AOn4CLDe5sJXn4Vp9Hfwy1ZIk7WwrfjMwA",
+      "link": "https://www.youtube.com/watch?v=BiLi4dMaj9g",
+      "groups": [
+        "stock_balance_stock"
+      ]
+    },
+    {
+      "title": "32  Thao tác cài đặt cấu hình app Sales365  [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/PiaS2kDCaWE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIGUoVTAP&rs=AOn4CLDsgQ9PI_0vebjxJ7FEZMHuEyybRA",
+      "link": "https://www.youtube.com/watch?v=PiaS2kDCaWE",
+      "groups": [
+        "settings"
+      ]
+    },
+    {
+      "title": "33. Thao tác quản lý hóa đơn lưu tạm (Hóa đơn bán và nhập hàng)  [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/d0l41gVumBo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhUIGUoXTAP&rs=AOn4CLCvv_WPKJGTmii12KNN7NskWP-yaw",
+      "link": "https://www.youtube.com/watch?v=d0l41gVumBo",
+      "groups": [
+        "invoice_temporary_sales_invoice"
+      ]
+    },
+    {
+      "title": "34  Thao tác quản lý hóa đơn bán hàng, hóa đơn khách trả [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/zwBWGB1EZYU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIGUoXTAP&rs=AOn4CLDBL4srJSLKVM2Wdw2QByfUhUErEg",
+      "link": "https://www.youtube.com/watch?v=zwBWGB1EZYU",
+      "groups": [
+        "invoice_customer_return"
+      ]
+    },
+    {
+      "title": "34.1  Thao tác quét mã sản phẩm cho các tính năng bán hàng, kiểm kho [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/miaQv-XqoXI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIFkoWTAP&rs=AOn4CLB0jID0hXCfYbfyX3kvGkaY-AbFeQ",
+      "link": "https://www.youtube.com/watch?v=miaQv-XqoXI",
+      "groups": [
+        "sales_mobile_guide",
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "35  Thao tác đối soát xuất hàng, nhập hàng [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/dgCWR5v0z9o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIGUoWjAP&rs=AOn4CLBmDbh3SniW3t6fdnl3PTAg3tSJLg",
+      "link": "https://www.youtube.com/watch?v=dgCWR5v0z9o",
+      "groups": [
+        "invoice_purchase"
+      ]
+    },
+    {
+      "title": "36  Thao tác quản lý và áp dụng chương trình điểm tích lũy [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/3Pe7ISskqOE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIGUoWjAP&rs=AOn4CLBWWzJ5cYFVxhRxxEkuUFwIz_e5vA",
+      "link": "https://www.youtube.com/watch?v=3Pe7ISskqOE",
+      "groups": [
+        "sales_program_reward_points"
+      ]
+    },
+    {
+      "title": "37  Thao tác tạo và quản lý chương trình Voucher tặng quà [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/uZZ4aPk0UUo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWjAP&rs=AOn4CLCJM7fKFeWLQZO3JKtp25bUuyasIA",
+      "link": "https://www.youtube.com/watch?v=uZZ4aPk0UUo",
+      "groups": [
+        "sales_program_voucher"
+      ]
+    },
+    {
+      "title": "38  Thao tác tạo và quản lý chương trình Coupon thanh toán, giảm giá [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/xoibVPZ3SuQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIGUoXzAP&rs=AOn4CLDFSJ_K41Gcb6Z_zPrkOEsd_2qejg",
+      "link": "https://www.youtube.com/watch?v=xoibVPZ3SuQ",
+      "groups": [
+        "sales_program_coupons"
+      ]
+    },
+    {
+      "title": "39  Thao tác quản lý điểm và đổi điểm lấy Coupon, Voucher tặng quà [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/gSS6lRYX4mM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIGUoXzAP&rs=AOn4CLAm4PZlc_c5Cfvk2EaFoGK6q7ANZQ",
+      "link": "https://www.youtube.com/watch?v=gSS6lRYX4mM",
+      "groups": [
+        "sales_program_coupons_exchange_points",
+        "sales_program_voucher_exchange_points"
+      ]
+    },
+    {
+      "title": "40  Thao tác bán phiếu Voucher, sử dụng Voucher lấy quà [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/6c9WdEBEugQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGUoWjAP&rs=AOn4CLCj4aDhhgAeXxBbGMOwLk-1zr0Cvw",
+      "link": "https://www.youtube.com/watch?v=6c9WdEBEugQ",
+      "groups": [
+        "sales_program_voucher_buy_voucher"
+      ]
+    },
+    {
+      "title": "41  Thao tác bán phiếu Thẻ trả trước, sử dụng Thẻ trả trước [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/eHyIvmtZ-Pg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIGUoXzAP&rs=AOn4CLBIdhdaEGhtagfcyvRQ1k1IFiiNsA",
+      "link": "https://www.youtube.com/watch?v=eHyIvmtZ-Pg",
+      "groups": [
+        "sales_program_card_goods_sell_card"
+      ]
+    },
+    {
+      "title": "42  Thao tác áp dụng thanh toán bằng điểm, coupon khi bán hàng [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/nODYgxUzUlY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIGUoXzAP&rs=AOn4CLBc0N2MWQ1Yxh63i-YyFo6lGDb8hw",
+      "link": "https://www.youtube.com/watch?v=nODYgxUzUlY",
+      "groups": [
+        "sales_mobile_guide"
+      ]
+    },
+    {
+      "title": "43  Thao tác tạo và quản lý chương trình Thẻ trả trước [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/Y5JUJLYrZTE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIGUoXjAP&rs=AOn4CLAS4MvbZmEKXN5lKWPPDCntSgUJ2Q",
+      "link": "https://www.youtube.com/watch?v=Y5JUJLYrZTE",
+      "groups": [
+        "sales_program_card_goods"
+      ]
+    },
+    {
+      "title": "44  Thao tác quản lý và áp dụng hoa hồng nhân viên [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/rKvZm4QZh-g/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIGUoWjAP&rs=AOn4CLDBIQS-aE3krx5pqLTQNMOCWXDLZg",
+      "link": "https://www.youtube.com/watch?v=rKvZm4QZh-g",
+      "groups": [
+        "sales_program_discount_employee"
+      ]
+    },
+    {
+      "title": "45  Thao tác quản lý và áp dụng chiết khấu khách hàng [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/PCnudKdAb_8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhSIGUoWjAP&rs=AOn4CLAcuOl9ZeeuuCG7INDO2FZfytdF0A",
+      "link": "https://www.youtube.com/watch?v=PCnudKdAb_8",
+      "groups": [
+        "sales_program_discount_customer"
+      ]
+    },
+    {
+      "title": "46  Thao tác tạo và quản lý hạng khách hàng [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/4g0TK-MCGqE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIGUoXjAP&rs=AOn4CLApbbTQ0s8Usj4j_vWAlR5o9KGsNw",
+      "link": "https://www.youtube.com/watch?v=4g0TK-MCGqE",
+      "groups": [
+        "partner_customer_group"
+      ]
+    },
+    {
+      "title": "47  Thao tác tạo và quản lý hạng nhân viên [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/-QzxPVCF2lc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIGUoXzAP&rs=AOn4CLB4S6TNZC456ZMSvvJSsQDxLYufIQ",
+      "link": "https://www.youtube.com/watch?v=-QzxPVCF2lc",
+      "groups": [
+        "partner_employee_group"
+      ]
+    },
+    {
+      "title": "48  Thao tác xem sản phẩm sắp hết hạn sử dụng [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/IP3pVblz_k0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIGUoWjAP&rs=AOn4CLARuUSCGl0p3y2kVaD-J5KMwsGbtw",
+      "link": "https://www.youtube.com/watch?v=IP3pVblz_k0",
+      "groups": [
+        "stock_manage_lots"
+      ]
+    },
+    {
+      "title": "49  Thao tác quản lý trạng thái đơn hàng trên các sàn thương mại điện tử [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/LL7Dquqoi1o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIGUoVDAP&rs=AOn4CLCmFL8Dp8Ps1MZnln1PfPmN_dSwsA",
+      "link": "https://www.youtube.com/watch?v=LL7Dquqoi1o",
+      "groups": [
+        "ecommerce"
+      ]
+    },
+    {
+      "title": "50  Thao tác quản lý đơn bị khiếu nại đơn hoàn hàng hoàn tiền sàn TMDT [Bán hàng Sales365 Mobile]",
+      "image": "https://i.ytimg.com/vi/u4Y4JSA7ohw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIGUoVDAP&rs=AOn4CLCQbQjPC90gDjvBUrT-qElbQFTkMg",
+      "link": "https://www.youtube.com/watch?v=u4Y4JSA7ohw",
+      "groups": [
+        "ecommerce"
+      ]
+    }
   ]
 }
