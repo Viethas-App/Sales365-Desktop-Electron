@@ -1,6 +1,118 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn đổi voucher lấy hàng hóa [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/rh4kfJLgTMo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqrqdZH_iY2SAnba5DUruhFZpFTw",
+      "link": "https://www.youtube.com/watch?v=rh4kfJLgTMo",
+      "groups": [
+        "sales_program_voucher_exchange_voucher_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn bán voucher [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/kKUE6mYyyvY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_c_t3oyGTOFJRI6hXE6r4ZjzMVA",
+      "link": "https://www.youtube.com/watch?v=kKUE6mYyyvY",
+      "groups": [
+        "sales_program_voucher_buy_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đợt phát hành voucher [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/GKyhiBmqhQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4dzTMcAUyKn4NG1VAsFEohRfRyw",
+      "link": "https://www.youtube.com/watch?v=GKyhiBmqhQs",
+      "groups": [
+        "sales_program_voucher_releases_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách voucher [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/Dw8ZR2pYKas/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4FsEgJQYFbUuQGl_tAQNfL6suwQ",
+      "link": "https://www.youtube.com/watch?v=Dw8ZR2pYKas",
+      "groups": [
+        "sales_program_voucher_list_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm lấy Coupons [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/J_UFoqEVHdQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgiwhR0GXqERAWooAlPncSFreANw",
+      "link": "https://www.youtube.com/watch?v=J_UFoqEVHdQ",
+      "groups": [
+        "sales_program_coupons_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thiết kế Coupons  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/_6j70lxcJUw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc_pIOcdavs3RzNeF1VueiX4KB_w",
+      "link": "https://www.youtube.com/watch?v=_6j70lxcJUw",
+      "groups": [
+        "sales_program_coupons_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Phát hành Coupons [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/T1eHbRLAAJQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7BA-lG72WTKTJ8h6ULxd-JBUtwg",
+      "link": "https://www.youtube.com/watch?v=T1eHbRLAAJQ",
+      "groups": [
+        "sales_program_coupons_publish_coupon"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách Coupons [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/PjT-sJQWT0A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT1-5dFAOlNh2WzwrI_e0RgbWdcA",
+      "link": "https://www.youtube.com/watch?v=PjT-sJQWT0A",
+      "groups": [
+        "sales_program_coupons_list_coupons"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Quản lý điểm  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/JQUyqrKF4S8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoA3qk2_LN-uHxCrW3LzFRkvDXmQ",
+      "link": "https://www.youtube.com/watch?v=JQUyqrKF4S8",
+      "groups": [
+        "sales_program_reward_points_manage_point"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điển theo sản phẩm [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/9SFkBGgZUKg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQzQa-N_HapeJZDqcvkP0FqlD7yQ",
+      "link": "https://www.youtube.com/watch?v=9SFkBGgZUKg",
+      "groups": [
+        "sales_program_reward_points_by_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điểm hóa đơn [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/WuoTlsm6OlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOZ79OeF6OhqC4g6VnT6nvn4wZ2w",
+      "link": "https://www.youtube.com/watch?v=WuoTlsm6OlU",
+      "groups": [
+        "sales_program_reward_points_by_bill"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hoa hồng nhân viên [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/Z6SwyblZmy0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrAWdpKn9I7Tv7hPvFNrv1NDbOpQ",
+      "link": "https://www.youtube.com/watch?v=Z6SwyblZmy0",
+      "groups": [
+        "sales_program_discount_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu hóa đơn bán hàng  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/IKDQ13BLeJM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtZ01VlEyZgDHZfYEb3eqvkpr6YA",
+      "link": "https://www.youtube.com/watch?v=IKDQ13BLeJM",
+      "groups": [
+        "sales_program_discount_customer_invoice_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu khách hàng  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/EaQCYmhX-rE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQLIUtNhxloaOneXXCPNGDBgJQXw",
+      "link": "https://www.youtube.com/watch?v=EaQCYmhX-rE",
+      "groups": [
+        "sales_program_discount_customer',"
+      ]
+    },
+    {
       "title": "Hướng dẫn Đối tác - Hạng nhân viên [ViethasPos-F&B-desktop-VIE]",
       "image": "https://i.ytimg.com/vi/Z_8gPBN8UHE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy-tAqO2_i8wigvnQjhbnrUOHopg",
       "link": "https://www.youtube.com/watch?v=Z_8gPBN8UHE",
@@ -494,6 +606,14 @@
       "link": "https://www.youtube.com/watch?v=0SL76LPqMj0",
       "groups": [
         "dishes_dish_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Báo cáo voucher  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/VjdrVtfxZno/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXj_8kxwOOqh76bRDvbbuSM7Qc5Q",
+      "link": "https://www.youtube.com/watch?v=VjdrVtfxZno",
+      "groups": [
+        "sales_program_voucher_report_voucher"
       ]
     }
   ]
