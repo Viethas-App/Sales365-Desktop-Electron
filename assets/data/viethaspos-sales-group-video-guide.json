@@ -1,6 +1,118 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Chương trình bán hàng - Thẻ trả trước - Thiết kế thẻ [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/r5zwXODRHoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2_idPelt98PDI2eM3uHy2Pwblyg",
+      "link": "https://www.youtube.com/watch?v=r5zwXODRHoE",
+      "groups": [
+        "sales_program_card_goods_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thẻ trả trước - Phát hành thẻ [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/zNiGiLFcYmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk-rOrs4tClEKQnKbSL3au4hUbJQ",
+      "link": "https://www.youtube.com/watch?v=zNiGiLFcYmI",
+      "groups": [
+        "sales_program_card_goods_releases"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thẻ trả trước - Danh sách thẻ [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/TF0JF-7ojTo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmph7_wBDVG6Y74qLsw26mlv1HLA",
+      "link": "https://www.youtube.com/watch?v=TF0JF-7ojTo",
+      "groups": [
+        "sales_program_card_goods_list_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thẻ trả trước [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/d5BrLBipZ-Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3GbmfWQ6JZaXHczu0zb7fU-OzJA",
+      "link": "https://www.youtube.com/watch?v=d5BrLBipZ-Q",
+      "groups": [
+        "sales_program_card_goods"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Đổi điểm sang voucher [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/5LWmfcNcqDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA7vCRLXKZ9ahBV-_aw7pGT8wBHA",
+      "link": "https://www.youtube.com/watch?v=5LWmfcNcqDo",
+      "groups": [
+        "sales_program_voucher_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Thiết kế voucher [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/mfvokLT0lm4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXk-tN3dlwO5HcVqPwcNFgK58eoA",
+      "link": "https://www.youtube.com/watch?v=mfvokLT0lm4",
+      "groups": [
+        "sales_program_voucher_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Báo cáo voucher [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/GkDItIx_mNY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA4nxgBPYjfdcZ6dbfPGT0eDvdLA",
+      "link": "https://www.youtube.com/watch?v=GkDItIx_mNY",
+      "groups": [
+        "sales_program_voucher_report_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher- HĐ đổi voucher lấy hàng hóa[ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/viOFjy1_sZY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYE-pxcmdjcHkpiEjeXXp835gnxA",
+      "link": "https://www.youtube.com/watch?v=viOFjy1_sZY",
+      "groups": [
+        "sales_program_voucher_exchange_voucher_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Hóa đơn bán voucher [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/J1kRTSWtneg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc4fgzzjCbmvNhHbKyscDvXlBTAw",
+      "link": "https://www.youtube.com/watch?v=J1kRTSWtneg",
+      "groups": [
+        "sales_program_voucher_buy_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher Phát hành voucher  [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/tHmVS0TOrgM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6hc-zjhjQ06QuLBNo32pwMyM_Tw",
+      "link": "https://www.youtube.com/watch?v=tHmVS0TOrgM",
+      "groups": [
+        "sales_program_voucher_releases_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher - Danh sách voucher [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/iv1gT36ZEto/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB327QhdsYs-taxPjp0mr8yiwJHrw",
+      "link": "https://www.youtube.com/watch?v=iv1gT36ZEto",
+      "groups": [
+        "sales_program_voucher_list_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Voucher [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/MX99EN3KISg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDEYMRN9uRJuNbRG7b_sZReShpyQ",
+      "link": "https://www.youtube.com/watch?v=MX99EN3KISg",
+      "groups": [
+        "sales_program_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thiết kế coupon [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/dlMMdXzCirk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYllFgxISUfije4iM_42SODZItew",
+      "link": "https://www.youtube.com/watch?v=dlMMdXzCirk",
+      "groups": [
+        "sales_program_coupons_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Phát hành coupon [ViethasPos-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/-d8lnbiA5rY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWmbRnFdauqnBs_YNCm8ACvaOiOA",
+      "link": "https://www.youtube.com/watch?v=-d8lnbiA5rY",
+      "groups": [
+        "sales_program_coupons_publish_coupon"
+      ]
+    },
+    {
       "title": "Hướng dẫn Thiết kế tem sản phẩm - Thiết kế tem Lô/HSD [ViethasPos-sales-desktop-VIE]",
       "image": "https://i.ytimg.com/vi/9bWY4AahPJA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDh4UrsUls2QNc-8TBQAbJld4lAQ",
       "link": "https://www.youtube.com/watch?v=9bWY4AahPJA",

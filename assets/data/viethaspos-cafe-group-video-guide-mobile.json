@@ -1,11 +1,379 @@
 {
   "vi": [
     {
-      "title": "Hướng dẫn máy in hóa đơn TD - 80 (USB + LAN) in từ địa chỉ IP trên app bán hàng Viethas Pos",
-      "image": "https://i.ytimg.com/vi/uctQYtRwfFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLIb219bK0FQpiuEocZLSBEykT7g",
-      "link": "https://www.youtube.com/watch?v=uctQYtRwfFk",
+      "title": "Hướng dẫn Dòng tiền - Số quỹ tiền mặt   [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/yE6sNXfRo3k/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB1rGxZNRD5RKBVkAvoyrP7sqXJ8g",
+      "link": "https://www.youtube.com/shorts/yE6sNXfRo3k",
       "groups": [
-        "connect_sales_printer"
+        "cashflow_cashbook"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số thẻ trả trước  [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/BtYe88ZtPEY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLARki4uAy1nlItNXL-zL0I2fn4XZg",
+      "link": "https://www.youtube.com/shorts/BtYe88ZtPEY",
+      "groups": [
+        "report_sales_payment_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số voucher  [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/JBJdhvIrj4s/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDnTIilpyPREAry9ONj4FB0v2NKHQ",
+      "link": "https://www.youtube.com/shorts/JBJdhvIrj4s",
+      "groups": [
+        "report_sales_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Nhập - xuất - trả  [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/CdYuT1rEtjA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDVmbiXHUls-Tb3K8fHSQRMZ5pNsg",
+      "link": "https://www.youtube.com/shorts/CdYuT1rEtjA",
+      "groups": [
+        "report_input_output_return"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Nhập - xuất - tồn  [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/2IY5OMFUSns/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCBKN-w3DVfhSPLasu6_PzANxcsdA",
+      "link": "https://www.youtube.com/shorts/2IY5OMFUSns",
+      "groups": [
+        "report_input_output_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Sản phẩm sắp hết hàng [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/bxhlLJYtRps/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAOEL7_ZGPTy01lzk_aGlmRdZJfBA",
+      "link": "https://www.youtube.com/shorts/bxhlLJYtRps",
+      "groups": [
+        "report_out_of_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số combo  [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/qJUsN2xqs2Q/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLByO3wEbm82B7ohrxLkWvYp9A_VzA",
+      "link": "https://www.youtube.com/shorts/qJUsN2xqs2Q",
+      "groups": [
+        "report_sales_combo"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số toppings [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/jMGQlrv3eeU/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCaORg5geBUET3Edni8aFq7q2Ej2Q",
+      "link": "https://www.youtube.com/shorts/jMGQlrv3eeU",
+      "groups": [
+        "report_sales_side_dishes"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số nguyên liệu [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/XmPQgWsaDXs/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDwY3uxfLtkzp0KTrxQtmNmF-bTMg",
+      "link": "https://www.youtube.com/shorts/XmPQgWsaDXs",
+      "groups": [
+        "report_sales_ingredient"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số dịch vụ [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/3bJhmaeT9M4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCibwBdZcCJaloVG9gy1XDXdNNzWQ",
+      "link": "https://www.youtube.com/shorts/3bJhmaeT9M4",
+      "groups": [
+        "report_sales_service"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số món ăn [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/D26_M3semk4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBDQ9fQV8KQeNJD19rCwXoHNwtYAw",
+      "link": "https://www.youtube.com/shorts/D26_M3semk4",
+      "groups": [
+        "report_sales_dishes"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số nhân viên [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/_ERp4SCRO4c/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCa4NQKd8OLGGhkBwzHkPhmSbZWRA",
+      "link": "https://www.youtube.com/shorts/_ERp4SCRO4c",
+      "groups": [
+        "report_sales_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số khách hàng [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/d8r5FUrrDOA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBdDMA11wlMbKQc9B-soQyRsvPzCA",
+      "link": "https://www.youtube.com/shorts/d8r5FUrrDOA",
+      "groups": [
+        "report_sales_customer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số bàn [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/sJLPmU-b5gA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCEM3vqhQFGKGTXeRm9hjDvk8C6Ww",
+      "link": "https://www.youtube.com/shorts/sJLPmU-b5gA",
+      "groups": [
+        "report_sales_table"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số khu vực [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/BIb0chd7PS4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBrLfs7lxyoZ2qwxPoj6SI7nHYxcg",
+      "link": "https://www.youtube.com/shorts/BIb0chd7PS4",
+      "groups": [
+        "report_sales_area"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Danh số doanh mục [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/T33HAscfLmE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAV21sWAG0At2XrbTn0DdJZzQeBeg",
+      "link": "https://www.youtube.com/shorts/T33HAscfLmE",
+      "groups": [
+        "report_sales_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Danh mục bán chạy [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/NSyFn_AWdhk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBud7fx0ELknKdgN26csNoV61rGEA",
+      "link": "https://www.youtube.com/shorts/NSyFn_AWdhk",
+      "groups": [
+        "report_best_selling_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Món ăn bán chạy [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/iCpPeFlsNFY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDNnWUZbASUqO7dwoCzmg4TEalicA",
+      "link": "https://www.youtube.com/shorts/iCpPeFlsNFY",
+      "groups": [
+        "report_best_selling_dishes"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số, doanh thu [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/1fQ9AsAEZhs/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBgrbM_iVoureaa68QndW4TbM1Ijg",
+      "link": "https://www.youtube.com/shorts/1fQ9AsAEZhs",
+      "groups": [
+        "report_sales_profit"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn điên tử [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/gxyP4-RIb2k/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLACKVV9KfyjTlAorUi46SrSs_o-aA",
+      "link": "https://www.youtube.com/shorts/gxyP4-RIb2k",
+      "groups": [
+        "invoice_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn nhà cung cấp [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/s4Bk_4LS3SY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBlavOWlzg40mqpbSNex3a9Nx3c_w",
+      "link": "https://www.youtube.com/shorts/s4Bk_4LS3SY",
+      "groups": [
+        "invoice_sales_return_supplier_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn khách thành viên [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/7rB5M7YWGeY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDdtpBQKfQ5ROzsHuj5K8Rwb5TGNg",
+      "link": "https://www.youtube.com/shorts/7rB5M7YWGeY",
+      "groups": [
+        "invoice_sales_return_customer_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn khách lẻ [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/TDRq5h4L5Zw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBi6RWdOSRrGkwO4y0ikeLzwHqOVg",
+      "link": "https://www.youtube.com/shorts/TDRq5h4L5Zw",
+      "groups": [
+        "invoice_sales_return_retail_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn xuất hủy hàng [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/KDX3FjvWbqQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDGtM9h5zvlmxbMSEfw9AGQGAV6LQ",
+      "link": "https://www.youtube.com/shorts/KDX3FjvWbqQ",
+      "groups": [
+        "invoice_destroy_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Xuất nguyên liệu bếp [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/3ddHdeopxJg/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDwGvycfwtLqRysXvGqFOiYndqf_w",
+      "link": "https://www.youtube.com/shorts/3ddHdeopxJg",
+      "groups": [
+        "invoice_export_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Tạo đơn tồn hàng đầu kỳ [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/BPmKFjTn5fc/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDubBOGwOb1xWxHt7VXog84mGXYyw",
+      "link": "https://www.youtube.com/shorts/BPmKFjTn5fc",
+      "groups": [
+        "invoice_opening_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Trả lại nhà cung cấp [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Ol3WpFSNfZE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCXKJio7b0uc-QEYcK3AHz8hHydwg",
+      "link": "https://www.youtube.com/shorts/Ol3WpFSNfZE",
+      "groups": [
+        "invoice_return_supplier"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Mua,nhập từ nhà cung cấp [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/f4ALk4DjBww/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCnQwNNJSSnKJXoP6r2l1jBdr-e8g",
+      "link": "https://www.youtube.com/shorts/f4ALk4DjBww",
+      "groups": [
+        "invoice_purchase"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Nhập nguyên liệu bếp [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/wrFxAb6lnZw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDWUMz93kpBsjlQN0IOFJrVjJvX3g",
+      "link": "https://www.youtube.com/shorts/wrFxAb6lnZw",
+      "groups": [
+        "invoice_import_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn nguyên liệu [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/B55MBx-LOHg/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB-wpA3DYNN0JjoMuJaYy8FOuNjpg",
+      "link": "https://www.youtube.com/shorts/B55MBx-LOHg",
+      "groups": [
+        "invoice_ingredient"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn bán hàng [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/LqezParlg2A/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAqTtTpwZgrRxZv7wgG4h08KZhrnQ",
+      "link": "https://www.youtube.com/shorts/LqezParlg2A",
+      "groups": [
+        "invoice_order_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dịch vụ - Danh mục dịch vụ [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/_fl6xrrdNI4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDtaaFUc5E08n0HQ00DCyUsRuW7TA",
+      "link": "https://www.youtube.com/shorts/_fl6xrrdNI4",
+      "groups": [
+        "service_service_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dịch vụ - Danh sách dịch vụ [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/mpSFnxENK9g/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCMiItZ4xpBzwrhOSasEI80A016PQ",
+      "link": "https://www.youtube.com/shorts/mpSFnxENK9g",
+      "groups": [
+        "service_service_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Nguyên liệu - In tem hàng loạt [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/QbowpLtO34A/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLATACVM_-ZSDkUAhWUtm1xju1-h9A",
+      "link": "https://www.youtube.com/shorts/QbowpLtO34A",
+      "groups": [
+        "ingredient_print_barcode"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Nguyên liệu - Danh mục nguyên liệu [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/pbB_eLSLVwE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDVCTrlAaZGqAL2P4dLrBXQMjUiRQ",
+      "link": "https://www.youtube.com/shorts/pbB_eLSLVwE",
+      "groups": [
+        "ingredient_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Nguyên liệu - Danh sách nguyên liệu lô/hsd [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/eItpgFi9Lx4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBdlHnt9EbrhHtSZIS_u1YKflmOMw",
+      "link": "https://www.youtube.com/shorts/eItpgFi9Lx4",
+      "groups": [
+        "ingredient_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Nguyên liệu - Danh sách nguyên liệu [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/w-uOEiEBkJ4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD1GeMltI8eXlAMZrxf8RW9yGMGcQ",
+      "link": "https://www.youtube.com/shorts/w-uOEiEBkJ4",
+      "groups": [
+        "ingredient_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem lô [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/7Wk5DfLb2-4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCtwykoS0lGOM8jmytbZFc-EGGE4A",
+      "link": "https://www.youtube.com/shorts/7Wk5DfLb2-4",
+      "groups": [
+        "design_design_label"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem nguyên liệu [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/OPat45HopPk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBWHHNhx5Z_4A26F3Vbow7JGuR5vA",
+      "link": "https://www.youtube.com/shorts/OPat45HopPk",
+      "groups": [
+        "design_design_label"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem món [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/HtOyPAPYGOM/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBFKPzhpwtZZv-2k4KVaAZLnmABpg",
+      "link": "https://www.youtube.com/shorts/HtOyPAPYGOM",
+      "groups": [
+        "design_design_label"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Khu/quầy điều phối [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/o2r1hkd2GIw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLArJ6qUrS24pNDdXasrSDahKZmm0g",
+      "link": "https://www.youtube.com/shorts/o2r1hkd2GIw",
+      "groups": [
+        "design_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Khu vực [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/T-crQZhKk9I/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDGU_ThpVb3a7BbwljjuH5PQyH56w",
+      "link": "https://www.youtube.com/shorts/T-crQZhKk9I",
+      "groups": [
+        "design_area"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh mục toppings  [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/ehRbCOf8CCI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB4xF-qZK6VXIr_ymxxov8R13jZmQ",
+      "link": "https://www.youtube.com/shorts/ehRbCOf8CCI",
+      "groups": [
+        "dishes_topping_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh mục combo [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/4HD0138E2q8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLACHsO4pgYuanFGWLOJXXvVq33Npg",
+      "link": "https://www.youtube.com/shorts/4HD0138E2q8",
+      "groups": [
+        "dishes_combo_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Combo [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/jU_oPBZVrZI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCAj3Qog3wQV7QOH40OzjoFL_HryA",
+      "link": "https://www.youtube.com/shorts/jU_oPBZVrZI",
+      "groups": [
+        "dishes_combo"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh mục món ăn [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Gz6YyxYy_VA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD0LDP-nLx6DEatOdypS9v0M5oEsA",
+      "link": "https://www.youtube.com/shorts/Gz6YyxYy_VA",
+      "groups": [
+        "dishes_menu"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh sách món ăn [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/vZOrrG6aD0k/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLArcjyH8zh6A81UZ5A82EFDaFiopQ",
+      "link": "https://www.youtube.com/shorts/vZOrrG6aD0k",
+      "groups": [
+        "dishes_dish_list"
       ]
     }
   ]
