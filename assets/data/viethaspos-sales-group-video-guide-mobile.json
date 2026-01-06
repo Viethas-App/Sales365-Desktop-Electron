@@ -1,6 +1,622 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Cài đặt -  Báo cáo   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/tio_B9MWuno/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCah-TqTdoWjVKoREOYqwCDLqfp_g",
+      "link": "https://www.youtube.com/watch?v=tio_B9MWuno",
+      "groups": [
+        "settings_configuration_sale_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt -  Hóa đơn   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/aFjR4GW39oo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBj6hP5PDvathJzy2EmI5Dwesgetg",
+      "link": "https://www.youtube.com/watch?v=aFjR4GW39oo",
+      "groups": [
+        "settings_configuration_invoices"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt -  Sản phẩm    [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/INSXK0ARoJ4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLAS6eFHgns7hhd-sgbOW5Il0JZTaw",
+      "link": "https://www.youtube.com/watch?v=INSXK0ARoJ4",
+      "groups": [
+        "settings_configuration_products"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt -  Hóa đơn điện tử   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/EWG21ZKdPjk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBox6GUDl4gEYZxg4sJyc1ZlnA_vQ",
+      "link": "https://www.youtube.com/watch?v=EWG21ZKdPjk",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt -  Định dạng tiền tệ    [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/cd1WAA_T_EE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLDurCn5SEpBs0ysjE5PrIrphKHVNQ",
+      "link": "https://www.youtube.com/watch?v=cd1WAA_T_EE",
+      "groups": [
+        "settings_configuration_currency_format"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt -  Hiển thị   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/vhsCvw-CiCg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLB9oNAXuN6yQT2yMfOQMTKE2sz2ZQ",
+      "link": "https://www.youtube.com/watch?v=vhsCvw-CiCg",
+      "groups": [
+        "settings_configuration_display"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thông tin cửa hàng  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/y1WFXLjBah0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLB4d2GVHVqLHEpR3o5VSoL89sVbKw",
+      "link": "https://www.youtube.com/watch?v=y1WFXLjBah0",
+      "groups": [
+        "settings_store_information"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Đổi điểm lấy thẻ trả trước  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/TushScZjI5w/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLCgH_MUAq6rC1GPSRJ6JQwlWheTeg",
+      "link": "https://www.youtube.com/watch?v=TushScZjI5w",
+      "groups": [
+        "sales_program_card_goods_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Hóa đơn bán thẻ trả trước  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/33MmrvgWtKg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLCAZz5qBJkSuWR_qExfTN3TANZy1Q",
+      "link": "https://www.youtube.com/watch?v=33MmrvgWtKg",
+      "groups": [
+        "sales_program_card_goods_sell_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Phát hành thẻ trả trước  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/2JUMydMC264/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLCIiGRG2vFW6kxwUBM1esB9qTn05g",
+      "link": "https://www.youtube.com/watch?v=2JUMydMC264",
+      "groups": [
+        "sales_program_card_goods_releases"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Danh sách thẻ   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Wt5NnjciaOY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLBeB6TAsdn7d645K620eWnDqngMtQ",
+      "link": "https://www.youtube.com/watch?v=Wt5NnjciaOY",
+      "groups": [
+        "sales_program_card_goods_list_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Đổi điểm sang voucher [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/YobukzvEvwM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLAA_xHYBpsVXuB0TQh7H2309gh2cA",
+      "link": "https://www.youtube.com/watch?v=YobukzvEvwM",
+      "groups": [
+        "sales_program_voucher_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Báo cáo voucher  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/wCGnH52xjuI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLDdzCaISGODl0FU4wmhQVnRTuIZ4g",
+      "link": "https://www.youtube.com/watch?v=wCGnH52xjuI",
+      "groups": [
+        "sales_program_voucher_report_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Hóa đơn bán voucher [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/jpDDdfmxB38/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLAoVuxtRroowd0hBRYyU15OlwTUCg",
+      "link": "https://www.youtube.com/watch?v=jpDDdfmxB38",
+      "groups": [
+        "sales_program_voucher_buy_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Phát hành voucher  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/8Bqis05DXVo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLANfN4IBGc0cDlfHm092k5CbmjMjA",
+      "link": "https://www.youtube.com/watch?v=8Bqis05DXVo",
+      "groups": [
+        "sales_program_voucher_releases_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Danh sách voucher [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/qT6TVqcUhsw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLDLkwin1EPzfS6P1vZLIhhrKfo1mg",
+      "link": "https://www.youtube.com/watch?v=qT6TVqcUhsw",
+      "groups": [
+        "sales_program_voucher_list_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Điểm quy đổi coupon  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/xELEe0rhMX4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLBvaTdLG38sZo-en7F2b9Rfok1y6w",
+      "link": "https://www.youtube.com/watch?v=xELEe0rhMX4",
+      "groups": [
+        "sales_program_coupons_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Phát hành coupon  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/cu5FxAMq-Y0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLDZAoRRZG0K-pucipvIdEnjQ5VIKA",
+      "link": "https://www.youtube.com/watch?v=cu5FxAMq-Y0",
+      "groups": [
+        "sales_program_coupons_publish_coupon"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Danh sách coupon  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/-3tvmxwwClg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLDE5IMss_1an4jDn-wayty4rXOEtA",
+      "link": "https://www.youtube.com/watch?v=-3tvmxwwClg",
+      "groups": [
+        "sales_program_coupons_list_coupons"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Quản lý điểm  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/DspnkuVdEYc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLD27cd--NfE7mbYsGp6jfqvX9-Fzw",
+      "link": "https://www.youtube.com/watch?v=DspnkuVdEYc",
+      "groups": [
+        "sales_program_reward_points_manage_point"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Chiết khấu KH Theo sản phẩm  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/XgxxfkWKNCU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgSIHIoPjAP&rs=AOn4CLBbPyqW90P9k-q7goiHxvy1-Ww5GA",
+      "link": "https://www.youtube.com/watch?v=XgxxfkWKNCU",
+      "groups": [
+        "sales_program_reward_points_by_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Chiết khấu KH theo hóa đơn  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/fqdprm348to/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgSIHIoPjAP&rs=AOn4CLDsKnJeVlxXCgPWDJ105kLOuqsYgg",
+      "link": "https://www.youtube.com/watch?v=fqdprm348to",
+      "groups": [
+        "sales_program_reward_points_by_bill"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Chiết khấu khách hàng  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Qwjo88CTJfg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPjAP&rs=AOn4CLA2sNSQOtYZh2LgeQGDjIqsBie9kg",
+      "link": "https://www.youtube.com/watch?v=Qwjo88CTJfg",
+      "groups": [
+        "sales_program_discount_customer_sales_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Khuyến mãi   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/1KXZ_Jd6SHY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLByVbvW8yMWphSyHlacjxyKZHfvVQ",
+      "link": "https://www.youtube.com/watch?v=1KXZ_Jd6SHY",
+      "groups": [
+        "sales_program_promotions"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế tem sản phẩm  - Thiết kế tem lô  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/-NbIRKYtNfA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLDYTWnQXKwnANDcRUizFna7isdnUA",
+      "link": "https://www.youtube.com/watch?v=-NbIRKYtNfA",
+      "groups": [
+        "design_barcode_label_lots"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế tem sản phẩm  - Thiết kế tem sản phẩm   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/JycKz20IjyU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBGH2Akpfp6iphf2TnY5DJvIqy1-w",
+      "link": "https://www.youtube.com/watch?v=JycKz20IjyU",
+      "groups": [
+        "design_barcode_label_products"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thuế  - Thuế   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/c5EKgkdI-DY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoQDAP&rs=AOn4CLDEHONRCl5IgfGe5vWiA2B2UxObDA",
+      "link": "https://www.youtube.com/watch?v=c5EKgkdI-DY",
+      "groups": [
+        "tax"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng từ web /app  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/nDgComh3e2k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLC-s_ONvUenQKLH9yqAOZMTIKKgXw",
+      "link": "https://www.youtube.com/watch?v=nDgComh3e2k",
+      "groups": [
+        "partner_customer_online_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Hạng nhân viên  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/dK8E9kewQ6E/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBXRImSbKt3WSJ_sTx4SL5nbOoyVQ",
+      "link": "https://www.youtube.com/watch?v=dK8E9kewQ6E",
+      "groups": [
+        "partner_employee_group"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Hạng khách hàng [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/-4ER2XDfrqc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBcCsDcKeBDfXYZ-qacZJcFhKNUNA",
+      "link": "https://www.youtube.com/watch?v=-4ER2XDfrqc",
+      "groups": [
+        "partner_customer_group"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Nhà cung cấp  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/_yTledBeSj0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBmBUPmbdJ-SZnDcMI9lwxtqBnJQw",
+      "link": "https://www.youtube.com/watch?v=_yTledBeSj0",
+      "groups": [
+        "partner_supplier"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/bSZHSiI1YsA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLDi-29IQ_E9mk2IsRDE-Qd4K07osQ",
+      "link": "https://www.youtube.com/watch?v=bSZHSiI1YsA",
+      "groups": [
+        "partner_customer_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Nhân viên  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/PZO4TPplgh0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBh5J5aEdBQnrzG-9yzpPmsWsRRag",
+      "link": "https://www.youtube.com/watch?v=PZO4TPplgh0",
+      "groups": [
+        "partner_employee_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Đối soát xuất nhập hàng [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/5Egz9dQwxDE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBY_okJKGy5kjl9GHgtjsKWPPpGuA",
+      "link": "https://www.youtube.com/watch?v=5Egz9dQwxDE",
+      "groups": [
+        "stock_goods_control"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Nhận hàng   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/vryfiAsFcIo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCRabT_lKbGEPFJpqt56UZdN6YiPg",
+      "link": "https://www.youtube.com/watch?v=vryfiAsFcIo",
+      "groups": [
+        "stock_receive"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Chuyển hàng   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/gJQNqKMq3YU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLAexawK6fcCJRxLor4Z4VPzJkMW0w",
+      "link": "https://www.youtube.com/watch?v=gJQNqKMq3YU",
+      "groups": [
+        "stock_delivery"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Xuất hủy hàng hóa   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/2W9Meiri0mw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLDUYC2GqMlZ5g7KEIdkqQjmljdVWw",
+      "link": "https://www.youtube.com/watch?v=2W9Meiri0mw",
+      "groups": [
+        "stock_destroy_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Báo cáo kiểm kho   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/wL_HwyPx9g8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCf1YowSK2el6LvO2HDPHL4BJWWxQ",
+      "link": "https://www.youtube.com/watch?v=wL_HwyPx9g8",
+      "groups": [
+        "stock_report_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Kiểm kho   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/b1eudZgbqZU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBaZsFxmx0A1zC_do0hNWZNmpSa_w",
+      "link": "https://www.youtube.com/watch?v=b1eudZgbqZU",
+      "groups": [
+        "stock_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Chuyển tiền   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/gg7vZ8kCljc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLDPKIXB5Gbhu7GXhWHRJvswLo2D2Q",
+      "link": "https://www.youtube.com/watch?v=gg7vZ8kCljc",
+      "groups": [
+        "cashflow_transfers"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Tài khoản thanh toán  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/giCLX2bFd_A/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLDliWdo-dRPzYpaxT_3tDx_Yh6MPw",
+      "link": "https://www.youtube.com/watch?v=giCLX2bFd_A",
+      "groups": [
+        "cashflow_wallet"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ khách hàng   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/PL63_nWnElI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLAM3pcAqFJQ_8Nmm3j2ppBH8W5_eQ",
+      "link": "https://www.youtube.com/watch?v=PL63_nWnElI",
+      "groups": [
+        "cashflow_customer_debt"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ nhà cung cấp  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/bBhbwK3kDmk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCdBt7xVcF09vJyUlEz926j4jHMpw",
+      "link": "https://www.youtube.com/watch?v=bBhbwK3kDmk",
+      "groups": [
+        "cashflow_supplier_liability"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Nhật ký thu chi  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/zlC-IO0CT9g/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLDDytLHVRxFjBh14B-SeT-Unl4ycA",
+      "link": "https://www.youtube.com/watch?v=zlC-IO0CT9g",
+      "groups": [
+        "cashflow_diary"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Phiếu chi   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/wsDCDcy728U/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLB8LqHyQE-Ck6msSepqScMxa5kHaA",
+      "link": "https://www.youtube.com/watch?v=wsDCDcy728U",
+      "groups": [
+        "cashflow_expenses"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Phiếu thu   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/6ncy8sf8luc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCFj9YyW5vFy9C_HkHku8wPfdli6w",
+      "link": "https://www.youtube.com/watch?v=6ncy8sf8luc",
+      "groups": [
+        "cashflow_receipts"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Số quỹ tiền mặt   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/wIvA1d--an8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLAAsTJorPFCS4Ddb0Bz9L1lxGBH6w",
+      "link": "https://www.youtube.com/watch?v=wIvA1d--an8",
+      "groups": [
+        "cashflow_cashbook"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số thẻ trả trước [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/wQ3r81d7SO4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLAuxGuWufsSYmoG1-w2V4BfzY0Vhw",
+      "link": "https://www.youtube.com/watch?v=wQ3r81d7SO4",
+      "groups": [
+        "report_sales_payment_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số Voucher  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/1kgcPZazXYY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLD8i1OC62eumEHMMqZFLiykPJkQMA",
+      "link": "https://www.youtube.com/watch?v=1kgcPZazXYY",
+      "groups": [
+        "report_sales_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Nhập   xuất   trả   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/oEqCkruxThU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCXt698VeS-lxiXu3eGf-grTTbzdg",
+      "link": "https://www.youtube.com/watch?v=oEqCkruxThU",
+      "groups": [
+        "report_input_output_return"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Nhập   xuất   tồn   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/V_ZpgKteilQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLB8Ch9w_WKgzrYOWaGlKx-0u_f9aA",
+      "link": "https://www.youtube.com/watch?v=V_ZpgKteilQ",
+      "groups": [
+        "report_input_output_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Sản phẩm sắp hết hàng    [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/9BTBgI2I9aU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLDizoW1E3kGQpGLWZ8Vc9h6VV7-qA",
+      "link": "https://www.youtube.com/watch?v=9BTBgI2I9aU",
+      "groups": [
+        "report_out_of_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số sản phẩm  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/hJiuZ7mKhPs/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLD0tLCsLdAjUnoN8QQnfCIBcfwZCg",
+      "link": "https://www.youtube.com/watch?v=hJiuZ7mKhPs",
+      "groups": [
+        "report_sales_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số nhân viên  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/XjVFnlVQ3gg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLANejKWmwKyMTUxl8q-Jobu3VuYKA",
+      "link": "https://www.youtube.com/watch?v=XjVFnlVQ3gg",
+      "groups": [
+        "report_sales_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số khách hàng  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/pBYgoF4__LI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLAQjfBJhfhBH-W5qDV8mz4zZz1yIQ",
+      "link": "https://www.youtube.com/watch?v=pBYgoF4__LI",
+      "groups": [
+        "report_sales_customer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số, doanh thu   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/pqc4Fcm18-Y/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLAAS_4ubiQRXEoy7GIeKO6W2koCpg",
+      "link": "https://www.youtube.com/watch?v=pqc4Fcm18-Y",
+      "groups": [
+        "report_sales_profit"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn thanh toán bảo hành, sửa chữa   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/zhfTvwTm1sI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLBx217ZT1YaOipkZwfV8FtB990vwg",
+      "link": "https://www.youtube.com/watch?v=zhfTvwTm1sI",
+      "groups": [
+        "invoice_warranty"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn  nhà cung cấp  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/W5sOl8i-pYk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLB6feXY66fPVgvn0a55WPRWAnmfGQ",
+      "link": "https://www.youtube.com/watch?v=W5sOl8i-pYk",
+      "groups": [
+        "invoice_sales_return_supplier_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn  khách thành viên   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Nt-gkn4-Qoo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLAoEDzpiOlIoCs8-9K3HUT_ZBCxcQ",
+      "link": "https://www.youtube.com/watch?v=Nt-gkn4-Qoo",
+      "groups": [
+        "invoice_sales_return_customer_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn khách lẻ   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/T5HLnzYikDA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBrnCbJafDnfC8zOGONaMwgcJPiqQ",
+      "link": "https://www.youtube.com/watch?v=T5HLnzYikDA",
+      "groups": [
+        "invoice_sales_return_retail_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn nhập tạm   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/BsOHcXvCOoM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBOX0ckr07agOw9zVXQRMsmHpdUPQ",
+      "link": "https://www.youtube.com/watch?v=BsOHcXvCOoM",
+      "groups": [
+        "invoice_temporary_purchase_invoice_warranty"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn bán tạm    [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/ZS6hcW1Vfvw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCI114ZdstsUW-HnE_tu6MTLWwCAA",
+      "link": "https://www.youtube.com/watch?v=ZS6hcW1Vfvw",
+      "groups": [
+        "invoice_temporary_sales_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn -Tạo đơn trả hàng nhà cung cấp   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/huuWePUWjNo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLA-nfkn70xYQ3GeoxoDGLXrefWcbw",
+      "link": "https://www.youtube.com/watch?v=huuWePUWjNo",
+      "groups": [
+        "invoice_supplier_return"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn xuất hủy hàng hóa [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/rHzWH-NVyeQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLB5qIhULO4rbeITsBXdhkJhLgAsUg",
+      "link": "https://www.youtube.com/watch?v=rHzWH-NVyeQ",
+      "groups": [
+        "invoice_destroy_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Tạo đơn mua, nhập hàng  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/JqbjqIA2-ls/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLDaZF1WEHlSalQBVyO46MSaxO3_MA",
+      "link": "https://www.youtube.com/watch?v=JqbjqIA2-ls",
+      "groups": [
+        "invoice_purchase"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn thanh toán bảo hành, sửa chữa  [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/EXngr9DNIWo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLACOIjQxhipavcy8LIPnaIdEvuONw",
+      "link": "https://www.youtube.com/watch?v=EXngr9DNIWo",
+      "groups": [
+        "warranty_invoices"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Tạo đơn tồn hàng đầu kỳ   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/qk4dJikWU8I/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLATN_ZrPJjYqBDq0IWY73AOtPJahA",
+      "link": "https://www.youtube.com/watch?v=qk4dJikWU8I",
+      "groups": [
+        "invoice_opening_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Tạo đơn khách trả hàng   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/9ZMG_tfwhnA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCymRmluim1MDzyxoTBLnpTeE7IRg",
+      "link": "https://www.youtube.com/watch?v=9ZMG_tfwhnA",
+      "groups": [
+        "invoice_customer_return"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn nhập/ trả nhà cung cấp   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Mb6jum1G1ks/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIHIoPzAP&rs=AOn4CLDEmv-Ro0C3hhxzwrDAqvJVBv6wHw",
+      "link": "https://www.youtube.com/watch?v=Mb6jum1G1ks",
+      "groups": [
+        "invoice_purchase_return_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn bán/ khách trả   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/W0ZtQB4CVss/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCJ5aS0iCgA1V9JWjc4verafDHxaw",
+      "link": "https://www.youtube.com/watch?v=W0ZtQB4CVss",
+      "groups": [
+        "invoice_sales_return_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Danh mục combo   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Mz8G_dFAdZc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLBvcJDDFMqp2NpbDbUxbu0x0Ksa9Q",
+      "link": "https://www.youtube.com/watch?v=Mz8G_dFAdZc",
+      "groups": [
+        "product_combo_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Combo   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/_0DC-Li2vGo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCfpFwmn2EYwHqK5S0Ddn9DCAXO2A",
+      "link": "https://www.youtube.com/watch?v=_0DC-Li2vGo",
+      "groups": [
+        "product_combo_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Danh mục dịch vụ   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/ohuvRqJXK1o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLAf1gZyhhOLkObNA9zvn1tgbBGEXg",
+      "link": "https://www.youtube.com/watch?v=ohuvRqJXK1o",
+      "groups": [
+        "product_service_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Danh sách dịch vụ   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/S4jlK2JFqg4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCiUNCh6nsay_oq2--pZ8Sk6GZrMg",
+      "link": "https://www.youtube.com/watch?v=S4jlK2JFqg4",
+      "groups": [
+        "product_service_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Danh mục sản phẩm   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/tsUv0ydUn8o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCvHg5ehGBAuibD8ZYNrCbO35hTQA",
+      "link": "https://www.youtube.com/watch?v=tsUv0ydUn8o",
+      "groups": [
+        "product_product_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Danh sách sản phẩm   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/T-MENliqA08/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLACag9nG6os-7MdJec6YurL_Pf4tw",
+      "link": "https://www.youtube.com/watch?v=T-MENliqA08",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn điện tử   [ViethasPos-sales-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Z_F3MFdvN7o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLD5QY4Tv_RQCEDaQLCBvQ1LBe0Z8A",
+      "link": "https://www.youtube.com/watch?v=Z_F3MFdvN7o",
+      "groups": [
+        "invoice_e_invoice"
+      ]
+    },
+    {
       "title": "Hướng dẫn máy in hóa đơn TD - 80 (USB + LAN) in từ địa chỉ IP trên app bán hàng Viethas Pos",
       "image": "https://i.ytimg.com/vi/uctQYtRwfFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLIb219bK0FQpiuEocZLSBEykT7g",
       "link": "https://www.youtube.com/watch?v=uctQYtRwfFk",

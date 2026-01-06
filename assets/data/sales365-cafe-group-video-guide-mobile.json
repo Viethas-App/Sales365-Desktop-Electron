@@ -1,5 +1,460 @@
 {
   "vi": [
-
+    {
+      "title": "Hướng dẫn Đối tác - Hạng khách hàng [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/nYqmvbo9PXw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCZZ2R2wMgMrXDl7QJbFibrbRwZ9g",
+      "link": "https://www.youtube.com/shorts/nYqmvbo9PXw",
+      "groups": [
+        "partner_customer_group"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Đối soát thu chi [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/-DEi2COB0AQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCkr6TxvV1OdYSduSUBwTEzjyhJ4A",
+      "link": "https://www.youtube.com/shorts/-DEi2COB0AQ",
+      "groups": [
+        "cashflow_money_control"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ khách hàng đầu kỳ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/ZUp-d5AMOmg/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBxpB0m0C6LIOLO1yfkvVse2c206Q",
+      "link": "https://www.youtube.com/shorts/ZUp-d5AMOmg",
+      "groups": [
+        "cashflow_beginning_customer_debt"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ nhà cung cấp đầu kỳ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/yXprC4cSUEQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDzm8eD6IWZyKMUbZDq86AzyDosiw",
+      "link": "https://www.youtube.com/shorts/yXprC4cSUEQ",
+      "groups": [
+        "cashflow_beginning_supplier_liability"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ khách hàng [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/E3VYR9pczzI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCmAhZBx9pR3E7cGEnY8HmAR_NlFw",
+      "link": "https://www.youtube.com/shorts/E3VYR9pczzI",
+      "groups": [
+        "cashflow_customer_debt"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ nhà cung cấp [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Pg1QUK2jt5s/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCuXwbnm_0NCYSx3elfo4aRpiQetQ",
+      "link": "https://www.youtube.com/shorts/Pg1QUK2jt5s",
+      "groups": [
+        "cashflow_supplier_liability"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Phiếu chi [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/EZIJMLkciYs/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDC0FwL97ECL6mKqWTapEr8seTQsQ",
+      "link": "https://www.youtube.com/shorts/EZIJMLkciYs",
+      "groups": [
+        "cashflow_expenses"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Phiếu thu [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/qK_A4kqOd7Y/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCakQK7y5PHb8VDIaDjEudFct4vZA",
+      "link": "https://www.youtube.com/shorts/qK_A4kqOd7Y",
+      "groups": [
+        "cashflow_receipts"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Nhật ký thu chi [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/K5SFpE-XxcE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB7V2GF0gfnpRESMvMofB9sLa0Flw",
+      "link": "https://www.youtube.com/shorts/K5SFpE-XxcE",
+      "groups": [
+        "cashflow_diary"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Số quỹ tiền mặt [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/5WKr9B-0Ni4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCMFEc4K7atLdhJPWFduikmV0s0iQ",
+      "link": "https://www.youtube.com/shorts/5WKr9B-0Ni4",
+      "groups": [
+        "cashflow_cashbook"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số thẻ trả trước [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/I2LHwRSEWtc/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC54nvn0U1LUM70vQlYe_X-Zk6Rzw",
+      "link": "https://www.youtube.com/shorts/I2LHwRSEWtc",
+      "groups": [
+        "report_sales_payment_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số voucher  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/aKjpjQK5Xas/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDRx-dNmcFodwuiVAIhtIby08IjCA",
+      "link": "https://www.youtube.com/shorts/aKjpjQK5Xas",
+      "groups": [
+        "report_sales_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/ch_CIByuL9c/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBja5ziHwDdFrInaBhwNco-K-Klkg",
+      "link": "https://www.youtube.com/shorts/ch_CIByuL9c",
+      "groups": [
+        "partner_customer_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Nhập xuất trả [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/1ybqd5YrTps/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDOWy6xGCf5XhptlNTQDBKO-bUxcQ",
+      "link": "https://www.youtube.com/shorts/1ybqd5YrTps",
+      "groups": [
+        "report_input_output_return"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Nhập xuất tồn [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/C73-ZnGo478/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAmR-SSXgHSI1nEg8sRjE04UrRp3w",
+      "link": "https://www.youtube.com/shorts/C73-ZnGo478",
+      "groups": [
+        "report_input_output_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Sản phẩm sắp hết hàng [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/SdK0RmghQrg/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA3SC2vM-t9xgBTKm2PG6QNSXq9vg",
+      "link": "https://www.youtube.com/shorts/SdK0RmghQrg",
+      "groups": [
+        "report_out_of_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo -  Doanh số nguyên liệu [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/gul5uwsTvr8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCxiSEfvxF4f6j7yK--_wULu9OByg",
+      "link": "https://www.youtube.com/shorts/gul5uwsTvr8",
+      "groups": [
+        "report_sales_ingredient"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số dịch vụ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/gVTgjMYHDGA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCvjL3SfnP5QTkuPVH7_3Xs-smaUg",
+      "link": "https://www.youtube.com/shorts/gVTgjMYHDGA",
+      "groups": [
+        "report_sales_service"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số món ăn [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Nn03kLZ177k/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAVhsvGYgCzhlttkUDkjv_od4Zs4A",
+      "link": "https://www.youtube.com/shorts/Nn03kLZ177k",
+      "groups": [
+        "report_sales_dishes"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số nhân viên  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/zkzlvv__TA0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDcjGURqDksi6a2AoMMCtBTQbhIDg",
+      "link": "https://www.youtube.com/shorts/zkzlvv__TA0",
+      "groups": [
+        "report_sales_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số khách hàng [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/pefFT8pWkT8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBLns9Uj96i5a1NWwdx2uSmD-jE1Q",
+      "link": "https://www.youtube.com/shorts/pefFT8pWkT8",
+      "groups": [
+        "report_sales_customer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số bàn [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/7zXxrdZmmy4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDHVg4C17i-cj15568BYLFwRz1xbA",
+      "link": "https://www.youtube.com/shorts/7zXxrdZmmy4",
+      "groups": [
+        "report_sales_table"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số khu vực [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/a1s5EwHp6qQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDmwqjyAWS_79YIzY2AiwwvzBgmtQ",
+      "link": "https://www.youtube.com/shorts/a1s5EwHp6qQ",
+      "groups": [
+        "report_sales_area"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Danh số doanh mục [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/IMB6jIYRETY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAEctcS3YWQiQzVS6oN5IKW3zGI8Q",
+      "link": "https://www.youtube.com/shorts/IMB6jIYRETY",
+      "groups": [
+        "report_sales_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Danh mục bán chạy [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/4MUm3YK4_Qs/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB1REFesxwGj3xWUuNbvH2GSk9UEA",
+      "link": "https://www.youtube.com/shorts/4MUm3YK4_Qs",
+      "groups": [
+        "report_best_selling_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Món ăn bán chạy [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/mectBEX5eKQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD3Ml8MvpqNPFlvbnG1uzumQxH21A",
+      "link": "https://www.youtube.com/shorts/mectBEX5eKQ",
+      "groups": [
+        "report_best_selling_dishes"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số, doanh thu [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/6MClwga5GM4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAPy4pG0fUz9JrTgpea944xnRvXng",
+      "link": "https://www.youtube.com/shorts/6MClwga5GM4",
+      "groups": [
+        "report_sales_profit"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn điên tử [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/871exyw0yFw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCnvpuA9yqUFeSIgeQxptpIg3_j4w",
+      "link": "https://www.youtube.com/shorts/871exyw0yFw",
+      "groups": [
+        "invoice_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn nhà cung cấp [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/v4hFmEzWvoE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDbZ8YZUTGVEKBkdcoaoZYapqJnFw",
+      "link": "https://www.youtube.com/shorts/v4hFmEzWvoE",
+      "groups": [
+        "invoice_sales_return_supplier_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn khách thành viên  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/l_lT5W0ZN7w/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAIJovExw2ejJrpCh-qfe9ZsautTA",
+      "link": "https://www.youtube.com/shorts/l_lT5W0ZN7w",
+      "groups": [
+        "invoice_sales_return_customer_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn khách lẻ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/UFvg6EJU468/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAWOHfwAGMLWpEaEqVrl4XoRJ6ibg",
+      "link": "https://www.youtube.com/shorts/UFvg6EJU468",
+      "groups": [
+        "invoice_sales_return_retail_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn xuất hủy hàng  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/YRiDLjUA6Fg/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDtbki177DVR14G29QUBW5-GpgrBA",
+      "link": "https://www.youtube.com/shorts/YRiDLjUA6Fg",
+      "groups": [
+        "invoice_destroy_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Tạo đơn tồn hàng đầu kỳ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/r_tm3_YlMUk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLClKGoHHk_6dRUBMhnrqgJ-0t8vbQ",
+      "link": "https://www.youtube.com/shorts/r_tm3_YlMUk",
+      "groups": [
+        "invoice_opening_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Trả lại nhà cung cấp  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/MXO18y7ExmI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBgvE4CXHrdL34s-T9JcbqFBZ6pow",
+      "link": "https://www.youtube.com/shorts/MXO18y7ExmI",
+      "groups": [
+        "invoice_return_supplier"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Mua,nhập từ nhà cung cấp  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/QecAoPt2dxI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCwg0RBJmuQBB7OZiwkBlzFGe6RPA",
+      "link": "https://www.youtube.com/shorts/QecAoPt2dxI",
+      "groups": [
+        "invoice_purchase"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Xuất nguyên liệu bếp  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/y2Cg3x7rw0s/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAP3saMT1_K1L1UlvJeTF8sXB9XBg",
+      "link": "https://www.youtube.com/shorts/y2Cg3x7rw0s",
+      "groups": [
+        "invoice_export_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Nhập nguyên liệu bếp  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/EBRXjD8trnQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDX0lk_Xv_Hr_jyvlCtp7srBky3kA",
+      "link": "https://www.youtube.com/shorts/EBRXjD8trnQ",
+      "groups": [
+        "invoice_import_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn nguyên liệu  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/bTJ9GXQ7hdI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAtIgeIY-Y5b1GKLaz9YP_BkI6c9g",
+      "link": "https://www.youtube.com/shorts/bTJ9GXQ7hdI",
+      "groups": [
+        "invoice_ingredient"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn bán hàng  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/DUKKRUy7d_8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAwLcvMN-GWbuYtMRpSJz5Nn_Go5Q",
+      "link": "https://www.youtube.com/shorts/DUKKRUy7d_8",
+      "groups": [
+        "invoice_order_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dịch vụ -  Danh mục dịch vụ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/R-s2SpjwUnw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDOyJ6h_9CcQn8-Uj28900TQM6QtQ",
+      "link": "https://www.youtube.com/shorts/R-s2SpjwUnw",
+      "groups": [
+        "service_service_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dịch vụ -  Danh sách dịch vụ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/8W5Xnbl-62I/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBEeYUCnX5HN8XpTfuK3yWtn_JsLA",
+      "link": "https://www.youtube.com/shorts/8W5Xnbl-62I",
+      "groups": [
+        "service_service_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Nguyên liệu - In tem hàng loạt  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/UJa0rw6_aMk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLARBksqx0iQEdthzDx6n9bBNqrSlQ",
+      "link": "https://www.youtube.com/shorts/UJa0rw6_aMk",
+      "groups": [
+        "ingredient_print_barcode"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Nguyên liệu - Danh mục nguyên liệu [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/VB7Jk4Bm_Do/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCx03kEtkfIMlz08RdHx4SRrQ-nww",
+      "link": "https://www.youtube.com/shorts/VB7Jk4Bm_Do",
+      "groups": [
+        "ingredient_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Nguyên liệu - Danh sách nguyên liệu lô /hsd [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/XpA4D5wgtaw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAV4rhDaF-5h2kqzTypW_017kqiRA",
+      "link": "https://www.youtube.com/shorts/XpA4D5wgtaw",
+      "groups": [
+        "ingredient_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Nguyên liệu - Danh sách nguyên liệu [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/66kyoGmVBe0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA8iUidCOqkXDzRFP6lV_3hlUNdXQ",
+      "link": "https://www.youtube.com/shorts/66kyoGmVBe0",
+      "groups": [
+        "ingredient_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem lô  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/9DHxQE0CFww/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAQcB4CLScE5Bco8hvOvFQVNDocOg",
+      "link": "https://www.youtube.com/shorts/9DHxQE0CFww",
+      "groups": [
+        "design_design_label_batch_expiry"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem nguyên liệu   [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/4erd-jnFKv0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBVHF1BdmzzZmggtu1clzSYNyG4yA",
+      "link": "https://www.youtube.com/shorts/4erd-jnFKv0",
+      "groups": [
+        "design_design_label_ingredient"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem món   [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/hQYcW4VS8hs/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCCfLe2e2fI4i2BbDOasEblm9U-TQ",
+      "link": "https://www.youtube.com/shorts/hQYcW4VS8hs",
+      "groups": [
+        "design_design_label_dish"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Khu /quầy điều phối  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/4Td2Nn9XURE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBQ_eKz69SfMRX9GckvrGHDlSNtdw",
+      "link": "https://www.youtube.com/shorts/4Td2Nn9XURE",
+      "groups": [
+        "design_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Khu vực   [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/nRPlAKqW8Qo/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCNwlNR0lVUg_O7gyUS6sKQiz5ADA",
+      "link": "https://www.youtube.com/shorts/nRPlAKqW8Qo",
+      "groups": [
+        "design_area"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh mục Toppings   [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/WhZx6C8VwHs/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCdeW6w8pW20gs1twqkrBE_U2PkQg",
+      "link": "https://www.youtube.com/shorts/WhZx6C8VwHs",
+      "groups": [
+        "dishes_topping_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh mục combo   [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/ihsRhiA8ijA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBlZrDOOgxoazzsj32jr9Q1hNS3ug",
+      "link": "https://www.youtube.com/shorts/ihsRhiA8ijA",
+      "groups": [
+        "dishes_combo_category"
+      ]
+    },
+    {
+      "title": "Hư��ng dẫn Món ăn -thức uống - Combo   [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/aFKpZt9bPSE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCIlITzUlITBJVJTBGAIdPAbiYfcw",
+      "link": "https://www.youtube.com/shorts/aFKpZt9bPSE",
+      "groups": [
+        "dishes_combo"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh mục món ăn  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/dD9sLKawLds/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBPQZla_8e5jxCK_IjoxQORZwM1RQ",
+      "link": "https://www.youtube.com/shorts/dD9sLKawLds",
+      "groups": [
+        "dishes_menu"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh sách món ăn  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/FByu5P3JLTo/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDVMtSnFLpyz6AXKzk8Je2my9eaNA",
+      "link": "https://www.youtube.com/shorts/FByu5P3JLTo",
+      "groups": [
+        "dishes_dish_list"
+      ]
+    },
+    {
+    "title": "Hướng dẫn Đối tác - Hạng nhân viên [Sales365-F&B-mobile-VIE]",
+    "image": "https://i.ytimg.com/vi/TymCPJSlSSI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC5VdNBXVFPjEDkClfqyJSnfkZRyg",
+    "link": "https://www.youtube.com/shorts/TymCPJSlSSI",
+    "groups": [
+      "partner_employee_group"
+    ]
+  },
+  {
+    "title": "Hướng dẫn Đối tác - Nhà cung cấp [Sales365-F&B-mobile-VIE]",
+    "image": "https://i.ytimg.com/vi/LuC9zbpQnDM/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCLZzDuj8eZZRvMmEotb0hXM3QnMg",
+    "link": "https://www.youtube.com/shorts/LuC9zbpQnDM",
+    "groups": [
+      "partner_supplier"
+    ]
+  }
   ]
 }

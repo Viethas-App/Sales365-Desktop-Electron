@@ -1,8 +1,248 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Chương trình bán hàng - Báo cáo voucher [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/AMUgF_qmNNU/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC5DCdj9npDYgqUYW_12qQzdxGWqQ",
+      "link": "https://www.youtube.com/shorts/AMUgF_qmNNU",
+      "groups": [
+        "sales_program_voucher_report_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn bán voucher [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/86pc6uKwMk8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCyhR0rC9fDmibjX6fRfj0p351-JQ",
+      "link": "https://www.youtube.com/shorts/86pc6uKwMk8",
+      "groups": [
+        "sales_program_voucher_buy_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đợt phát hành voucher  [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/OQT_C9Bnxvk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDPqS-ac4cMnJ2fq5TxXW2tmWmW9w",
+      "link": "https://www.youtube.com/shorts/OQT_C9Bnxvk",
+      "groups": [
+        "sales_program_voucher_releases_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách voucher [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/atOrnyy-REQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBK5ahzZVev3SAU9bOhAz24T_lk2w",
+      "link": "https://www.youtube.com/shorts/atOrnyy-REQ",
+      "groups": [
+        "sales_program_voucher_list_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm lấy Coupons [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/lvY1y12VZUg/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB76QhlDodBeblThAO586jcy7hXcg",
+      "link": "https://www.youtube.com/shorts/lvY1y12VZUg",
+      "groups": [
+        "sales_program_coupons_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Phát hành Coupons [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Ih12zhfHcOI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAutOJaPnP0rG1D7_XYt9YVcw4RZQ",
+      "link": "https://www.youtube.com/shorts/Ih12zhfHcOI",
+      "groups": [
+        "sales_program_coupons_publish_coupon"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách Coupons [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/dnLdC1XNxYI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB9kWV5LSFxPn7GiVoL6-3sEckagQ",
+      "link": "https://www.youtube.com/shorts/dnLdC1XNxYI",
+      "groups": [
+        "sales_program_coupons_list_coupons"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Quản lý điểm [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/PlWz6rLs7EU/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC3_JIyR6gK7GHHgyR8iOcc3-4cCg",
+      "link": "https://www.youtube.com/shorts/PlWz6rLs7EU",
+      "groups": [
+        "sales_program_reward_points_manage_point"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điểm theo sản phẩm [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/K_03gSxCw-4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCmm7Sa8hfatF9ORzV0Ad9FNSta8g",
+      "link": "https://www.youtube.com/shorts/K_03gSxCw-4",
+      "groups": [
+        "sales_program_reward_points_by_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điểm theo hóa đơn [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/67PvjevqXaY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBv2-0Fk6rADEC1WfcvDM5719f-Pg",
+      "link": "https://www.youtube.com/shorts/67PvjevqXaY",
+      "groups": [
+        "sales_program_reward_points_by_bill"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hoa hồng nhân viên [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/wg7Z4JrRw4M/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCFKpJArBMr9YEolCkx03yHGr4K9w",
+      "link": "https://www.youtube.com/shorts/wg7Z4JrRw4M",
+      "groups": [
+        "sales_program_discount_employee_sales_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu hóa đơn bán hàng  [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/g5d3qxPaC5k/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAbqPoLiIoJqaPzjhFozgR0c6Qjvw",
+      "link": "https://www.youtube.com/shorts/g5d3qxPaC5k",
+      "groups": [
+        "sales_program_discount_customer_invoice_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu doanh số [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/-Zon7lxYWo8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBG7jYddT32DhZkHQXbCX3Tj-VXTg",
+      "link": "https://www.youtube.com/shorts/-Zon7lxYWo8",
+      "groups": [
+        "sales_program_discount_customer_sales_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Khuyến mãi [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/gcAUTZGBDqs/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAX7tjM8zmEzELCWv5mw1b712ydxw",
+      "link": "https://www.youtube.com/shorts/gcAUTZGBDqs",
+      "groups": [
+        "sales_program_promotions"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thuế - Thuế [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/0C8o7rUUIp4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLByTDUeJrMMpVBTVkROWPRbfp4hFg",
+      "link": "https://www.youtube.com/shorts/0C8o7rUUIp4",
+      "groups": [
+        "tax"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng từ web /app [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/umEQngbtIYk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCtceBYaCWLl30J38pyl5YCDnZLMQ",
+      "link": "https://www.youtube.com/shorts/umEQngbtIYk",
+      "groups": [
+        "partner_customer_online_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Nhà cung cấp [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/NKv_xmKHqxE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCJ7DtBGLK4i9GzOgUfo_LbJJfebQ",
+      "link": "https://www.youtube.com/shorts/NKv_xmKHqxE",
+      "groups": [
+        "partner_supplier"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Hạng nhân viên [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/SqqfQZLOT9c/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBuNa_C7T4Io-64ampRHCC5MXgmZA",
+      "link": "https://www.youtube.com/shorts/SqqfQZLOT9c",
+      "groups": [
+        "partner_employee_group"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Nhân viên [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/wP9yI_t9dlQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCXv52qLVbNghv_4w3A8mZDixtn_g",
+      "link": "https://www.youtube.com/shorts/wP9yI_t9dlQ",
+      "groups": [
+        "partner_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Hạng khách hàng  [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Z--sunOTlWE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAucsB4b_MTgOgItpfMYokuZLzDpw",
+      "link": "https://www.youtube.com/shorts/Z--sunOTlWE",
+      "groups": [
+        "partner_customer_group"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/pY-DvJig4ms/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDAzfiFi6ce6cpPfNdwYXc0fpj0xg",
+      "link": "https://www.youtube.com/shorts/pY-DvJig4ms",
+      "groups": [
+        "partner_customer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Đối soát thu chi [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/qsB87NMq0Yg/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB53a3UHtO4aj5yeDzgvpIQcqizLA",
+      "link": "https://www.youtube.com/shorts/qsB87NMq0Yg",
+      "groups": [
+        "cashflow_money_control"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ khách hàng đầu kỳ [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/yVLiVaM11a4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBdJE5J_BWkyCeT0Pujx74bzloduQ",
+      "link": "https://www.youtube.com/shorts/yVLiVaM11a4",
+      "groups": [
+        "cashflow_beginning_customer_debt"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ nhà cung cấp đầu kỳ [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/ZSYVaVjJJME/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBzXME3PAXe5P0pxn9E2UQvNQ55fg",
+      "link": "https://www.youtube.com/shorts/ZSYVaVjJJME",
+      "groups": [
+        "cashflow_beginning_supplier_liability"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ khách hàng [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/MFNMR1v7A9U/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCCWUFdEKuXSHeIW2vo4vmpoa5GLg",
+      "link": "https://www.youtube.com/shorts/MFNMR1v7A9U",
+      "groups": [
+        "cashflow_customer_debt"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ nhà cung cấp [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/YZt6sIsl0MY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC776M0EjGEoQL2wnDE_7QWU9DK0Q",
+      "link": "https://www.youtube.com/shorts/YZt6sIsl0MY",
+      "groups": [
+        "cashflow_supplier_liability"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Tài khoản thanh toán [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/09pX-mZzNQ0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBL45TFeEZOBuxgknC9i7ADl55RtA",
+      "link": "https://www.youtube.com/shorts/09pX-mZzNQ0",
+      "groups": [
+        "cashflow_wallet"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Phiếu chi  [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/LRYd8bsbv6s/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBIDUY6SqWJdFlAZOcqyoWv4vtYig",
+      "link": "https://www.youtube.com/shorts/LRYd8bsbv6s",
+      "groups": [
+        "cashflow_expenses"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Phiếu thu [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/xttowypYDyM/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBJcchbDnN38iWDj4Huz-ojhFWV6A",
+      "link": "https://www.youtube.com/shorts/xttowypYDyM",
+      "groups": [
+        "cashflow_receipts"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Nhật ký thu chi [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/CND3QQLV2TU/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDT7AyxL8EYFLUv8EenUT96GApvtg",
+      "link": "https://www.youtube.com/shorts/CND3QQLV2TU",
+      "groups": [
+        "cashflow_diary"
+      ]
+    },
+    {
       "title": "Hướng dẫn Dòng tiền - Số quỹ tiền mặt   [ViethasPos-F&B-mobile-VIE]",
-      "image": "https://i.ytimg.com/vi/yE6sNXfRo3k/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB1rGxZNRD5RKBVkAvoyrP7sqXJ8g",
+      "image": "https://i.ytimg.com/vi/yE6sNXfRo3k/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDnWalFpyxMizpNuW8PztCi2jBPRA",
       "link": "https://www.youtube.com/shorts/yE6sNXfRo3k",
       "groups": [
         "cashflow_cashbook"
@@ -301,7 +541,7 @@
       "image": "https://i.ytimg.com/vi/7Wk5DfLb2-4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCtwykoS0lGOM8jmytbZFc-EGGE4A",
       "link": "https://www.youtube.com/shorts/7Wk5DfLb2-4",
       "groups": [
-        "design_design_label"
+        "design_design_label_batch_expiry"
       ]
     },
     {
@@ -309,7 +549,7 @@
       "image": "https://i.ytimg.com/vi/OPat45HopPk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBWHHNhx5Z_4A26F3Vbow7JGuR5vA",
       "link": "https://www.youtube.com/shorts/OPat45HopPk",
       "groups": [
-        "design_design_label"
+        "design_design_label_ingredient"
       ]
     },
     {
@@ -317,7 +557,7 @@
       "image": "https://i.ytimg.com/vi/HtOyPAPYGOM/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBFKPzhpwtZZv-2k4KVaAZLnmABpg",
       "link": "https://www.youtube.com/shorts/HtOyPAPYGOM",
       "groups": [
-        "design_design_label"
+        "design_design_label_dish"
       ]
     },
     {
@@ -374,6 +614,126 @@
       "link": "https://www.youtube.com/shorts/vZOrrG6aD0k",
       "groups": [
         "dishes_dish_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn đổi voucher [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Mz3g6FPkSRI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDzBPkCvGxnwjSzaQvBw8jcJj3RMQ",
+      "link": "https://www.youtube.com/shorts/Mz3g6FPkSRI",
+      "groups": [
+        "sales_program_voucher_exchange_voucher_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm lấy voucher [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/0JwiJBbiMCk/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCzxsSyB9x56CfQlXhHgU6CcY-FCA",
+      "link": "https://www.youtube.com/shorts/0JwiJBbiMCk",
+      "groups": [
+        "sales_program_voucher_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách thẻ trả trước [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Z8DULuYDpYw/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAEpeEIpKpXXWSrviFlTm3iCI60UQ",
+      "link": "https://www.youtube.com/shorts/Z8DULuYDpYw",
+      "groups": [
+        "sales_program_card_goods_list_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đợt phát hành thẻ trả trước [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/a8Y6Bk8YJaY/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCuWwRYUel-kK6U_z7QM7MR8m044g",
+      "link": "https://www.youtube.com/shorts/a8Y6Bk8YJaY",
+      "groups": [
+        "sales_program_card_goods_releases"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn bán thẻ trả trước [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/n_TQATPjkIQ/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCrTr_QzY2Pa_CEcQ0ZC11ZzI_5dw",
+      "link": "https://www.youtube.com/shorts/n_TQATPjkIQ",
+      "groups": [
+        "sales_program_card_goods_sell_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Báo cáo thẻ trả trước [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/aRfD75oCx_0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDq9S-FnrnAm_nfEVaOw0S_Lhv0kA",
+      "link": "https://www.youtube.com/shorts/aRfD75oCx_0",
+      "groups": [
+        "sales_program_card_goods_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn đổi thẻ trả trước [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/xJ6xo5H6-6E/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB9VkM3cWdyukf9UzHj_SJX7A1SYQ",
+      "link": "https://www.youtube.com/shorts/xJ6xo5H6-6E",
+      "groups": [
+        "sales_program_card_goods_exchange_card_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm lấy thẻ trả trước [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/eriF1PAAou4/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCv7cDyFYpOJ5BhX9UEV7b4DlKF7g",
+      "link": "https://www.youtube.com/shorts/eriF1PAAou4",
+      "groups": [
+        "sales_program_card_goods_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Tồn kho [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Rwv2SNBwqMg/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB7-7dgqIRpRGyiGt2No78KrKpQPQ",
+      "link": "https://www.youtube.com/shorts/Rwv2SNBwqMg",
+      "groups": [
+        "stock_warehouse"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Kiểm kho [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/BHnxgZeqRjo/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBXW7w3_KHeMHHwRIm-4ZjRJT3oXg",
+      "link": "https://www.youtube.com/shorts/BHnxgZeqRjo",
+      "groups": [
+        "stock_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Báo cáo kiểm kho [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/1ubgxkXs5BI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCKlkbE5MaZrIwJnhyA-yaUkAUzfA",
+      "link": "https://www.youtube.com/shorts/1ubgxkXs5BI",
+      "groups": [
+        "stock_report_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Cân bằng kho [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/MTh1k-x2ED4/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD9z1BoJZgMT_jM-TK7lQn75pFmwg",
+      "link": "https://www.youtube.com/shorts/MTh1k-x2ED4",
+      "groups": [
+        "stock_balance_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Xuất hủy hàng hóa [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/3aiLE_WpUj4/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAiqO5v_f4FRAHb0oDDYUeNTYPYDA",
+      "link": "https://www.youtube.com/shorts/3aiLE_WpUj4",
+      "groups": [
+        "stock_destroy_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thông tin cửa hàng [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/YlZPFTgvE7o/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCZLHLJH_e5sXisvKFaMGHqolEXvg",
+      "link": "https://www.youtube.com/shorts/YlZPFTgvE7o",
+      "groups": [
+        "settings_store_information"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Hiển thị [ViethasPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/0UUQqZkm3Dc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDesG4Q_LBGlpdIo14n_43SW8Y_YA",
+      "link": "https://www.youtube.com/shorts/0UUQqZkm3Dc",
+      "groups": [
+        "settings_configuration_display"
       ]
     }
   ]

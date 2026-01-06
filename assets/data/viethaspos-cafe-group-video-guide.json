@@ -1,6 +1,206 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Cài đặt - Hiển thị  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/9UnEE9_rfYg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmk15xo7TRc_Ndt5MD4zBjJAD1Bw",
+      "link": "https://www.youtube.com/watch?v=9UnEE9_rfYg",
+      "groups": [
+        "settings_configuration_display"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Báo cáo [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/g68pvhwHJ4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2HeDUBf05vVPANOLxS4DSk368QQ",
+      "link": "https://www.youtube.com/watch?v=g68pvhwHJ4g",
+      "groups": [
+        "settings_configuration_sale_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Điều phối [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/pmYmtIa0ZIw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC91Uj8Kn5XnzvZte1kl2aT7NKaYA",
+      "link": "https://www.youtube.com/watch?v=pmYmtIa0ZIw",
+      "groups": [
+        "settings_configuration_dispatcher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thêm tính năng nâng cao [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/Lu5ibrWYXuQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG7piMVKhFBKcPMCMpto_CN2XHEA",
+      "link": "https://www.youtube.com/watch?v=Lu5ibrWYXuQ",
+      "groups": [
+        "settings_configuration_feature_access"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Sản phẩm [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/64bl5uDxMjc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzA4Nw0siJS0wQ3bbgyp6Erjssmw",
+      "link": "https://www.youtube.com/watch?v=64bl5uDxMjc",
+      "groups": [
+        "settings_configuration_products"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Hóa đơn điện tử [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/0HW870TLVLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8jSwJ4eU-uz0oyRkKEgWuDECbXQ",
+      "link": "https://www.youtube.com/watch?v=0HW870TLVLs",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thông tin cửa hàng [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/I1PGyPTyzQI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBawa_PfHDgmzmE8EqPdfQG45i4kQ",
+      "link": "https://www.youtube.com/watch?v=I1PGyPTyzQI",
+      "groups": [
+        "settings_store_information"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết lập trang in  -  Bán hàng [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/uOLjus6albY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwCRQbPrqz5ML3LqRl9QEQFFT6Zg",
+      "link": "https://www.youtube.com/watch?v=uOLjus6albY",
+      "groups": [
+        "settings_configuration_printer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Xuất hủy hàng hóa [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/5CdiK5rj_L8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_nXVULv1nJSCD-l1ENcyqJLaQ9A",
+      "link": "https://www.youtube.com/watch?v=5CdiK5rj_L8",
+      "groups": [
+        "stock_destroy_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Quản lý lô/HSD [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/7BvXYiUHSW8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcAOQgH6BbWM_OhRgK6j7AH3n-AQ",
+      "link": "https://www.youtube.com/watch?v=7BvXYiUHSW8",
+      "groups": [
+        "stock_manage_lots"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Cân bằng kho [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/ZvMEqtSzA7M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkMzpIagr8q8wsKmAP51Y16L2UBQ",
+      "link": "https://www.youtube.com/watch?v=ZvMEqtSzA7M",
+      "groups": [
+        "stock_balance_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Báo cáo kiểm kho [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/Xao_9nsDkt0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMgiGgtQyGOEh4pqeKM0-QVi-OHw",
+      "link": "https://www.youtube.com/watch?v=Xao_9nsDkt0",
+      "groups": [
+        "stock_report_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Kiểm kho [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/8oq6hvnLJRY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPL9rYooDA1baRCIzQboeFpiBLbQ",
+      "link": "https://www.youtube.com/watch?v=8oq6hvnLJRY",
+      "groups": [
+        "stock_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Tồn kho  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/Dwb-X41JSCs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI6MsowY0DOntuYMWeibDeHYT0tg",
+      "link": "https://www.youtube.com/watch?v=Dwb-X41JSCs",
+      "groups": [
+        "stock_warehouse"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách thẻ  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/w776r7F_C5s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6Oa8CCfD4r1aR44OA67P6nHfmWQ",
+      "link": "https://www.youtube.com/watch?v=w776r7F_C5s",
+      "groups": [
+        "sales_program_card_goods_list_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm lấy thẻ trả trước  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/T-zeXidIvu0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvYTKIJMDeVyBtOgtAaM66WgQsTw",
+      "link": "https://www.youtube.com/watch?v=T-zeXidIvu0",
+      "groups": [
+        "sales_program_card_goods_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thiết kế thẻ  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/tKP94Xp9tRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDifQ7WYdCnlzkq5ynGzUZYatLK4g",
+      "link": "https://www.youtube.com/watch?v=tKP94Xp9tRo",
+      "groups": [
+        "sales_program_card_goods_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Báo cáo thẻ  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/tT2KRQJPMlI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQYLWQmJLP98q3VWwJ0FSy5uwA5g",
+      "link": "https://www.youtube.com/watch?v=tT2KRQJPMlI",
+      "groups": [
+        "sales_program_card_goods_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn đổi thẻ lấy hàng hóa [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/OtG4_tafwhc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQyGu-qlHDDC3-aCPVn-d3e236lA",
+      "link": "https://www.youtube.com/watch?v=OtG4_tafwhc",
+      "groups": [
+        "sales_program_card_goods_exchange_card_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn bán thẻ  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/I9ZyrPuU8KQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq8DEWH7s3k-lAgSFNzyBqN-ydRw",
+      "link": "https://www.youtube.com/watch?v=I9ZyrPuU8KQ",
+      "groups": [
+        "sales_program_card_goods_sell_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đợt phát hành thẻ  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/LF70QYDD8Lw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqB67P0VhIZ7LH0cexbF6fX-TniQ",
+      "link": "https://www.youtube.com/watch?v=LF70QYDD8Lw",
+      "groups": [
+        "sales_program_card_goods_releases"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm lấy voucher   [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/M3Z7QUj0KZo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2Dyvy1tCSxpdwS7dd_Geg0Fvv9w",
+      "link": "https://www.youtube.com/watch?v=M3Z7QUj0KZo",
+      "groups": [
+        "sales_program_voucher_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thiết kế voucher [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/t1B_B2104ek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP1wpHO0BT5o3_wn_SFfo4z7s3oA",
+      "link": "https://www.youtube.com/watch?v=t1B_B2104ek",
+      "groups": [
+        "sales_program_voucher_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Báo cáo voucher  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/VjdrVtfxZno/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXj_8kxwOOqh76bRDvbbuSM7Qc5Q",
+      "link": "https://www.youtube.com/watch?v=VjdrVtfxZno",
+      "groups": [
+        "sales_program_voucher_report_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thiết kế Coupons  [ViethasPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/_6j70lxcJUw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc_pIOcdavs3RzNeF1VueiX4KB_w",
+      "link": "https://www.youtube.com/watch?v=_6j70lxcJUw",
+      "groups": [
+        "sales_program_coupons_design"
+      ]
+    },
+    {
       "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn đổi voucher lấy hàng hóa [ViethasPos-F&B-desktop-VIE]",
       "image": "https://i.ytimg.com/vi/rh4kfJLgTMo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqrqdZH_iY2SAnba5DUruhFZpFTw",
       "link": "https://www.youtube.com/watch?v=rh4kfJLgTMo",
@@ -38,14 +238,6 @@
       "link": "https://www.youtube.com/watch?v=J_UFoqEVHdQ",
       "groups": [
         "sales_program_coupons_exchange_points"
-      ]
-    },
-    {
-      "title": "Hướng dẫn Chương trình bán hàng - Thiết kế Coupons  [ViethasPos-F&B-desktop-VIE]",
-      "image": "https://i.ytimg.com/vi/_6j70lxcJUw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc_pIOcdavs3RzNeF1VueiX4KB_w",
-      "link": "https://www.youtube.com/watch?v=_6j70lxcJUw",
-      "groups": [
-        "sales_program_coupons_design"
       ]
     },
     {
@@ -606,14 +798,6 @@
       "link": "https://www.youtube.com/watch?v=0SL76LPqMj0",
       "groups": [
         "dishes_dish_list"
-      ]
-    },
-    {
-      "title": "Hướng dẫn Chương trình bán hàng - Báo cáo voucher  [ViethasPos-F&B-desktop-VIE]",
-      "image": "https://i.ytimg.com/vi/VjdrVtfxZno/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXj_8kxwOOqh76bRDvbbuSM7Qc5Q",
-      "link": "https://www.youtube.com/watch?v=VjdrVtfxZno",
-      "groups": [
-        "sales_program_voucher_report_voucher"
       ]
     }
   ]
