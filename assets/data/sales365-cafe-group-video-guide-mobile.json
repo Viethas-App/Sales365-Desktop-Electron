@@ -1,6 +1,110 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách Coupons [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/cZSky0UofY0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA3IUtrgAFy93ZdI711Q0WtTHvqCA",
+      "link": "https://www.youtube.com/shorts/cZSky0UofY0",
+      "groups": [
+        "sales_program_coupons_list_coupons"
+      ]
+    },
+    {
+      "title": "Tích điểm hóa đơn Hướng dẫn Chương trình bán hàng - Quản lý tích điểm [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/pmLdhSOTJMY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDkVi0_WCfqFJIbcON3TPb3aGdaTA",
+      "link": "https://www.youtube.com/shorts/pmLdhSOTJMY",
+      "groups": [
+        "sales_program_reward_points_manage_point"
+      ]
+    },
+    {
+      "title": "Tích điểm hóa đơn Hướng dẫn Chương trình bán hàng - Tích điểm sản phẩm [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/nDIJ4zsE_-o/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBbgxqx-kyAC1FsgX6pQSiqt-_fhg",
+      "link": "https://www.youtube.com/shorts/nDIJ4zsE_-o",
+      "groups": [
+        "sales_program_reward_points_by_product"
+      ]
+    },
+    {
+      "title": "Tích điểm hóa đơn Hướng dẫn Chương trình bán hàng - Tích điểm hóa đơn [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/T0U6NPf6iKQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB5h9XzhTokqz9PQ93xgVza4vk8Ug",
+      "link": "https://www.youtube.com/shorts/T0U6NPf6iKQ",
+      "groups": [
+        "sales_program_reward_points_by_bill"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hoa hồng nhân viên [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/OUqdS9EasCQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDlI8_6lnbqNSsZPTXnx3Ei8bIPOQ",
+      "link": "https://www.youtube.com/shorts/OUqdS9EasCQ",
+      "groups": [
+        "sales_program_discount_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu hóa đơn bán hàng [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/iK2O8Ghjhsk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBxIMrDeoo6aUpdZwyBuNxnXr_d3g",
+      "link": "https://www.youtube.com/shorts/iK2O8Ghjhsk",
+      "groups": [
+        "sales_program_discount_customer_invoice_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu doanh số [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/rdJeqgQceX4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCaS1vdbzkjLfp3lW0IdSX9NoRf9g",
+      "link": "https://www.youtube.com/shorts/rdJeqgQceX4",
+      "groups": [
+        "sales_program_discount_customer_sales_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Khuyến mãi [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/WxBtTIOw2eE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCb6KbV3CIO7hoGNlkJRCbmfKdXzw",
+      "link": "https://www.youtube.com/shorts/WxBtTIOw2eE",
+      "groups": [
+        "sales_program_promotions"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thuế - Thuế [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/uQr0K-QolIM/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDhqq0RsuoDpd8ikQYvD4nZFlPR_Q",
+      "link": "https://www.youtube.com/shorts/uQr0K-QolIM",
+      "groups": [
+        "tax"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng từ web/app [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/uInM08sOCv0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDkHGNUEwuoidsMQuYRhRTYp_5Sgw",
+      "link": "https://www.youtube.com/shorts/uInM08sOCv0",
+      "groups": [
+        "partner_customer_online_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Nhà cung cấp [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/LuC9zbpQnDM/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDjrlNLq_AQJ9UmZBS3eGCweHMeXA",
+      "link": "https://www.youtube.com/shorts/LuC9zbpQnDM",
+      "groups": [
+        "partner_supplier"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Hạng nhân viên [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/TymCPJSlSSI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBBnQGFQvIv1FqA0qJsumf4chxaUg",
+      "link": "https://www.youtube.com/shorts/TymCPJSlSSI",
+      "groups": [
+        "partner_employee_group"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/ch_CIByuL9c/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCcE0iPxgcc055YrvNMN2XT29ExRw",
+      "link": "https://www.youtube.com/shorts/ch_CIByuL9c",
+      "groups": [
+        "partner_customer"
+      ]
+    },
+    {
       "title": "Hướng dẫn Đối tác - Hạng khách hàng [Sales365-F&B-mobile-VIE]",
       "image": "https://i.ytimg.com/vi/nYqmvbo9PXw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCZZ2R2wMgMrXDl7QJbFibrbRwZ9g",
       "link": "https://www.youtube.com/shorts/nYqmvbo9PXw",
@@ -94,14 +198,6 @@
       "link": "https://www.youtube.com/shorts/aKjpjQK5Xas",
       "groups": [
         "report_sales_voucher"
-      ]
-    },
-    {
-      "title": "Hướng dẫn Đối tác - Khách hàng [Sales365-F&B-mobile-VIE]",
-      "image": "https://i.ytimg.com/vi/ch_CIByuL9c/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBja5ziHwDdFrInaBhwNco-K-Klkg",
-      "link": "https://www.youtube.com/shorts/ch_CIByuL9c",
-      "groups": [
-        "partner_customer_list"
       ]
     },
     {
@@ -417,7 +513,7 @@
       ]
     },
     {
-      "title": "Hư��ng dẫn Món ăn -thức uống - Combo   [Sales365-F&B-mobile-VIE]",
+      "title": "Hướng dẫn Món ăn -thức uống - Combo   [Sales365-F&B-mobile-VIE]",
       "image": "https://i.ytimg.com/vi/aFKpZt9bPSE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCIlITzUlITBJVJTBGAIdPAbiYfcw",
       "link": "https://www.youtube.com/shorts/aFKpZt9bPSE",
       "groups": [
@@ -441,20 +537,12 @@
       ]
     },
     {
-    "title": "Hướng dẫn Đối tác - Hạng nhân viên [Sales365-F&B-mobile-VIE]",
-    "image": "https://i.ytimg.com/vi/TymCPJSlSSI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC5VdNBXVFPjEDkClfqyJSnfkZRyg",
-    "link": "https://www.youtube.com/shorts/TymCPJSlSSI",
-    "groups": [
-      "partner_employee_group"
-    ]
-  },
-  {
-    "title": "Hướng dẫn Đối tác - Nhà cung cấp [Sales365-F&B-mobile-VIE]",
-    "image": "https://i.ytimg.com/vi/LuC9zbpQnDM/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCLZzDuj8eZZRvMmEotb0hXM3QnMg",
-    "link": "https://www.youtube.com/shorts/LuC9zbpQnDM",
-    "groups": [
-      "partner_supplier"
-    ]
-  }
+      "title": "Hướng dẫn Chương trình bán hàng - Phát hành Coupons [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/aNNHy-8Zfl0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDv9JGyA1-DMZ7zTXngFrMf1-2DXA",
+      "link": "https://www.youtube.com/shorts/aNNHy-8Zfl0",
+      "groups": [
+        "sales_program_coupons_publish_coupon"
+      ]
+    }
   ]
 }
