@@ -1,6 +1,46 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu hóa đơn bán [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/RtBYjKVq1TY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOkbjiqhdRmTsGFIINr4jMqlk3Cg",
+      "link": "https://www.youtube.com/watch?v=RtBYjKVq1TY",
+      "groups": [
+        "sales_program_discount_customer_invoice_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu doanh số  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/mhGbi-y1hrY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABMLMEZb0h4P6p7l6hkUfqdA_sIg",
+      "link": "https://www.youtube.com/watch?v=mhGbi-y1hrY",
+      "groups": [
+        "sales_program_discount_customer_sales_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Đối soát xuất nhập hàng  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/Bqwacln9cZo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3MB35qKAzgYKVn5QZ3RB4M60UdQ",
+      "link": "https://www.youtube.com/watch?v=Bqwacln9cZo",
+      "groups": [
+        "stock_goods_control"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Nhận hàng  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/vSIs0gToRfM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjLV3jfnIHD6Od5eA7mTqPrd4obw",
+      "link": "https://www.youtube.com/watch?v=vSIs0gToRfM",
+      "groups": [
+        "stock_receive"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Chuyển hàng  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/kLaXcF4aQEA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwSDGZtUF8qNoFumR8zhrXrM0A_Q",
+      "link": "https://www.youtube.com/watch?v=kLaXcF4aQEA",
+      "groups": [
+        "stock_delivery"
+      ]
+    },
+    {
       "title": "Hướng dẫn Cấu hình thuế [Sales365-sales-desktop-VIE]",
       "image": "https://i.ytimg.com/vi/SqrMxsXk-r0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvX9OEYUgJaUZYYW7FO21xFDbNDQ",
       "link": "https://www.youtube.com/watch?v=SqrMxsXk-r0",

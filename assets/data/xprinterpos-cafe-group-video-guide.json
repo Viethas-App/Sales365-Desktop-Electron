@@ -1,11 +1,843 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Cài đặt - Hiển thị [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/L5Ch5X9RO1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqlvvdk2IpywEaIVAu5BrH3lWgdA",
+      "link": "https://www.youtube.com/watch?v=L5Ch5X9RO1E",
+      "groups": [
+        "settings_configuration_display"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Báo cáo [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/o4upa8qPZ24/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiGwLoq5KU6E3e2WNy2RhC2JMqrA",
+      "link": "https://www.youtube.com/watch?v=o4upa8qPZ24",
+      "groups": [
+        "settings_configuration_sale_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Điều phối  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/HbSLdlJ9H08/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2tIFWCVD7qEYsdOHtoJasKVI6Zw",
+      "link": "https://www.youtube.com/watch?v=HbSLdlJ9H08",
+      "groups": [
+        "settings_configuration_dispatcher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thêm tính năng nâng cao [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/S6E7CPUDL_Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyvJk35nuJPH_1AAlK2BOwOPQMVQ",
+      "link": "https://www.youtube.com/watch?v=S6E7CPUDL_Y",
+      "groups": [
+        "settings_configuration_feature_access"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Sản phẩm  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/f8jM4fejPTg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSD869MrQ51n56ab5fXfG_C-wmIw",
+      "link": "https://www.youtube.com/watch?v=f8jM4fejPTg",
+      "groups": [
+        "settings_configuration_products"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Hóa đơn điện tử  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/_DGXEY4E7ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY51clcEc1V1Jwf1IqvoYJezYzmg",
+      "link": "https://www.youtube.com/watch?v=_DGXEY4E7ac",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thông tin cửa hàng [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/IsRV76hD0KM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATSmJOUgBG-d6EmZhUPS2URMfaEw",
+      "link": "https://www.youtube.com/watch?v=IsRV76hD0KM",
+      "groups": [
+        "settings_store_information"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết lập trang in -  Bán hàng [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/yHTS47jVd-o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW8kRd4yFqiKG0C_j0f1rmrhFMIw",
+      "link": "https://www.youtube.com/watch?v=yHTS47jVd-o",
+      "groups": [
+        "settings_configuration_printer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Nhận hàng   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/EiADuS8YJ2g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZzjQ6xJnq4cuoq_lpVDGek6WPfw",
+      "link": "https://www.youtube.com/watch?v=EiADuS8YJ2g",
+      "groups": [
+        "stock_receive"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Chuyển hàng [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/RwsrXQiCa0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT1SuYWqVtODtoIieHfSRoYEqqPg",
+      "link": "https://www.youtube.com/watch?v=RwsrXQiCa0E",
+      "groups": [
+        "stock_delivery"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Xuất hủy hàng hóa   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/FOlGft2RdTw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkyhqIZ8CcbyLD9n26AXfgSw4ojA",
+      "link": "https://www.youtube.com/watch?v=FOlGft2RdTw",
+      "groups": [
+        "stock_destroy_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Quản lý lô /HSD   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/UT20_TLsWZw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5YqP1wQaoYfmezVnkcr0TPmAdjQ",
+      "link": "https://www.youtube.com/watch?v=UT20_TLsWZw",
+      "groups": [
+        "stock_manage_lots"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Cân bằng kho  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/_JiFGJ-kys0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGAT31Fw76vYAPJJvbG3JeoKsCnA",
+      "link": "https://www.youtube.com/watch?v=_JiFGJ-kys0",
+      "groups": [
+        "stock_balance_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Báo cáo kiểm kho  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/Mjz_8jpDs64/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6D4haVn2zpibir4Kc-xqacYZ6Fg",
+      "link": "https://www.youtube.com/watch?v=Mjz_8jpDs64",
+      "groups": [
+        "stock_report_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Kiểm kho   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/3c3CacR7md4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmqA9pc9ZCfle5vdIxAEI99Wm1HA",
+      "link": "https://www.youtube.com/watch?v=3c3CacR7md4",
+      "groups": [
+        "stock_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kho hàng - Tồn kho   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/dTcrkwfwrBI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-bUA3Xp5nLdrzjIYB7o4BVwdrEw",
+      "link": "https://www.youtube.com/watch?v=dTcrkwfwrBI",
+      "groups": [
+        "stock_warehouse"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm lấy thẻ trả trước [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/lXZ-sQt98QE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYuzhJKKd1bf23CL5oyv0fxlV9tw",
+      "link": "https://www.youtube.com/watch?v=lXZ-sQt98QE",
+      "groups": [
+        "sales_program_card_goods_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thiết kế thẻ  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/XkJtZA4nK9U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAx9E6R69zp3TpL7IJNgeYjcW60WA",
+      "link": "https://www.youtube.com/watch?v=XkJtZA4nK9U",
+      "groups": [
+        "sales_program_card_goods_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Báo cáo thẻ   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/8J0OItzKfoY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhLwCleqocBCwkUH1YGCUiMDQlCg",
+      "link": "https://www.youtube.com/watch?v=8J0OItzKfoY",
+      "groups": [
+        "sales_program_card_goods_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn đổi thẻ lấy hàng hóa [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/dXbD2qIb2uA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwWXjtm6IJ1tK7BDcRAG_2C6Bhgg",
+      "link": "https://www.youtube.com/watch?v=dXbD2qIb2uA",
+      "groups": [
+        "sales_program_card_goods_exchange_card_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách thẻ  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/w9SqLugThI8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfotBIyEEWqAR_6eTXnyCtUZ-ENQ",
+      "link": "https://www.youtube.com/watch?v=w9SqLugThI8",
+      "groups": [
+        "sales_program_card_goods_list_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn bán thẻ  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/Q00goIsXhuo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZLw9Qn7z2Ftcosp4EQWJQXn7pcA",
+      "link": "https://www.youtube.com/watch?v=Q00goIsXhuo",
+      "groups": [
+        "sales_program_card_goods_sell_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Phát hành thẻ  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/Z_vv1DU-HPE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv0K9X0rJZixnt6JNHgJRzb0xYxg",
+      "link": "https://www.youtube.com/watch?v=Z_vv1DU-HPE",
+      "groups": [
+        "sales_program_card_goods_releases"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thiết kế voucher  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/QTgNNivlYyQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKd8xFPDJh3PwxU6J43LLwwlx6RA",
+      "link": "https://www.youtube.com/watch?v=QTgNNivlYyQ",
+      "groups": [
+        "sales_program_voucher_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Báo cáo voucher   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/eq-ofvkLAeo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt-g4DD5s7TkG7NDZybyVZ34nV4g",
+      "link": "https://www.youtube.com/watch?v=eq-ofvkLAeo",
+      "groups": [
+        "sales_program_voucher_report_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn đổi voucher lấy hàng hóa [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/92E3XTYvwCE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5Av1IDQyPRCJeu0KSJm3evoq2cA",
+      "link": "https://www.youtube.com/watch?v=92E3XTYvwCE",
+      "groups": [
+        "sales_program_voucher_exchange_voucher_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn bán voucher   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/jVooRWtS2l4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0W-zJovEGtGTYe0lNZOSQT0XnWg",
+      "link": "https://www.youtube.com/watch?v=jVooRWtS2l4",
+      "groups": [
+        "sales_program_voucher_buy_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đợt phát hành voucher   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/odYL60Xd4-E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdthHsCsiTEPezre-5YNo-24S81Q",
+      "link": "https://www.youtube.com/watch?v=odYL60Xd4-E",
+      "groups": [
+        "sales_program_voucher_releases_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách voucher   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/sUD9-TefUVo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2XEPBgInWE-sdJ6E_LMFCqAu-rg",
+      "link": "https://www.youtube.com/watch?v=sUD9-TefUVo",
+      "groups": [
+        "sales_program_voucher_list_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm lấy Coupons  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/JCSdODxGCw8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHiWerzkYcD3tOMHndU2ZJLYR_zQ",
+      "link": "https://www.youtube.com/watch?v=JCSdODxGCw8",
+      "groups": [
+        "sales_program_coupons_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Thiết kế Coupons  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/2yiSyHger1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNCfmbmkv1eMXQGjAm8mYTx0VBHg",
+      "link": "https://www.youtube.com/watch?v=2yiSyHger1U",
+      "groups": [
+        "sales_program_coupons_design"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Phát hành Coupons  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/Z0nusHbuAZ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuCfJZ5GVTpKQ8zaUIdDOMkIKlnQ",
+      "link": "https://www.youtube.com/watch?v=Z0nusHbuAZ0",
+      "groups": [
+        "sales_program_coupons_publish_coupon"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách Coupons [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/kx0uurMtE3o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgtjNiaSCDqhrOtScPebpMmb5Mxw",
+      "link": "https://www.youtube.com/watch?v=kx0uurMtE3o",
+      "groups": [
+        "sales_program_coupons_list_coupons"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Quản lý điểm  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/4JJ5p7FZkNU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYxLNiN6osz06AqBfVOWkai4HNCg",
+      "link": "https://www.youtube.com/watch?v=4JJ5p7FZkNU",
+      "groups": [
+        "sales_program_reward_points_manage_point"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điểm theo sản phẩm  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/UiMpu8PRhzc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM5u_DzIOa1nBs0A_GJ2byLr3_OQ",
+      "link": "https://www.youtube.com/watch?v=UiMpu8PRhzc",
+      "groups": [
+        "sales_program_reward_points_by_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điểm theo hóa đơn  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/0CuhmumWPlg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFni__nZhYjSk3W_KpU9eG1J73sw",
+      "link": "https://www.youtube.com/watch?v=0CuhmumWPlg",
+      "groups": [
+        "sales_program_reward_points_by_bill"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hoa hồng nhân viên  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/wIvqgoIN5m0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBpPhVG1y23HnABVnrQFIz9osL5A",
+      "link": "https://www.youtube.com/watch?v=wIvqgoIN5m0",
+      "groups": [
+        "sales_program_discount_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu hóa đơn bán hàng [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/QViuEmUhz0Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4p4y5E7WMSLP5N08LFmC7dj3RIg",
+      "link": "https://www.youtube.com/watch?v=QViuEmUhz0Q",
+      "groups": [
+        "sales_program_discount_customer_invoice_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiêt khấu doanh số  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/wfOkKLrX6HY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIGD7VADlID6vzgn4ZwgRCi2krJw",
+      "link": "https://www.youtube.com/watch?v=wfOkKLrX6HY",
+      "groups": [
+        "sales_program_discount_customer_sales_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Khuyến mãi   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/GLz4vOtN7AU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCYcfo3a1CUy9aUQjYDa8EWO4hXg",
+      "link": "https://www.youtube.com/watch?v=GLz4vOtN7AU",
+      "groups": [
+        "sales_program_promotions"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thuế  - Thuế VAT   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/o57cLSilxLY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy5nnp80MH4rheRufMuOiYyh8_aQ",
+      "link": "https://www.youtube.com/watch?v=o57cLSilxLY",
+      "groups": [
+        "tax"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng từ web /app   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/sT9qHG0obLE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC35K8zFnElnuMA6aI6Kg0WjcXkMw",
+      "link": "https://www.youtube.com/watch?v=sT9qHG0obLE",
+      "groups": [
+        "partner_customer_online_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Hạng nhân viên  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/5omjoMcO8uY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdcsMyP6BrgZbC8MbiNpv85U3zWQ",
+      "link": "https://www.youtube.com/watch?v=5omjoMcO8uY",
+      "groups": [
+        "partner_employee_group"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Hạng khách hàng [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/s19D5bU-f5U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARwTKDxpl1B36QLPSYPVdJI1_Rtw",
+      "link": "https://www.youtube.com/watch?v=s19D5bU-f5U",
+      "groups": [
+        "partner_customer_group"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Nhà cung cấp   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/nSQUTG3Y7Do/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsXrDRJpWh0WCknNohCq6AKGQA9A",
+      "link": "https://www.youtube.com/watch?v=nSQUTG3Y7Do",
+      "groups": [
+        "partner_supplier"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/X3De5ADvNkk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEojB1RZGm-AL3cpTBb7rUuiiS6Q",
+      "link": "https://www.youtube.com/watch?v=X3De5ADvNkk",
+      "groups": [
+        "partner_customer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Nhân viên   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/w1yzR5a74QM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDj_PYB65ex-wjt9SE3KKstQQcQIQ",
+      "link": "https://www.youtube.com/watch?v=w1yzR5a74QM",
+      "groups": [
+        "partner_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Đối soát thu chi    [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/xKpnEaIZ3_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoKDGS2NwZCHLAm-kp7rIHGSn2Ag",
+      "link": "https://www.youtube.com/watch?v=xKpnEaIZ3_c",
+      "groups": [
+        "cashflow_money_control"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Nhận tiền  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/2gBD3N73mqw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCT2PFeQo2J3YGolHxOkqRg2TZnLA",
+      "link": "https://www.youtube.com/watch?v=2gBD3N73mqw",
+      "groups": [
+        "cashflow_receiving"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Chuyển tiền   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/9r5ehInzLfw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpqOM6zXDdebllgMvBnO7eglHk-A",
+      "link": "https://www.youtube.com/watch?v=9r5ehInzLfw",
+      "groups": [
+        "cashflow_transfers"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ khách hàng đầu kỳ   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/_Gy38gIY2sY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv_l5xnn6fnIDTM7ifxZuR057vsw",
+      "link": "https://www.youtube.com/watch?v=_Gy38gIY2sY",
+      "groups": [
+        "cashflow_beginning_customer_debt"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ khách hàng   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/BFsZDOnGgAk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQOb8HA3xS6hRLozQHNx-stSswUA",
+      "link": "https://www.youtube.com/watch?v=BFsZDOnGgAk",
+      "groups": [
+        "cashflow_customer_debt"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ nhà cung cấp đầu kỳ  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/6B1M5YbeRUM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_akDt2locONFFkOW0LxSOpTYnmQ",
+      "link": "https://www.youtube.com/watch?v=6B1M5YbeRUM",
+      "groups": [
+        "cashflow_beginning_supplier_liability"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ nhà cung cấp   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/eZtsS0umtXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1Fo2UCdD48nEjMrNC4Zr836r44w",
+      "link": "https://www.youtube.com/watch?v=eZtsS0umtXs",
+      "groups": [
+        "cashflow_supplier_liability"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Nhật ký thu chi   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/N6UqwER7vp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxaDJLkvhQEetsNUnkyI-_MILbww",
+      "link": "https://www.youtube.com/watch?v=N6UqwER7vp8",
+      "groups": [
+        "cashflow_diary"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Phiếu chi   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/f8BqXoBPzWI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGtGhqnoI44cLKT5X-bCc4DDZMEA",
+      "link": "https://www.youtube.com/watch?v=f8BqXoBPzWI",
+      "groups": [
+        "cashflow_expenses"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Phiếu thu   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/fEFKjzPFdSI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRotVpmZ9YxTVr7UFkt7Vr8_4oAQ",
+      "link": "https://www.youtube.com/watch?v=fEFKjzPFdSI",
+      "groups": [
+        "cashflow_receipts"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Số quỹ tiền mặt   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/JzKQuQpxx7I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE6KZObLEqDhI8R2dG75-ZMQK5cA",
+      "link": "https://www.youtube.com/watch?v=JzKQuQpxx7I",
+      "groups": [
+        "cashflow_cashbook"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số thẻ trả trước  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/imZdtatLA24/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf29dUbw02Ah-OihXYMcahidnJtg",
+      "link": "https://www.youtube.com/watch?v=imZdtatLA24",
+      "groups": [
+        "report_sales_payment_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số voucher  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/Mm6TyPkTIv8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL8JNqXIqqE548lIIB-ChOtaRTaA",
+      "link": "https://www.youtube.com/watch?v=Mm6TyPkTIv8",
+      "groups": [
+        "report_sales_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Nhập xuất trả  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/e_k32PTgv18/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOQTMlG-dyhGsMVq9cxVopiCxMyA",
+      "link": "https://www.youtube.com/watch?v=e_k32PTgv18",
+      "groups": [
+        "report_input_output_return"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Nhập  xuất tồn  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/brDjkVnz6lM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjL1WjFix2WcRGirwErHjsRwE3-w",
+      "link": "https://www.youtube.com/watch?v=brDjkVnz6lM",
+      "groups": [
+        "report_input_output_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Sản phẩm sắp hết hàng  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/qCDiRW7sgpQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8oes7HEhRJi3UmDbj5gaGNKn4sg",
+      "link": "https://www.youtube.com/watch?v=qCDiRW7sgpQ",
+      "groups": [
+        "report_out_of_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số khu vực   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/GCNDc2oI-Rk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKwAQ9sfgDqA47LpE9-MN8CAqbNQ",
+      "link": "https://www.youtube.com/watch?v=GCNDc2oI-Rk",
+      "groups": [
+        "report_sales_area"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số bàn  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/_69nCJu38HE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClDCstqIoYyLYAVK-G0gk8B0ExXA",
+      "link": "https://www.youtube.com/watch?v=_69nCJu38HE",
+      "groups": [
+        "report_sales_table"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số combo  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/TniSUjeQRtk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6Bb2_cSleVpnaxJvjvxKLedKMhg",
+      "link": "https://www.youtube.com/watch?v=TniSUjeQRtk",
+      "groups": [
+        "report_sales_combo"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số món phụ  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/BBNp9xdb1pI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNMK2c-J8fGjoVDUDKnS2habeEAA",
+      "link": "https://www.youtube.com/watch?v=BBNp9xdb1pI",
+      "groups": [
+        "report_sales_side_dishes"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số nguyên liệu  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/gG2EpqduPVo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMCHezwaiUAIlfDrx6-_30el4weA",
+      "link": "https://www.youtube.com/watch?v=gG2EpqduPVo",
+      "groups": [
+        "report_sales_ingredient"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số nhân viên  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/sUpkK9Xkn8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgnFgv-j9XlOlSyEmMtt4TpxsQ_A",
+      "link": "https://www.youtube.com/watch?v=sUpkK9Xkn8Y",
+      "groups": [
+        "report_sales_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số món ăn   [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/7en0DTMzeZ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFWR7d_u36lMwQzOTm5XwUBA5OHA",
+      "link": "https://www.youtube.com/watch?v=7en0DTMzeZ0",
+      "groups": [
+        "report_sales_dishes"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số dịch vụ  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/mEuPKBOja5I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ9X4x2cM804EYKtBLe4fddTkB2w",
+      "link": "https://www.youtube.com/watch?v=mEuPKBOja5I",
+      "groups": [
+        "report_sales_service"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số khách hàng [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/jbkGZUA_oqw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpuwP6VR-a5P-_PxP_jc9GGOPodA",
+      "link": "https://www.youtube.com/watch?v=jbkGZUA_oqw",
+      "groups": [
+        "report_sales_customer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số danh mục  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/FDB89-gHz5A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpbSVh8qi3ifUCDjDypBCIx_Aljg",
+      "link": "https://www.youtube.com/watch?v=FDB89-gHz5A",
+      "groups": [
+        "report_sales_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Thực đơn bán chạy  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/MSccBpo9SPQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0LRE6SOcAHP7jS3SngwLWOhqHSw",
+      "link": "https://www.youtube.com/watch?v=MSccBpo9SPQ",
+      "groups": [
+        "report_best_selling_menu"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Món ăn bán chạy  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/-2IT7mmjWOk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc6tZzsZh4mTBUQ3XfbNClnmELMg",
+      "link": "https://www.youtube.com/watch?v=-2IT7mmjWOk",
+      "groups": [
+        "report_best_selling_dishes"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số, doanh thu  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/XkF4zWRJQi4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ6mIFQHFfNy0N39X9q06PM4ABcA",
+      "link": "https://www.youtube.com/watch?v=XkF4zWRJQi4",
+      "groups": [
+        "report_sales_profit"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn điện tử  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/W24cep7GJNY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpt6XuyNkWPJVKmY-8qvrZtWoCTA",
+      "link": "https://www.youtube.com/watch?v=W24cep7GJNY",
+      "groups": [
+        "invoice_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn xuất hủy  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/0W9mE_oglwY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD8ZuOu3FUMcqGZTU5BZgAHcV9Ww",
+      "link": "https://www.youtube.com/watch?v=0W9mE_oglwY",
+      "groups": [
+        "invoice_destroy_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn bán tạm  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/z1Tr63gmgzU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDCHIUpJtqTZgOj_zAJpzFV8ZYHQ",
+      "link": "https://www.youtube.com/watch?v=z1Tr63gmgzU",
+      "groups": [
+        "invoice_temporary_sales_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn nhập tạm  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/K2Wyb-sP1fU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfXOu9PJqZtvrKLJL-ihvg8Dr_yQ",
+      "link": "https://www.youtube.com/watch?v=K2Wyb-sP1fU",
+      "groups": [
+        "invoice_temporary_purchase_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Tạo đơn tồn hàng đầu kỳ [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/8hIBlxOQwNc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ6-tgFG5euPlBSqcZGIiCF8SupA",
+      "link": "https://www.youtube.com/watch?v=8hIBlxOQwNc",
+      "groups": [
+        "invoice_opening_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Xuất nguyên liệu cho bếp [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/3mmOz4DuHOk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqJEk0pXeupsGNT6MufefAojFaUw",
+      "link": "https://www.youtube.com/watch?v=3mmOz4DuHOk",
+      "groups": [
+        "invoice_export_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Trả nguyên liệu cho nhà cung cấp [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/npxVu_zlg4I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF2nIZgJdkLacHuRV_ZUHBmrobag",
+      "link": "https://www.youtube.com/watch?v=npxVu_zlg4I",
+      "groups": [
+        "invoice_return_supplier"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Nhập nguyên liệu bếp [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/rVTyDa_7vAo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA483_M_n9YRCRQPBxZ4K16QPqcHg",
+      "link": "https://www.youtube.com/watch?v=rVTyDa_7vAo",
+      "groups": [
+        "invoice_import_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Mua, nhập nguyên liệu  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/BBB0g3VDDH0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRpyGpnoqOd1m6u0x6o9BPbYLezg",
+      "link": "https://www.youtube.com/watch?v=BBB0g3VDDH0",
+      "groups": [
+        "invoice_purchase"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn nguyên liệu [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/F84xXm7Np0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqR0XRb66CKnriM6KzA_udNKHBlg",
+      "link": "https://www.youtube.com/watch?v=F84xXm7Np0I",
+      "groups": [
+        "invoice_ingredient"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn bán hàng [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/qz6RVq5p-Js/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbXz_UpL2n1ypB_m7oZuMDxidyHg",
+      "link": "https://www.youtube.com/watch?v=qz6RVq5p-Js",
+      "groups": [
+        "invoice_order_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dịch vụ - Danh mục dịch vụ [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/dBVzZeIHBCY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVn5z3FnwYBCHRluIVmzqD0CIQiQ",
+      "link": "https://www.youtube.com/watch?v=dBVzZeIHBCY",
+      "groups": [
+        "service_service_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dịch vụ - Danh sách dịch vụ [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/NjvFd3wHwAg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxCDfHPUF2jWx85AtneA6fktDS7w",
+      "link": "https://www.youtube.com/watch?v=NjvFd3wHwAg",
+      "groups": [
+        "service_service_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hàng hóa - nguyên liệu - In tem hàng loạt  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/yBcPK_wfxsA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXlY_sGpyQof9M89UGfj0nwtth8Q",
+      "link": "https://www.youtube.com/watch?v=yBcPK_wfxsA",
+      "groups": [
+        "ingredient_print_barcode"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hàng hóa - nguyên liệu - Danh mục nguyên liệu  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/-G4T70odjLM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiAYL2E1CTnFEahJ2ha3-SWVLVqQ",
+      "link": "https://www.youtube.com/watch?v=-G4T70odjLM",
+      "groups": [
+        "ingredient_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hàng hóa - nguyên liệu - Danh sách nguyên liệu  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/rLtOYkKagp0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs4vP3tcvx1m43MhksxH_U-b-iLA",
+      "link": "https://www.youtube.com/watch?v=rLtOYkKagp0",
+      "groups": [
+        "ingredient_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Khu điều phối bếp /quầy pha chế   [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/YTE_Mk3Ulcc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAimV4RLF1WlMTA5XhrLO90A2Pdig",
+      "link": "https://www.youtube.com/watch?v=YTE_Mk3Ulcc",
+      "groups": [
+        "design_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem lô / HSD   [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/HPZzmpefrPg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB37oZO0mYVYZOPoxd4sFFx8cqavg",
+      "link": "https://www.youtube.com/watch?v=HPZzmpefrPg",
+      "groups": [
+        "design_design_label_batch_expiry"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem nguyên liệu  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/Fz8eQjYgrLM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq37dkEeXIw4ljYI9l5iHh9h1LmQ",
+      "link": "https://www.youtube.com/watch?v=Fz8eQjYgrLM",
+      "groups": [
+        "design_design_label_ingredient"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem món  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/ry88Tbh80-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-Z6QA8jhdQHcbLh2Kbn67_j4yEg",
+      "link": "https://www.youtube.com/watch?v=ry88Tbh80-8",
+      "groups": [
+        "design_design_label_dish"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế thực đơn   [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/fsAmYgE1vRs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUfW2ea2IzwhrIl6rV0YfGa9nBkg",
+      "link": "https://www.youtube.com/watch?v=fsAmYgE1vRs",
+      "groups": [
+        "design_design_menu"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế khu vực,bàn  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/4LBVnB74Yq0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBE8y1v6wTcy5cvqhgqRUZ3vO515Q",
+      "link": "https://www.youtube.com/watch?v=4LBVnB74Yq0",
+      "groups": [
+        "design_area"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh mục combo  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/LxxzF4P3JCs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMlUL9QpHYHhIvZCSAHtBJOq1TsA",
+      "link": "https://www.youtube.com/watch?v=LxxzF4P3JCs",
+      "groups": [
+        "dishes_combo_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh sách combo  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/bd6skZ8GWXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyeMpysnI3LlNm6w74-JlC18NwUg",
+      "link": "https://www.youtube.com/watch?v=bd6skZ8GWXk",
+      "groups": [
+        "dishes_combo"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh mục topping  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/fn-RG87XnOc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDopLLzswkh0C6kcMo66jjELHX-TA",
+      "link": "https://www.youtube.com/watch?v=fn-RG87XnOc",
+      "groups": [
+        "dishes_topping_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh sách topping  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/5bG_ZJ1R0vc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC71dZhP4imDj-CAnqk5hn-ECM2A",
+      "link": "https://www.youtube.com/watch?v=5bG_ZJ1R0vc",
+      "groups": [
+        "dishes_topping"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh mục món ăn  [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/io0yiyMudLU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT8VxtuLQuxUlpAVfzNCkEpyQkGw",
+      "link": "https://www.youtube.com/watch?v=io0yiyMudLU",
+      "groups": [
+        "dishes_menu"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Món ăn -thức uống - Danh sách món ăn [ XprinterPos-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/k_M3aBfNy9Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApOmpjVq_GKk9GhNQCxvM8qmPiNg",
+      "link": "https://www.youtube.com/watch?v=k_M3aBfNy9Y",
+      "groups": [
+        "dishes_dish_list"
+      ]
+    },
+    {
       "title": "03 Thao tác bán hàng F&B XprinterPos [ F&B XprinterPos Desktop VIE ]",
       "image": "https://i.ytimg.com/vi/BOA49O8n_sM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBekrpNQfVXGmin18XioyemxefY2A",
       "link": "https://www.youtube.com/watch?v=BOA49O8n_sM",
       "groups": [
-        "sales_guide"
+        "cafe_pos_guide"
       ]
     },
     {
@@ -14,22 +846,6 @@
       "link": "https://www.youtube.com/watch?v=wQdMRkM6O8Q",
       "groups": [
         "dishes_dish_list"
-      ]
-    },
-    {
-      "title": "Hướng dẫn máy in Xprinter Q80BS kết nối dây USB trên máy tính bằng phần mềm Xprinter Pos",
-      "image": "https://i.ytimg.com/vi/ZR5WAP8Zhbc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9cQXp_Hk40-nxd7OPMgFlaoT24w",
-      "link": "https://www.youtube.com/watch?v=ZR5WAP8Zhbc",
-      "groups": [
-        "settings_configuration_printer"
-      ]
-    },
-    {
-      "title": "Hướng dẫn cài driver máy in XPrinter 58IIH bằng dây USB trên máy tính và in từ phần mềm XprinterPos",
-      "image": "https://i.ytimg.com/vi/Ad7oTsvv8_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr2QyK0KQlwnsPnn4azSf8IWWFTw",
-      "link": "https://www.youtube.com/watch?v=Ad7oTsvv8_M",
-      "groups": [
-        "settings_configuration_printer"
       ]
     }
   ],
