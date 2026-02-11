@@ -55,6 +55,46 @@
       "groups": [
         "settings_configuration_printer"
       ]
+    },
+    {
+      "title": "1.6 HKD được giảm thuế VAT theo Nghị Quyết",
+      "image": "https://i.ytimg.com/vi/dAsR65D0Nqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm2QHcPoY6lMXGMDtUjwsjKpWG7A",
+      "link": "https://www.youtube.com/watch?v=dAsR65D0Nqo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.5 Giá hàng hóa, dịch vụ.. gửi cơ quan thuế là giá bán đã giảm",
+      "image": "https://i.ytimg.com/vi/04eM3CxD2nc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZUBO3JTlh_a4lOecnlClE8oJwSA",
+      "link": "https://www.youtube.com/watch?v=04eM3CxD2nc",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.4 Mã vạch khi gửi CQT là mã vach sản phẩm",
+      "image": "https://i.ytimg.com/vi/t1pbg8NScDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARV-inizlGzf_oTOp_7SbQ9cEhEw",
+      "link": "https://www.youtube.com/watch?v=t1pbg8NScDE",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.2 Hàng khuyến mãi được phép xuất 0đ",
+      "image": "https://i.ytimg.com/vi/_58WCrUdlXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFden6eXaaP4sDmvlZX2gYTwNU4Q",
+      "link": "https://www.youtube.com/watch?v=_58WCrUdlXk",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.1 Xuất riêng chiết khấu/giảm giá của sản phẩm thành 1 dòng riêng khi gửi CQT",
+      "image": "https://i.ytimg.com/vi/7khqOwOz4WQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqEg9GWxNLCuk-nBMzdZgB3AbYA",
+      "link": "https://www.youtube.com/watch?v=7khqOwOz4WQ",
+      "groups": [
+        "settings_e_invoice"
+      ]
     }
   ],
   "en": [

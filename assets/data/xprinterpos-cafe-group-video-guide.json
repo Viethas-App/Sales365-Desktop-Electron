@@ -1,6 +1,113 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Chương trình bán hàng - Cách sử dụng coupon [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/AY0RDashUkM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5YS2VHYXjQxr5nWyqOhEpR69M2A",
+      "link": "https://www.youtube.com/watch?v=AY0RDashUkM",
+      "groups": [
+        "sales_program_coupons"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Bán voucher  [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/pHSBKgab0x8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoc5-llA2MZ142YsjwAa_g8rx4-w",
+      "link": "https://www.youtube.com/watch?v=pHSBKgab0x8",
+      "groups": [
+        "sales_program_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tính hoa hồng Nhân Viên [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/3eZO5XBFHvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7OwXO_ya8oKFn2yJb-yhNH6ko6w",
+      "link": "https://www.youtube.com/watch?v=3eZO5XBFHvg",
+      "groups": [
+        "sales_program_discount_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn bán hàng áp dụng khuyến mãi[ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/l6eQ6-Y11jM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQhKX2HXRInzbiUhKMo7Kt6znx_g",
+      "link": "https://www.youtube.com/watch?v=l6eQ6-Y11jM",
+      "groups": [
+        "cafe_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn hàng Dịch vụ, món phụ [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/nK6iXKJOkww/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALyTQx3InbI-6Yl7bwscbSUKEPSg",
+      "link": "https://www.youtube.com/watch?v=nK6iXKJOkww",
+      "groups": [
+        "cafe_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn hàng có in bếp [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/6Dis8vwen00/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkoIalAIdLKF-WELXs54XDeNZxZA",
+      "link": "https://www.youtube.com/watch?v=6Dis8vwen00",
+      "groups": [
+        "cafe_pos_guide",
+        "cafe_desktop_guide",
+        "cafe_fnb_guide",
+        "settings_configuration_dispatcher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn hàng có thêm Khách lẻ, Khách thành viên[ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/5GDaQPrltGM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhDYvm6Y1SSt_usVmMy1MNeBQ1dQ",
+      "link": "https://www.youtube.com/watch?v=5GDaQPrltGM",
+      "groups": [
+        "cafe_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tổng quan trang bán hàng [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/gRHYmC0Vz2k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHSMskgNasf9hA5d2oWwQk9GIETg",
+      "link": "https://www.youtube.com/watch?v=gRHYmC0Vz2k",
+      "groups": [
+        "cafe_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn hàng có đặt bàn, tách bàn, chuyển bàn [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/ObCzXr1IbiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7QLgMeWs9n-52uERvteX1xo53YA",
+      "link": "https://www.youtube.com/watch?v=ObCzXr1IbiU",
+      "groups": [
+        "cafe_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Cập nhật hàng loạt [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/U9UFsMHgP7U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5J8_bltx8MzbTkBmmFkMo5RDDYg",
+      "link": "https://www.youtube.com/watch?v=U9UFsMHgP7U",
+      "groups": [
+        "dishes_dish_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Tạo dữ liệu sản phẩm bằng file excel [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/5eQIgkpISRQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Iv_TP6l2wrSyNve5rh7fG1Ks8g",
+      "link": "https://www.youtube.com/watch?v=5eQIgkpISRQ",
+      "groups": [
+        "dishes_dish_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Ẩn sản phẩm [ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/QnoPBxlzamw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtjwcvUFsSWqJKC8yl8AkmMdXtJw",
+      "link": "https://www.youtube.com/watch?v=QnoPBxlzamw",
+      "groups": [
+        "dishes_dish_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Danh sách sản phẩm có Thuộc tính, Cỡ, Món phụ[ XprinterPos-F&B-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/3kudt4KHxU8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUwplzhLjDDV_jRMgZFnCNu9NM0g",
+      "link": "https://www.youtube.com/watch?v=3kudt4KHxU8",
+      "groups": [
+        "dishes_dish_list"
+      ]
+    },
+    {
       "title": "Hướng dẫn Cài đặt - Hiển thị [ XprinterPos-F&B-desktop-VIE ]",
       "image": "https://i.ytimg.com/vi/L5Ch5X9RO1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqlvvdk2IpywEaIVAu5BrH3lWgdA",
       "link": "https://www.youtube.com/watch?v=L5Ch5X9RO1E",
@@ -846,6 +953,46 @@
       "link": "https://www.youtube.com/watch?v=wQdMRkM6O8Q",
       "groups": [
         "dishes_dish_list"
+      ]
+    },
+    {
+      "title": "1.6 HKD được giảm thuế VAT theo Nghị Quyết",
+      "image": "https://i.ytimg.com/vi/dAsR65D0Nqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm2QHcPoY6lMXGMDtUjwsjKpWG7A",
+      "link": "https://www.youtube.com/watch?v=dAsR65D0Nqo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.5 Giá hàng hóa, dịch vụ.. gửi cơ quan thuế là giá bán đã giảm",
+      "image": "https://i.ytimg.com/vi/04eM3CxD2nc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZUBO3JTlh_a4lOecnlClE8oJwSA",
+      "link": "https://www.youtube.com/watch?v=04eM3CxD2nc",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.4 Mã vạch khi gửi CQT là mã vach sản phẩm",
+      "image": "https://i.ytimg.com/vi/t1pbg8NScDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARV-inizlGzf_oTOp_7SbQ9cEhEw",
+      "link": "https://www.youtube.com/watch?v=t1pbg8NScDE",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.2 Hàng khuyến mãi được phép xuất 0đ",
+      "image": "https://i.ytimg.com/vi/_58WCrUdlXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFden6eXaaP4sDmvlZX2gYTwNU4Q",
+      "link": "https://www.youtube.com/watch?v=_58WCrUdlXk",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.1 Xuất riêng chiết khấu/giảm giá của sản phẩm thành 1 dòng riêng khi gửi CQT",
+      "image": "https://i.ytimg.com/vi/7khqOwOz4WQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqEg9GWxNLCuk-nBMzdZgB3AbYA",
+      "link": "https://www.youtube.com/watch?v=7khqOwOz4WQ",
+      "groups": [
+        "settings_e_invoice"
       ]
     }
   ],

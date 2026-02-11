@@ -1,11 +1,123 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Chương trình bán hàng - Cách sử dụng coupon [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/xQP3J1ByRNk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr42qXggRawfccIRYNqWNSwBNkUA",
+      "link": "https://www.youtube.com/watch?v=xQP3J1ByRNk",
+      "groups": [
+        "sales_program_coupons"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Bán voucher [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/ZMRtoaB5ZNU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjXa6i6nW7s9DQCKaTSRX_OBGlKQ",
+      "link": "https://www.youtube.com/watch?v=ZMRtoaB5ZNU",
+      "groups": [
+        "sales_program_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tính hoa hồng Nhân Viên [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/sBAxq66eZ90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW30AE7DFjAa26FWlvyPIK0aHJqw",
+      "link": "https://www.youtube.com/watch?v=sBAxq66eZ90",
+      "groups": [
+        "sales_program_discount_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn bán hàng áp dụng khuyến mãi [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/t-xE6IhHSIY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-NLyxvgFeiwMUrpD3dZIOoxAXrg",
+      "link": "https://www.youtube.com/watch?v=t-xE6IhHSIY",
+      "groups": [
+        "sales_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn hàng Dịch vụ, Combo [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/lpgahgWqHC8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDudgdVH_Tpx9QlNrGdwfPpu6ie-w",
+      "link": "https://www.youtube.com/watch?v=lpgahgWqHC8",
+      "groups": [
+        "sales_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Tạo đơn hàng có thêm Khách lẻ/Khách thành viên[ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/k104cUWC_VA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1Ud-yG1VpGRdnd4CwjlAlvpCwig",
+      "link": "https://www.youtube.com/watch?v=k104cUWC_VA",
+      "groups": [
+        "sales_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Cập nhật hàng loạt  [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/BRWwzmvD2fY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuKGloLNI3AJ5ooV3M0JAWP_Ko4Q",
+      "link": "https://www.youtube.com/watch?v=BRWwzmvD2fY",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Tạo dữ liệu SP KHÔNG có thuộc tính bằng file [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/0qj_XGFxCU4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz62rHjWL5h5d54AvcEG_NPTdlfQ",
+      "link": "https://www.youtube.com/watch?v=0qj_XGFxCU4",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Tạo dữ liệu SP có thuộc tính bằng file Excel [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/ay0v8vobeQ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPQBgiD6ih9tLsDbM9kuVLA7n2TA",
+      "link": "https://www.youtube.com/watch?v=ay0v8vobeQ8",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Ẩn Sản phẩm  [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/tJYzzxizfvY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiMLcNVKvIHl_yIH96N7ZwYQs9Xg",
+      "link": "https://www.youtube.com/watch?v=tJYzzxizfvY",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Danh sách sản phẩm có LôHSD, có thuộc tính  [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/_dXKSfPenpw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-9gc46FkwM3kioEK1LLDK6c6I4w",
+      "link": "https://www.youtube.com/watch?v=_dXKSfPenpw",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
       "title": "08. Thao tác bán hàng cơ bản [ Sales XprinterPos Desktop VIE ]",
       "image": "https://i.ytimg.com/vi/SCVQpyAQjZ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfI2VlhbzQRI6g151tiW5BGcwEaw",
       "link": "https://www.youtube.com/watch?v=SCVQpyAQjZ4",
       "groups": [
         "sales_pos_guide"
+      ]
+    },
+    {
+      "title": "02.4 Thao tác thêm sản phẩm có nhiều thuộc tính bằng file Excel [ Sales XprinterPos Desktop VIE ]",
+      "image": "https://i.ytimg.com/vi/SzpbZ39MuXE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2pVlhEqErOaOb8oXc-ZWVEFQkXQ",
+      "link": "https://www.youtube.com/watch?v=SzpbZ39MuXE",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "02.3 Thao tác thêm nhiều sản phẩm bằng file Excel [ Sales XprinterPos Desktop VIE ]",
+      "image": "https://i.ytimg.com/vi/-MuE1o5hSFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAksjSDc5d80nLRZS5N6Pxh4kwc7w",
+      "link": "https://www.youtube.com/watch?v=-MuE1o5hSFQ",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "02.2 Thao tác thêm, xóa, sửa sản phẩm có thuộc tính và lô/hạn sử dụng",
+      "image": "https://i.ytimg.com/vi/KQ7QZWC7vN8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnZ2MkVMBXZdMtmYH4xrMV528LKA",
+      "link": "https://www.youtube.com/watch?v=KQ7QZWC7vN8",
+      "groups": [
+        "product_product_list"
       ]
     },
     {
@@ -261,30 +373,6 @@
       ]
     },
     {
-      "title": "02.2 Thao tác thêm, xóa, sửa sản phẩm có thuộc tính và lô/hạn sử dụng",
-      "image": "https://i.ytimg.com/vi/KQ7QZWC7vN8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnZ2MkVMBXZdMtmYH4xrMV528LKA",
-      "link": "https://www.youtube.com/watch?v=KQ7QZWC7vN8",
-      "groups": [
-        "product_product_list"
-      ]
-    },
-    {
-      "title": "02.3 Thao tác thêm nhiều sản phẩm bằng file Excel [ Sales XprinterPos Desktop VIE ]",
-      "image": "https://i.ytimg.com/vi/-MuE1o5hSFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAksjSDc5d80nLRZS5N6Pxh4kwc7w",
-      "link": "https://www.youtube.com/watch?v=-MuE1o5hSFQ",
-      "groups": [
-        "product_product_list"
-      ]
-    },
-    {
-      "title": "02.4 Thao tác thêm sản phẩm có nhiều thuộc tính bằng file Excel [ Sales XprinterPos Desktop VIE ]",
-      "image": "https://i.ytimg.com/vi/SzpbZ39MuXE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2pVlhEqErOaOb8oXc-ZWVEFQkXQ",
-      "link": "https://www.youtube.com/watch?v=SzpbZ39MuXE",
-      "groups": [
-        "product_product_list"
-      ]
-    },
-    {
       "title": "Hướng dẫn máy in Xprinter Q80BS kết nối dây USB trên máy tính bằng phần mềm Xprinter Pos",
       "image": "https://i.ytimg.com/vi/ZR5WAP8Zhbc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9cQXp_Hk40-nxd7OPMgFlaoT24w",
       "link": "https://www.youtube.com/watch?v=ZR5WAP8Zhbc",
@@ -298,6 +386,46 @@
       "link": "https://www.youtube.com/watch?v=Ad7oTsvv8_M",
       "groups": [
         "settings_configuration_printer"
+      ]
+    },
+    {
+      "title": "1.6 HKD được giảm thuế VAT theo Nghị Quyết",
+      "image": "https://i.ytimg.com/vi/dAsR65D0Nqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm2QHcPoY6lMXGMDtUjwsjKpWG7A",
+      "link": "https://www.youtube.com/watch?v=dAsR65D0Nqo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.5 Giá hàng hóa, dịch vụ.. gửi cơ quan thuế là giá bán đã giảm",
+      "image": "https://i.ytimg.com/vi/04eM3CxD2nc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZUBO3JTlh_a4lOecnlClE8oJwSA",
+      "link": "https://www.youtube.com/watch?v=04eM3CxD2nc",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.4 Mã vạch khi gửi CQT là mã vach sản phẩm",
+      "image": "https://i.ytimg.com/vi/t1pbg8NScDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARV-inizlGzf_oTOp_7SbQ9cEhEw",
+      "link": "https://www.youtube.com/watch?v=t1pbg8NScDE",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.2 Hàng khuyến mãi được phép xuất 0đ",
+      "image": "https://i.ytimg.com/vi/_58WCrUdlXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFden6eXaaP4sDmvlZX2gYTwNU4Q",
+      "link": "https://www.youtube.com/watch?v=_58WCrUdlXk",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.1 Xuất riêng chiết khấu/giảm giá của sản phẩm thành 1 dòng riêng khi gửi CQT",
+      "image": "https://i.ytimg.com/vi/7khqOwOz4WQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqEg9GWxNLCuk-nBMzdZgB3AbYA",
+      "link": "https://www.youtube.com/watch?v=7khqOwOz4WQ",
+      "groups": [
+        "settings_e_invoice"
       ]
     }
   ],

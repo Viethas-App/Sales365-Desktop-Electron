@@ -1,6 +1,254 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Đơn vị vận chuyển - Đơn vận chuyển  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/TodTmuHCLbs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmxxsQkN8LKDLBqXiaT6twY602tw",
+      "link": "https://www.youtube.com/watch?v=TodTmuHCLbs",
+      "groups": [
+        "delivery_shipping_bill"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đơn vị vận chuyển - Đối tác vận chuyển [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/-gDKd48piAk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXgPmMZuGfTlyqgSQ1L2XpQ7uZtw",
+      "link": "https://www.youtube.com/watch?v=-gDKd48piAk",
+      "groups": [
+        "delivery_carrier_partner"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Cách sử dụng coupon [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/6KnK4M9iblQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh7P2Vi5hopIYS2a3c37qz6kTZXw",
+      "link": "https://www.youtube.com/watch?v=6KnK4M9iblQ",
+      "groups": [
+        "sales_program_coupons"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Bán voucher [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/mBjf9VWZszg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwAczEvmYYmIzXLXLBqq8OfjM2EQ",
+      "link": "https://www.youtube.com/watch?v=mBjf9VWZszg",
+      "groups": [
+        "sales_program_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tính hoa hồng Nhân Viên [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/27dddLXNUyI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFLNAUwQUPvz8gPN0WhKikWK1l-g",
+      "link": "https://www.youtube.com/watch?v=27dddLXNUyI",
+      "groups": [
+        "sales_program_discount_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn bán hàng áp dụng khuyến mãi  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/u_5qH65TbEc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3fWkee9xi3P3D-MuEV2f2LK2gvQ",
+      "link": "https://www.youtube.com/watch?v=u_5qH65TbEc",
+      "groups": [
+        "sales_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn hàng Dịch vụ, Combo [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/CcXXnwt5Oug/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASWDqx-FgSR236IZ7dwc14qSj3kw",
+      "link": "https://www.youtube.com/watch?v=CcXXnwt5Oug",
+      "groups": [
+        "sales_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn hàng  cơ bản + tạo khách thành viên [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/A9H8e3sVRJQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7-c0qnjCzPMOP6yD1voELBo1u9A",
+      "link": "https://www.youtube.com/watch?v=A9H8e3sVRJQ",
+      "groups": [
+        "sales_desktop_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Cập nhật hàng loạt [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/J_KiYf4zsPA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZDdpRgEFz4Qoko-MmAGySMong5g",
+      "link": "https://www.youtube.com/watch?v=J_KiYf4zsPA",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Tạo dữ liệu SP KHÔNG thuộc tính bằng file Excel [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/RPkE7ukmCyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD07QyDf0kJqeFvZe93TN9gM6q_ww",
+      "link": "https://www.youtube.com/watch?v=RPkE7ukmCyU",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - Tạo dữ liệu SP có thuộc tính bằng file Excel [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/StYyqK9fzTE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm5YnsTpNwQ63IYEj87Fe1mQL-1g",
+      "link": "https://www.youtube.com/watch?v=StYyqK9fzTE",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm -  Ẩn sản phẩm [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/KQFULN9y440/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ1HMnJMYJKvel2hdwOqBGDsM5vA",
+      "link": "https://www.youtube.com/watch?v=KQFULN9y440",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm -  Danh sách sản phẩm có LôHSD, có thuộc tính [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/BObuQNpIfZU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1hxnOTtospe9kY8AlHiLIya6eqw",
+      "link": "https://www.youtube.com/watch?v=BObuQNpIfZU",
+      "groups": [
+        "product_product_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Xuất hóa đơn từ phần mềm [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/CQrQrGvxAoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMW3SClngqjkQQseEmYKqkFHCfCA",
+      "link": "https://www.youtube.com/watch?v=CQrQrGvxAoQ",
+      "groups": [
+        "ecommerce_e_invoice_sales365"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Xuất hóa đơn từ sàn [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/YAxr1Ypn1GY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzpfXjCH0_qvH8-2zbduaY-FIZug",
+      "link": "https://www.youtube.com/watch?v=YAxr1Ypn1GY",
+      "groups": [
+        "ecommerce_e_invoice_shopee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Bán hàng tự động [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/0B7fxris3fM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6lWZd0vMKm6N-MyX-vPy0RSnj3g",
+      "link": "https://www.youtube.com/watch?v=0B7fxris3fM",
+      "groups": [
+        "ecommerce_auto_sales"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Phát hành hóa đơn - Hóa đơn trả về [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/hmtMRx1cL2A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArugNEPfbxaU2VcQPUtJ0hFXfGcA",
+      "link": "https://www.youtube.com/watch?v=hmtMRx1cL2A",
+      "groups": [
+        "ecommerce_issue_invoice_invoice_returned"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Phát hành hóa đơn -Hóa đơn đã phát hành[Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/FLYKix9w8OQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHKjBFa-8dlbowdDmsxNS53zWu-g",
+      "link": "https://www.youtube.com/watch?v=FLYKix9w8OQ",
+      "groups": [
+        "ecommerce_issue_invoice_invoice_issued"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Phát hành hóa đơn hàng hóa trả về [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/gCwlJPwOWOM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR_lzniTwLjt53lHPW84f9tX73eA",
+      "link": "https://www.youtube.com/watch?v=gCwlJPwOWOM",
+      "groups": [
+        "ecommerce_issue_invoice_issue_receive_goods"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Phát hành hóa đơn hàng hóa giao đi [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/hpd1RT5quoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsM4We-XwB3_mRJz6_foYhfX78PQ",
+      "link": "https://www.youtube.com/watch?v=hpd1RT5quoE",
+      "groups": [
+        "ecommerce_issue_invoice_issue_delivery_goods"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Đối soát hàng về [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/8xQPREhzC3g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBazoPP2ZEdUERJsUrrO_BII6YGtQ",
+      "link": "https://www.youtube.com/watch?v=8xQPREhzC3g",
+      "groups": [
+        "ecommerce_control_return_control"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Đối soát hàng giao [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/V2-Mq398z8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiii-xR5P9CpgKD_qwlFgnXAHWXA",
+      "link": "https://www.youtube.com/watch?v=V2-Mq398z8o",
+      "groups": [
+        "ecommerce_control_export_goods"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Đối soát tiền về [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/QeFpOlwhzgM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx8usvPdSa4vQ-eEMd37qGB3CseQ",
+      "link": "https://www.youtube.com/watch?v=QeFpOlwhzgM",
+      "groups": [
+        "ecommerce_control_money_control"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Cập nhật sản phẩm trên Shopee [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/mDARLePOvZ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwrtPepHBztrDLPZojaUFt_PPU9Q",
+      "link": "https://www.youtube.com/watch?v=mDARLePOvZ4",
+      "groups": [
+        "ecommerce_product_on_shopee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  Liên kết sản phẩm [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/ex6J8DM5rg0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmhmE5DvEweI6zUBB4kjniatEvQw",
+      "link": "https://www.youtube.com/watch?v=ex6J8DM5rg0",
+      "groups": [
+        "ecommerce_affiliate_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  cập nhật giá theo sản phẩm trên Shopee [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/tQat8cc5KfY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATdQerMUvVagt9JQk1he-RYTljxw",
+      "link": "https://www.youtube.com/watch?v=tQat8cc5KfY",
+      "groups": [
+        "ecommerce_update_price_by_product_shopee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  cập nhật giá theo Sp tại cửa hàng [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/RPiylNHgbaU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgwQziLd5zgDDV6_tJoVmBvH5AxQ",
+      "link": "https://www.youtube.com/watch?v=RPiylNHgbaU",
+      "groups": [
+        "ecommerce_update_price_by_product_app"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  cập nhật tồn kho theo Sp trên Shopee [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/mMMtjrCO6gk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWlWvIfCMeHAXTtI_g9GsMSmEaew",
+      "link": "https://www.youtube.com/watch?v=mMMtjrCO6gk",
+      "groups": [
+        "ecommerce_update_stock_by_product_shopee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử -  cập nhật tồn kho theo sp tại cửa hàng [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/DTLBd9nLQeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3rWA9JbIsRU5Dm6Jli98O3Dwvfg",
+      "link": "https://www.youtube.com/watch?v=DTLBd9nLQeE",
+      "groups": [
+        "ecommerce_update_stock_by_product_app"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử - Hoàn hànghoàn tiền [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/XjX5mUYlxt8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdYYSXxvEhO66z98_oay2T_MftYg",
+      "link": "https://www.youtube.com/watch?v=XjX5mUYlxt8",
+      "groups": [
+        "ecommerce_return_refund"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thương mại điện tử - Trạng thái đơn hàng [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/tUuYiAjKhdI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0l_K6c9IsrMRuJ0WI8-TxX6djSQ",
+      "link": "https://www.youtube.com/watch?v=tUuYiAjKhdI",
+      "groups": [
+        "ecommerce_order_status"
+      ]
+    },
+    {
       "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu hóa đơn bán [Sales365-sales-desktop-VIE]",
       "image": "https://i.ytimg.com/vi/RtBYjKVq1TY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOkbjiqhdRmTsGFIINr4jMqlk3Cg",
       "link": "https://www.youtube.com/watch?v=RtBYjKVq1TY",
@@ -810,6 +1058,46 @@
       "groups": [
         "product_product_list",
         "quick_user_guide"
+      ]
+    },
+    {
+      "title": "1.6 HKD được giảm thuế VAT theo Nghị Quyết",
+      "image": "https://i.ytimg.com/vi/dAsR65D0Nqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm2QHcPoY6lMXGMDtUjwsjKpWG7A",
+      "link": "https://www.youtube.com/watch?v=dAsR65D0Nqo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.5 Giá hàng hóa, dịch vụ.. gửi cơ quan thuế là giá bán đã giảm",
+      "image": "https://i.ytimg.com/vi/04eM3CxD2nc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZUBO3JTlh_a4lOecnlClE8oJwSA",
+      "link": "https://www.youtube.com/watch?v=04eM3CxD2nc",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.4 Mã vạch khi gửi CQT là mã vach sản phẩm",
+      "image": "https://i.ytimg.com/vi/t1pbg8NScDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARV-inizlGzf_oTOp_7SbQ9cEhEw",
+      "link": "https://www.youtube.com/watch?v=t1pbg8NScDE",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.2 Hàng khuyến mãi được phép xuất 0đ",
+      "image": "https://i.ytimg.com/vi/_58WCrUdlXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFden6eXaaP4sDmvlZX2gYTwNU4Q",
+      "link": "https://www.youtube.com/watch?v=_58WCrUdlXk",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.1 Xuất riêng chiết khấu/giảm giá của sản phẩm thành 1 dòng riêng khi gửi CQT",
+      "image": "https://i.ytimg.com/vi/7khqOwOz4WQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqEg9GWxNLCuk-nBMzdZgB3AbYA",
+      "link": "https://www.youtube.com/watch?v=7khqOwOz4WQ",
+      "groups": [
+        "settings_e_invoice"
       ]
     }
   ]
