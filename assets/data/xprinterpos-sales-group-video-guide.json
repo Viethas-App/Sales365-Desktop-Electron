@@ -1,6 +1,30 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Các loại hóa đơn [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/LuhCTAofQJU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzrP8lsIzvI3LxtwdmL4nl1XSlcw",
+      "link": "https://www.youtube.com/watch?v=LuhCTAofQJU",
+      "groups": [
+        "invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Sản phẩm - DS cấu hình, Nhóm cấu hình, Trạng Thái gửi CQT  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/s8lr9qrGnpk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWv15ACMz-sDIqt9swrpvC_0i9IQ",
+      "link": "https://www.youtube.com/watch?v=s8lr9qrGnpk",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đơn vị vận chuyển - Đơn vận chuyển  [Sales365-sales-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/TodTmuHCLbs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmxxsQkN8LKDLBqXiaT6twY602tw",
+      "link": "https://www.youtube.com/watch?v=TodTmuHCLbs",
+      "groups": [
+        "delivery_shipping_bill"
+      ]
+    },
+    {
       "title": "Hướng dẫn Chương trình bán hàng - Cách sử dụng coupon [ XprinterPos-Sales-desktop-VIE ]",
       "image": "https://i.ytimg.com/vi/xQP3J1ByRNk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr42qXggRawfccIRYNqWNSwBNkUA",
       "link": "https://www.youtube.com/watch?v=xQP3J1ByRNk",
@@ -386,6 +410,158 @@
       "link": "https://www.youtube.com/watch?v=Ad7oTsvv8_M",
       "groups": [
         "settings_configuration_printer"
+      ]
+    },
+    {
+      "title": "1.6 HKD được giảm thuế VAT theo Nghị Quyết",
+      "image": "https://i.ytimg.com/vi/dAsR65D0Nqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm2QHcPoY6lMXGMDtUjwsjKpWG7A",
+      "link": "https://www.youtube.com/watch?v=dAsR65D0Nqo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.5 Giá hàng hóa, dịch vụ.. gửi cơ quan thuế là giá bán đã giảm",
+      "image": "https://i.ytimg.com/vi/04eM3CxD2nc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZUBO3JTlh_a4lOecnlClE8oJwSA",
+      "link": "https://www.youtube.com/watch?v=04eM3CxD2nc",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.4 Mã vạch khi gửi CQT là mã vach sản phẩm",
+      "image": "https://i.ytimg.com/vi/t1pbg8NScDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARV-inizlGzf_oTOp_7SbQ9cEhEw",
+      "link": "https://www.youtube.com/watch?v=t1pbg8NScDE",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.2 Hàng khuyến mãi được phép xuất 0đ",
+      "image": "https://i.ytimg.com/vi/_58WCrUdlXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFden6eXaaP4sDmvlZX2gYTwNU4Q",
+      "link": "https://www.youtube.com/watch?v=_58WCrUdlXk",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.1 Xuất riêng chiết khấu/giảm giá của sản phẩm thành 1 dòng riêng khi gửi CQT",
+      "image": "https://i.ytimg.com/vi/7khqOwOz4WQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqEg9GWxNLCuk-nBMzdZgB3AbYA",
+      "link": "https://www.youtube.com/watch?v=7khqOwOz4WQ",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.12 Giá trị voucher của shop  khi HĐ có 2 giá trị khác nhau, dựa trên DL trả về từ sàn TMDT Shopee",
+      "image": "https://i.ytimg.com/vi/B49Mqrk17v4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZjVgcSzUvtai-P5R0qfLdz14eoA",
+      "link": "https://www.youtube.com/watch?v=B49Mqrk17v4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.11 Giá bán hàng hóa, dịch vụ,... trên sàn TMDT Shopee đã bao gồm voucher của người bán",
+      "image": "https://i.ytimg.com/vi/ciYUc_pS-P4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYwcL0BctkfBB7wQo9PTQU8I3dEw",
+      "link": "https://www.youtube.com/watch?v=ciYUc_pS-P4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.10 Xuất tên đơn vị SP/dịch vụ từ sàn TMDT theo tên đơn vị SP/DV đã liên kết theo đơn vị nhỏ nhất",
+      "image": "https://i.ytimg.com/vi/EY3LkeePaG8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2V_JzJcVDzxECG5k-gENin38ZkQ",
+      "link": "https://www.youtube.com/watch?v=EY3LkeePaG8",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.9 Xuất hóa đơn từ sàn TMDT với thông tin thanh toán mặc định là 'Chuyển khoản",
+      "image": "https://i.ytimg.com/vi/uuIUE-dWlFs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz_eeWd6aGKw7twKtR7ju6nk_qNw",
+      "link": "https://www.youtube.com/watch?v=uuIUE-dWlFs",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.8 Xuất hóa đơn từ sàn TMDT với thông tin người mua kèm theo tên sàn và mã đơn hàng",
+      "image": "https://i.ytimg.com/vi/W16-XLoqgFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtCSXpCp0BEDd-CrbhksGrEZnCJQ",
+      "link": "https://www.youtube.com/watch?v=W16-XLoqgFQ",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.7 Sử dụng thời gian cập nhật trạng thái gần nhất của ĐH từ sàn TMDT để thiết lập ngày lập hóa đơn",
+      "image": "https://i.ytimg.com/vi/A8lvjwhLavg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_aOWQIxAriQLKpFdoreuGoQKOEw",
+      "link": "https://www.youtube.com/watch?v=A8lvjwhLavg",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.6 Giá bán HH, dịch vụ,... trên sàn TMDT chưa bao gồm thuế VAT, tính theo VAT HH, dịch vụ liên kết",
+      "image": "https://i.ytimg.com/vi/Zskd8lH0lzo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAA-k4PJ34o0KbKYjjn9erFfRx1Tg",
+      "link": "https://www.youtube.com/watch?v=Zskd8lH0lzo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.5 Giá bán hàng hóa, dịch vụ... trên sàn TMDT chưa bao gồm thuế VAT",
+      "image": "https://i.ytimg.com/vi/5Ol_hWmvT1k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5O13I0D9tn-Z60SsABSVoJMaNQw",
+      "link": "https://www.youtube.com/watch?v=5Ol_hWmvT1k",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.4 Giá bán Hhóa, dịch vụ,... trên sàn TMDT đã bao gồm thuế VAT, tính theo VAT HH, dịch vụ liên kết",
+      "image": "https://i.ytimg.com/vi/cOmMDNbmErA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo6oK-kLjgQ2qPuiBzgUYDznD0Dg",
+      "link": "https://www.youtube.com/watch?v=cOmMDNbmErA",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.3 Giá bán hàng hóa, dịch vụ... trên sàn TMDT đã bao gồm thuế VAT",
+      "image": "https://i.ytimg.com/vi/YdflyoG90MA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfXNad5UevZLJ2Tx5UHI9M6mUKfw",
+      "link": "https://www.youtube.com/watch?v=YdflyoG90MA",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.2 Gửi hóa đơn lên CQT kèm phí giao dịch/phí sàn TMDT",
+      "image": "https://i.ytimg.com/vi/Cs4HvJPkA_4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMzk3zshstoVG-3gmJaVe7DrPi4g",
+      "link": "https://www.youtube.com/watch?v=Cs4HvJPkA_4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.1 Gửi hóa đơn lên CQT kèm phí vận chuyển",
+      "image": "https://i.ytimg.com/vi/HUXtGwOIYs4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-pqrrkMTI4OaButb6493gqpKc1g",
+      "link": "https://www.youtube.com/watch?v=HUXtGwOIYs4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.8 Nội dung tiền tố hiển thị cho sản phẩm tặng/khuyến mãi",
+      "image": "https://i.ytimg.com/vi/hELXLNT1IkY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkW2C5rpA18gH0ZBXkQnFlGZEJvA",
+      "link": "https://www.youtube.com/watch?v=hELXLNT1IkY",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.7 Tính thuế cho chiết khấu thương mại khi gửi CQT",
+      "image": "https://i.ytimg.com/vi/dgdwZB7VnhY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdQI90V2idZo0IDye7VtdBN3abjA",
+      "link": "https://www.youtube.com/watch?v=dgdwZB7VnhY",
+      "groups": [
+        "settings_e_invoice"
       ]
     },
     {

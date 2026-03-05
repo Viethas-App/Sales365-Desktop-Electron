@@ -1,6 +1,351 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn BH áp dụng coupon và điểm TT hoặc lấy quà  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Y-VDhAMAk6w/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCEU2coFDvvNDh3lGhLrwMIvbH9Zw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/Y-VDhAMAk6w",
+      "groups": [
+        "cafe_mobile_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Thao tác điều phối bếp, nguyên liệu và dịch vụ  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/bUdUSau9P0A/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCYpECie6TP3xejvps2LvPzR3foig&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/bUdUSau9P0A",
+      "groups": [
+        "cafe_mobile_guide",
+        "coordination"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn hàng có đặt bàn, tách bàn hoặc chuyển bàn  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/OeAOX9aJrDU/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA97nDmfx9VxJhc2XI3MgLUKVRC4Q&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/OeAOX9aJrDU",
+      "groups": [
+        "cafe_mobile_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng -Tạo đơn hàng có nhiều kích cỡ. thuộc tính  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/YyUPTWoy2P0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAlij7bxyPQOK6ZiLHWqTGdp5Qu4A&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/YyUPTWoy2P0",
+      "groups": [
+        "cafe_mobile_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Bán hàng - Tạo đơn hàng món ăn, dịch vụ, topping  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Occfq7z5VxI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD08Y-xwxLvHGKpIDdkcQRTvDvPZQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/Occfq7z5VxI",
+      "groups": [
+        "cafe_mobile_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt  - Báo cáo [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Qhypo-ug56s/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCsjHCWqXXlEUQnieI-2JA4FGnNAQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/Qhypo-ug56s",
+      "groups": [
+        "settings_configuration_sale_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt  - Hóa đơn [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/APe9YWMTcG0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB2BBEPlF11EAjJ0DPnTYu9pBZ8Ew&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/APe9YWMTcG0",
+      "groups": [
+        "settings_configuration_invoices"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt  - Sản phẩm [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/eOzBY8ssTJs/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA2yMGHeata9krLqRNToxUokrYhDg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/eOzBY8ssTJs",
+      "groups": [
+        "settings_configuration_products"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt  - Hóa đơn điện tử [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/3MlBErOjR6M/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAuBO0dDRTV_HWRBt8__Kk7uZ6FqQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/3MlBErOjR6M",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt  - Định dạng tiền tệ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/KixlgX6J5cU/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDijLLxoIOGBH_m4wyv8Z7CJEXGwA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/KixlgX6J5cU",
+      "groups": [
+        "settings_configuration_currency"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt  - Giao diện gọi món [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/fU5nXpIwIRw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB5oxtSqgS1-FZ5ELSnwvL5ueIW9Q&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/fU5nXpIwIRw",
+      "groups": [
+        "settings_configuration_interface"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt  - Thêm tính năng nâng cao [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/vrN579mv4rs/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDofEA5x8Vy4qjMZkQ71G3flKavPw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/vrN579mv4rs",
+      "groups": [
+        "settings_configuration_feature_access"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt  - Hiển thị [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/lTrdvHz7FRE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAHDD7X-kOknmNIIpQ-IFvBLSjHmA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/lTrdvHz7FRE",
+      "groups": [
+        "settings_configuration_display"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt  - Thông tin cửa hàng [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/i2zRUqEzmf8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA7jcBT6vt3RtAapIpKopZoaJKaJw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/i2zRUqEzmf8",
+      "groups": [
+        "settings_store_information"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho  - Xuất hủy hàng hóa [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/OaCWVV_SNE0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBz8ByTGGgvAevP0XJnAZNaxquDDQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/OaCWVV_SNE0",
+      "groups": [
+        "stock_destroy_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho  -Quản lý lô / HSD [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/bRxJjb9CTMk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA21qO8QwFWS0pjJA3MysIZ6GBdmw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/bRxJjb9CTMk",
+      "groups": [
+        "stock_manage_lots"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho  -Cân bằng kho [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/ggBYdNucP6M/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBo_kIxoiZ2sCVVUjUw8gDmrKUsfw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/ggBYdNucP6M",
+      "groups": [
+        "stock_balance_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho  - Nhận hàng [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/4oKf5qnDJUw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBKbL3EHiIje2b4mIS1VNkioGi7bA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/4oKf5qnDJUw",
+      "groups": [
+        "stock_receive"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho  - Chuyển hàng [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/maG_Ly1K7vU/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDQT5jDpwPhCteUOjiDlnDNnqkE8Q&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/maG_Ly1K7vU",
+      "groups": [
+        "stock_delivery"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho  - Báo cáo kiểm kho [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/vbNFIpkUgvM/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBCAT8C6Gm6uAmqYJm3moTkxlkagg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/vbNFIpkUgvM",
+      "groups": [
+        "stock_report_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho  - Kiểm kho [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/LmbO17aPN40/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC9r_kR_TTvBWKIEoPlEakmWd1a8A&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/LmbO17aPN40",
+      "groups": [
+        "stock_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho  -Tồn kho [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/cV31V7GWo08/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBhS4PazsdbM7v5A2-dBXL2PqDy9A&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/cV31V7GWo08",
+      "groups": [
+        "stock_warehouse"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Đổi điểm lấy thẻ trả trước [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/rPFMw8vEJiY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB_-IlNai8uI2e8HTzCnrKtc_jBNA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/rPFMw8vEJiY",
+      "groups": [
+        "sales_program_card_goods_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  -Hóa đơn đổi thẻ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/w5WnqzsrRjA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDoMl_Wc2u1Reh4t9UkeXeFRTb75g&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/w5WnqzsrRjA",
+      "groups": [
+        "sales_program_card_goods_exchange_card_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Báo cáo thẻ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/C_kqMa1KfrQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCyVZUiIjADmbyGmpGjIVvM0Wb5Gw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/C_kqMa1KfrQ",
+      "groups": [
+        "sales_program_card_goods_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Hóa đơn bán thẻ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/_aOqXU2RhmE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBjG5hOCRtTR7hjm8DQ55o034Z_cw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/_aOqXU2RhmE",
+      "groups": [
+        "sales_program_card_goods_sell_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Danh sách thẻ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/vfz6kzG27Hs/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD-6GNDYdWC4U6cClBXtuUT6lwKJg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/vfz6kzG27Hs",
+      "groups": [
+        "sales_program_card_goods_list_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Đợt phát hành thẻ [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/G6BR4nLWRC8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDE7FvU3xYyzWq3a_Li5wHPcqKcKw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/G6BR4nLWRC8",
+      "groups": [
+        "sales_program_card_goods_releases"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Đổi điểm voucher [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/7lZODIdVenM/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA4I5Xd04Z0FRDBAMN4pTcn8y8UDA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/7lZODIdVenM",
+      "groups": [
+        "sales_program_voucher_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Hóa đơn đổi voucher [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/VVT_hvTQwuM/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDqY4YxDasQwJCNhfZCjy1FYF4sbA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/VVT_hvTQwuM",
+      "groups": [
+        "sales_program_voucher_exchange_voucher_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  -Báo cáo voucher [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/z3VO9SNbMTA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDyJVlJHKIRzS_cTT2ba6Yo2HSHCg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/z3VO9SNbMTA",
+      "groups": [
+        "sales_program_voucher_report_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Hóa đơn bán voucher [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/caYDC8xpN-w/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDAgQlU3f5IcD_DI57aT2IPKQp3tA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/caYDC8xpN-w",
+      "groups": [
+        "sales_program_voucher_buy_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng  - Đợt phát hành voucher [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/5iFwotlVHwc/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLArDr08rl6dWqE3oNh0o9eK8dFQAw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/5iFwotlVHwc",
+      "groups": [
+        "sales_program_voucher_releases_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trìnhbán hàng  - Danh sách voucher [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/toqvZMbOFz8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCvqUA810jyYlCmG2fRtaY_HyEqRQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/toqvZMbOFz8",
+      "groups": [
+        "sales_program_voucher_list_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trìnhbán hàng  - Đổi điểm Coupons [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/k-wavNOpMU4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCSN9IDfXKIvpy-cIAsXPiqZix0Qw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/k-wavNOpMU4",
+      "groups": [
+        "sales_program_coupons_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền  - Nhận tiền [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/-gyxJd1OWvE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBGK5Bj_7Co6AcyxanzftY0LE47BQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/-gyxJd1OWvE",
+      "groups": [
+        "cashflow_receiving"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền  -Chuyển tiền [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/_oiGES-qEN8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA8t3lyLF5zxnTh8sbhbUcX4ZBV3A&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/_oiGES-qEN8",
+      "groups": [
+        "cashflow_transfers"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo  -Doanh số combo  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/UVziMvqQqZc/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDJvdpItTaeBIfO6STMpvofaRTDKA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/UVziMvqQqZc",
+      "groups": [
+        "report_sales_combo"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Báo cáo - Doanh số toppings [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/V5ZfRVbrCP8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAUTPPEE2DNMix5Qo8WzIrxhhNeug&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/V5ZfRVbrCP8",
+      "groups": [
+        "report_sales_side_dishes"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cấu hình về cách và thời điểm gửi hóa đơn lên CQT  [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Ix9gWp72HbI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBOwbl5kiHZtsl-YlBsnRWkSsBBiQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/Ix9gWp72HbI",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Các loại hóa đơn [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/FYrtslfBoqc/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCKJ_31aMghFaplkCpJDvYz10MGyw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/FYrtslfBoqc",
+      "groups": [
+        "invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Danh sách cấu hình, Nhóm cấu hình, Trạng Thái gửi CQT [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/WTTnuHN7pXo/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAc_cj3_UaL6j5cbDKLp6OsbeHN1w&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/WTTnuHN7pXo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Phát hành Coupons [Sales365-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/aNNHy-8Zfl0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBF664PaI39j35kW6iFFTxo4WZXsg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/aNNHy-8Zfl0",
+      "groups": [
+        "sales_program_coupons_publish_coupon"
+      ]
+    },
+    {
       "title": "Hướng dẫn Chương trình bán hàng - Danh sách Coupons [Sales365-F&B-mobile-VIE]",
       "image": "https://i.ytimg.com/vi/cZSky0UofY0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA3IUtrgAFy93ZdI711Q0WtTHvqCA",
       "link": "https://www.youtube.com/shorts/cZSky0UofY0",
@@ -542,6 +887,158 @@
       "link": "https://www.youtube.com/shorts/aNNHy-8Zfl0",
       "groups": [
         "sales_program_coupons_publish_coupon"
+      ]
+    },
+    {
+      "title": "1.6 HKD được giảm thuế VAT theo Nghị Quyết",
+      "image": "https://i.ytimg.com/vi/dAsR65D0Nqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm2QHcPoY6lMXGMDtUjwsjKpWG7A",
+      "link": "https://www.youtube.com/watch?v=dAsR65D0Nqo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.5 Giá hàng hóa, dịch vụ.. gửi cơ quan thuế là giá bán đã giảm",
+      "image": "https://i.ytimg.com/vi/04eM3CxD2nc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZUBO3JTlh_a4lOecnlClE8oJwSA",
+      "link": "https://www.youtube.com/watch?v=04eM3CxD2nc",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.4 Mã vạch khi gửi CQT là mã vach sản phẩm",
+      "image": "https://i.ytimg.com/vi/t1pbg8NScDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARV-inizlGzf_oTOp_7SbQ9cEhEw",
+      "link": "https://www.youtube.com/watch?v=t1pbg8NScDE",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.2 Hàng khuyến mãi được phép xuất 0đ",
+      "image": "https://i.ytimg.com/vi/_58WCrUdlXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFden6eXaaP4sDmvlZX2gYTwNU4Q",
+      "link": "https://www.youtube.com/watch?v=_58WCrUdlXk",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.1 Xuất riêng chiết khấu/giảm giá của sản phẩm thành 1 dòng riêng khi gửi CQT",
+      "image": "https://i.ytimg.com/vi/7khqOwOz4WQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqEg9GWxNLCuk-nBMzdZgB3AbYA",
+      "link": "https://www.youtube.com/watch?v=7khqOwOz4WQ",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.12 Giá trị voucher của shop  khi HĐ có 2 giá trị khác nhau, dựa trên DL trả về từ sàn TMDT Shopee",
+      "image": "https://i.ytimg.com/vi/B49Mqrk17v4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZjVgcSzUvtai-P5R0qfLdz14eoA",
+      "link": "https://www.youtube.com/watch?v=B49Mqrk17v4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.11 Giá bán hàng hóa, dịch vụ,... trên sàn TMDT Shopee đã bao gồm voucher của người bán",
+      "image": "https://i.ytimg.com/vi/ciYUc_pS-P4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYwcL0BctkfBB7wQo9PTQU8I3dEw",
+      "link": "https://www.youtube.com/watch?v=ciYUc_pS-P4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.10 Xuất tên đơn vị SP/dịch vụ từ sàn TMDT theo tên đơn vị SP/DV đã liên kết theo đơn vị nhỏ nhất",
+      "image": "https://i.ytimg.com/vi/EY3LkeePaG8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2V_JzJcVDzxECG5k-gENin38ZkQ",
+      "link": "https://www.youtube.com/watch?v=EY3LkeePaG8",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.9 Xuất hóa đơn từ sàn TMDT với thông tin thanh toán mặc định là 'Chuyển khoản",
+      "image": "https://i.ytimg.com/vi/uuIUE-dWlFs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz_eeWd6aGKw7twKtR7ju6nk_qNw",
+      "link": "https://www.youtube.com/watch?v=uuIUE-dWlFs",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.8 Xuất hóa đơn từ sàn TMDT với thông tin người mua kèm theo tên sàn và mã đơn hàng",
+      "image": "https://i.ytimg.com/vi/W16-XLoqgFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtCSXpCp0BEDd-CrbhksGrEZnCJQ",
+      "link": "https://www.youtube.com/watch?v=W16-XLoqgFQ",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.7 Sử dụng thời gian cập nhật trạng thái gần nhất của ĐH từ sàn TMDT để thiết lập ngày lập hóa đơn",
+      "image": "https://i.ytimg.com/vi/A8lvjwhLavg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_aOWQIxAriQLKpFdoreuGoQKOEw",
+      "link": "https://www.youtube.com/watch?v=A8lvjwhLavg",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.6 Giá bán HH, dịch vụ,... trên sàn TMDT chưa bao gồm thuế VAT, tính theo VAT HH, dịch vụ liên kết",
+      "image": "https://i.ytimg.com/vi/Zskd8lH0lzo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAA-k4PJ34o0KbKYjjn9erFfRx1Tg",
+      "link": "https://www.youtube.com/watch?v=Zskd8lH0lzo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.5 Giá bán hàng hóa, dịch vụ... trên sàn TMDT chưa bao gồm thuế VAT",
+      "image": "https://i.ytimg.com/vi/5Ol_hWmvT1k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5O13I0D9tn-Z60SsABSVoJMaNQw",
+      "link": "https://www.youtube.com/watch?v=5Ol_hWmvT1k",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.4 Giá bán Hhóa, dịch vụ,... trên sàn TMDT đã bao gồm thuế VAT, tính theo VAT HH, dịch vụ liên kết",
+      "image": "https://i.ytimg.com/vi/cOmMDNbmErA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo6oK-kLjgQ2qPuiBzgUYDznD0Dg",
+      "link": "https://www.youtube.com/watch?v=cOmMDNbmErA",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.3 Giá bán hàng hóa, dịch vụ... trên sàn TMDT đã bao gồm thuế VAT",
+      "image": "https://i.ytimg.com/vi/YdflyoG90MA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfXNad5UevZLJ2Tx5UHI9M6mUKfw",
+      "link": "https://www.youtube.com/watch?v=YdflyoG90MA",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.2 Gửi hóa đơn lên CQT kèm phí giao dịch/phí sàn TMDT",
+      "image": "https://i.ytimg.com/vi/Cs4HvJPkA_4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMzk3zshstoVG-3gmJaVe7DrPi4g",
+      "link": "https://www.youtube.com/watch?v=Cs4HvJPkA_4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.1 Gửi hóa đơn lên CQT kèm phí vận chuyển",
+      "image": "https://i.ytimg.com/vi/HUXtGwOIYs4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-pqrrkMTI4OaButb6493gqpKc1g",
+      "link": "https://www.youtube.com/watch?v=HUXtGwOIYs4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.8 Nội dung tiền tố hiển thị cho sản phẩm tặng/khuyến mãi",
+      "image": "https://i.ytimg.com/vi/hELXLNT1IkY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkW2C5rpA18gH0ZBXkQnFlGZEJvA",
+      "link": "https://www.youtube.com/watch?v=hELXLNT1IkY",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.7 Tính thuế cho chiết khấu thương mại khi gửi CQT",
+      "image": "https://i.ytimg.com/vi/dgdwZB7VnhY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdQI90V2idZo0IDye7VtdBN3abjA",
+      "link": "https://www.youtube.com/watch?v=dgdwZB7VnhY",
+      "groups": [
+        "settings_e_invoice"
       ]
     },
     {

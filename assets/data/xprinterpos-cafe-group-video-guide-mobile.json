@@ -1,5 +1,438 @@
 {
   "vi": [
+    
+    {
+      "title": "Hướng dẫn Cài đặt - Báo cáo  [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/sy3hp4SwOAk/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDCWU3flQMhCU5k4N4nkr6eROqJKQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/sy3hp4SwOAk",
+      "groups": [
+        "settings_configuration_sale_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Hóa đơn  [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/yGAEFR3lEw4/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAGS5wzA5DIm_SIBvPHO0Gsx-7E8A&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/yGAEFR3lEw4",
+      "groups": [
+        "settings_configuration_invoices"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Sản phẩm  [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/IP_9v-GTFZg/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAIrWCW1C98XPsEDxGaBNyeqg4L3A&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/IP_9v-GTFZg",
+      "groups": [
+        "settings_configuration_products"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Hóa đơn điện tử [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/SYBccxPQHxc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDalyJV7mBMHDj6DNx8MmntiDV40w&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/SYBccxPQHxc",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Định dạng tiền tệ   [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/xQIB7DBG83Q/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBdEOEgJSQHJyT2q_pGPi2OSZxxCw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/xQIB7DBG83Q",
+      "groups": [
+        "settings_configuration_currency"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Giao diện gọi món  [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/zwYzzkoHUQc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDigDoYCOtww2P6RLhJGEXFTh0oJg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/zwYzzkoHUQc",
+      "groups": [
+        "settings_configuration_interface"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thêm tính năng nâng cao  [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/J_1baCE1wYg/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAwc9ddMoAUOXPJi0VOfMuqN0Dxgw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/J_1baCE1wYg",
+      "groups": [
+        "settings_configuration_feature_access"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Hiển thị  [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/27aWE_VwnMk/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBOEv68lhq5F9fZkzIwvtMq7mMpFQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/27aWE_VwnMk",
+      "groups": [
+        "settings_configuration_display"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cài đặt - Thông tin cửa hàng  [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/HTH1vRubrAc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA0qTQiSIDQ9GpwpyYsLAilkYOT1w&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/HTH1vRubrAc",
+      "groups": [
+        "settings_store_information"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Xuất hủy hàng hóa [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/58Hmg-SWeUM/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBREZjnlgXXiUJm2JdTeuXnsosVoA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/58Hmg-SWeUM",
+      "groups": [
+        "stock_destroy_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Quản lý lô/ HSD [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/6YO4CjwUN9M/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDxrF76vPJsdyugX0uCVzc-YyCvng&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/6YO4CjwUN9M",
+      "groups": [
+        "stock_manage_lots"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Cân bằng kho [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/0BYIFAw86KQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDAbPmPnPypbGEcrgy0pbVkz_O_Xw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/0BYIFAw86KQ",
+      "groups": [
+        "stock_balance_stock"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Nhận hàng [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/RJXeiPwSGfk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDRuUCiE9lbFktee38CLj5T0QKWZA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/RJXeiPwSGfk",
+      "groups": [
+        "stock_receive"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Chuyển hàng [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/eqUK1ebw3Lo/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAokMVEe3uiYOnksd9gsc8xgNaNrw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/eqUK1ebw3Lo",
+      "groups": [
+        "stock_delivery"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Báo cáo kiểm kho [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/SRDZTIhLEcQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAWxoeHKj1VTp8Au3F90VOX-C9nsg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/SRDZTIhLEcQ",
+      "groups": [
+        "stock_report_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Iy33k0m_XCo/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB8ejd-beKLoDRDCqSlJI9d2-H5wg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/Iy33k0m_XCo",
+      "groups": [
+        "stock_inventory"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Kiểm kho - Tồn kho [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/KcR3oaiHOlo/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCIvvqPu61uh8ma5KOjf4u_U6XvBQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/KcR3oaiHOlo",
+      "groups": [
+        "stock_warehouse"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm thẻ trả trước [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/LJ7vWcywncw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBDwMQVh0hWHqFjndzklG6Waz_mNg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/LJ7vWcywncw",
+      "groups": [
+        "sales_program_card_goods_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn đổi thẻ [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/lpjr0BdW3Jk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAGxWy59dKJt2wFwwluL41KP-KKzQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/lpjr0BdW3Jk",
+      "groups": [
+        "sales_program_card_goods_sell_card"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Báo cáo hóa đơn bán thẻ [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/veZlx5aAL4U/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA6RfSZr5dgf5eRXoZOnRHUruz-TQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/veZlx5aAL4U",
+      "groups": [
+        "sales_program_card_goods_report"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn bán thẻ [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/k8ADAPxJkEY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBC1trYhn9o-UCHmmOeKjmT1q7V1Q&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/k8ADAPxJkEY",
+      "groups": [
+        "sales_program_card_goods_exchange_card_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Phát hành thẻ [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/SFN9qnUmeko/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBbBMyOJ_u-5vQd3bSS2wHpr4OzEw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/SFN9qnUmeko",
+      "groups": [
+        "sales_program_card_goods_releases"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm voucher [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/e4bBcaPtuTE/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBr8U3z4ftsmxOIZFPMZ3J2YXJuew&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/e4bBcaPtuTE",
+      "groups": [
+        "sales_program_voucher_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn đổi voucher [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/XWBg09plJVQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBAZoER86OsElB3TaM3vnL9GDmOhg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/XWBg09plJVQ",
+      "groups": [
+        "sales_program_voucher_exchange_voucher_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Báo cáo voucher [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/4QXQHwzi7z8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDsEnw6GOerIvJzanDcLCkLAItPWA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/4QXQHwzi7z8",
+      "groups": [
+        "sales_program_voucher_report_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hóa đơn bán voucher [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/PU8LKyw6Ets/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBBtHKLbdyw9ebQp73A5B3TDPIU6g&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/PU8LKyw6Ets",
+      "groups": [
+        "sales_program_voucher_buy_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đợt phát hành voucher [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/m3jHSY8hy6g/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDz_i5jxwiXtXfknAZwr_b3ab7GBg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/m3jHSY8hy6g",
+      "groups": [
+        "sales_program_voucher_releases_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách voucher [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/hFTiEjBloL8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCmykaIGGoQ8bbrealfj-YVWz7HyA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/hFTiEjBloL8",
+      "groups": [
+        "sales_program_voucher_list_voucher"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Đổi điểm Coupons [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/gpkPyaLQ9Tk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBzmFOjtZKlBwBo_TDt-gvDkZ4dXA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/gpkPyaLQ9Tk",
+      "groups": [
+        "sales_program_coupons_exchange_points"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Phát hành Coupons [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/uEAjmZsbbqM/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCilO_1aqyFk197q5qmqGYGtiGMhA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/uEAjmZsbbqM",
+      "groups": [
+        "sales_program_coupons_publish_coupon"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Danh sách Coupons [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/5ichAv3eIJ0/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBadil5AEkLoNpDm4wd3kwTAYLYsA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/5ichAv3eIJ0",
+      "groups": [
+        "sales_program_coupons_list_coupons"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Quản lý điểm [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/1W4mW7gZZ_A/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBwNeFdr1-Cb4r4s1_E6h7mN6wqxw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/1W4mW7gZZ_A",
+      "groups": [
+        "sales_program_reward_points_manage_point"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điểm sản phẩm [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/B7OgwvxW6Cg/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDz-lGwvibLPGdr_22GyQadfEWdGA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/B7OgwvxW6Cg",
+      "groups": [
+        "sales_program_reward_points_by_product"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Tích điểm hóa đơn [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/bPzVaoNxEHk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCPl7VCqVOyY_e4RoesYk9egxUhjQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/bPzVaoNxEHk",
+      "groups": [
+        "sales_program_reward_points_by_bill"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Hoa hồng nhân viên [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/NyWSYWfNkDU/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDpipodO5bkXAITQaX-W5tg1LrnHw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/NyWSYWfNkDU",
+      "groups": [
+        "sales_program_discount_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu hóa đơn bán [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Cyt8hUax7AU/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBj_qKdWNBZDCqk-JZZNtxoJF1TQw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/Cyt8hUax7AU",
+      "groups": [
+        "sales_program_discount_customer_invoice_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu doanh số [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/nwFhKIp-Jkw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDHlLNKOoJgD4JNZEAtTFCJSO8ZJQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/nwFhKIp-Jkw",
+      "groups": [
+        "sales_program_discount_customer_sales_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Khuyến mãi [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/z0COvsk8da8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDu9_Uwz2BJj40TozU9NXHO8Rk91g&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/z0COvsk8da8",
+      "groups": [
+        "sales_program_promotions"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thuế [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/XrGXrvSMpHk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD0BdhMs14IMaYhuo1TzHzdoktlkw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/XrGXrvSMpHk",
+      "groups": [
+        "tax"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng từ web/app [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Zsp9Eoa-KCo/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDPvBtAPSkyii9JJ0GyEa1HhK1tjQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/Zsp9Eoa-KCo",
+      "groups": [
+        "partner_customer_online_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Nhà cung cấp [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Jd1_8E3-vyk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDvTNlCJ5_yPgp9fUHfI_nRm4mIzA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/Jd1_8E3-vyk",
+      "groups": [
+        "partner_supplier"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Hạng nhân viên [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/S1p9ziEGwxk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDvlZ0n0icVfDi_GTlQAUkjiMA5Rw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/S1p9ziEGwxk",
+      "groups": [
+        "partner_employee_group"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Nhân viên [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/zyX5B46v18E/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCmHpKfNQxaMb5sFV3agefT-0kloA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/zyX5B46v18E",
+      "groups": [
+        "partner_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Hạng khách hàng [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Oc-IzdVfcu4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC_f87YWjabBagKXVW2Ds86ftixSg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/Oc-IzdVfcu4",
+      "groups": [
+        "partner_customer_group"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/aEaxSPxEbdA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCOD-CAtDZzYOzBlnGHf97uyx-9eg&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/aEaxSPxEbdA",
+      "groups": [
+        "partner_customer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Đối soát thu chi [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/feW1pwmN2PI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBEAIqs1_v2GQAuISz1S05cnjAnDA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/feW1pwmN2PI",
+      "groups": [
+        "cashflow_money_control"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Nhận tiền [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/zyq27gKWG1k/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD_C9y2mctIyaH_snoUc3oVjN1vdw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/zyq27gKWG1k",
+      "groups": [
+        "cashflow_receiving"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Chuyển tiền [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/-3MUsY9zFtA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDlM7zdbHu0G19oyxxoQNFn1Tau2g&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/-3MUsY9zFtA",
+      "groups": [
+        "cashflow_transfers"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ khách hàng đầu kỳ [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/Rt4ozSPEyLI/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA2Ci0NdMckjySsmpw3mbZssTLJ4A&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/Rt4ozSPEyLI",
+      "groups": [
+        "cashflow_beginning_customer_debt"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ nhà cung cấp đầu kỳ [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/RLQbVIQFfho/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCPnrGlA2D02B0BDbOQPSKExoE5yw&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/RLQbVIQFfho",
+      "groups": [
+        "cashflow_beginning_supplier_liability"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dòng tiền - Công nợ khách hàng [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/KVTJfRyP5RA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA1Wq832dh_GWjIPQD0h7jdY7D5CQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/KVTJfRyP5RA",
+      "groups": [
+        "cashflow_customer_debt"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Cấu hình về cách và thời điểm gửi hóa đơn lên CQT [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/yYhqJBOrynQ/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAcVvwfhHmGJ9zUbDnEBol7kez9PQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/yYhqJBOrynQ",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Các loại hóa đơn [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/UBxkdiJvfw4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBEh659NFVpHM95t2TbNfB6AY_foA&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/UBxkdiJvfw4",
+      "groups": [
+        "invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Danh sách cấu hình, Nhóm cấu hình, Trạng Thái gửi CQT [XprinterPos-F&B-mobile-VIE]",
+      "image": "https://i.ytimg.com/vi/g0MJ4HZ0upA/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBHkSjWGOZLSpqZEID2bDKkHazMZQ&usqp=CCk",
+      "link": "https://www.youtube.com/shorts/g0MJ4HZ0upA",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
     {
       "title": "Hướng dẫn Dòng tiền - Công nợ nhà cung cấp [XprinterPos-F&B-mobile-VIE]",
       "image": "https://i.ytimg.com/vi/9J7Ck4tP5Ek/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBMAdKAbwMJ5bWK_RJ7W2XXXn97JA&usqp=CCk",
@@ -422,6 +855,158 @@
       "link": "https://www.youtube.com/shorts/9gSwZlclzxY",
       "groups": [
         "cafe_mobile_guide"
+      ]
+    },
+    {
+      "title": "1.6 HKD được giảm thuế VAT theo Nghị Quyết",
+      "image": "https://i.ytimg.com/vi/dAsR65D0Nqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm2QHcPoY6lMXGMDtUjwsjKpWG7A",
+      "link": "https://www.youtube.com/watch?v=dAsR65D0Nqo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.5 Giá hàng hóa, dịch vụ.. gửi cơ quan thuế là giá bán đã giảm",
+      "image": "https://i.ytimg.com/vi/04eM3CxD2nc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZUBO3JTlh_a4lOecnlClE8oJwSA",
+      "link": "https://www.youtube.com/watch?v=04eM3CxD2nc",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.4 Mã vạch khi gửi CQT là mã vach sản phẩm",
+      "image": "https://i.ytimg.com/vi/t1pbg8NScDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARV-inizlGzf_oTOp_7SbQ9cEhEw",
+      "link": "https://www.youtube.com/watch?v=t1pbg8NScDE",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.2 Hàng khuyến mãi được phép xuất 0đ",
+      "image": "https://i.ytimg.com/vi/_58WCrUdlXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFden6eXaaP4sDmvlZX2gYTwNU4Q",
+      "link": "https://www.youtube.com/watch?v=_58WCrUdlXk",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.1 Xuất riêng chiết khấu/giảm giá của sản phẩm thành 1 dòng riêng khi gửi CQT",
+      "image": "https://i.ytimg.com/vi/7khqOwOz4WQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqEg9GWxNLCuk-nBMzdZgB3AbYA",
+      "link": "https://www.youtube.com/watch?v=7khqOwOz4WQ",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.12 Giá trị voucher của shop  khi HĐ có 2 giá trị khác nhau, dựa trên DL trả về từ sàn TMDT Shopee",
+      "image": "https://i.ytimg.com/vi/B49Mqrk17v4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZjVgcSzUvtai-P5R0qfLdz14eoA",
+      "link": "https://www.youtube.com/watch?v=B49Mqrk17v4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.11 Giá bán hàng hóa, dịch vụ,... trên sàn TMDT Shopee đã bao gồm voucher của người bán",
+      "image": "https://i.ytimg.com/vi/ciYUc_pS-P4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYwcL0BctkfBB7wQo9PTQU8I3dEw",
+      "link": "https://www.youtube.com/watch?v=ciYUc_pS-P4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.10 Xuất tên đơn vị SP/dịch vụ từ sàn TMDT theo tên đơn vị SP/DV đã liên kết theo đơn vị nhỏ nhất",
+      "image": "https://i.ytimg.com/vi/EY3LkeePaG8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2V_JzJcVDzxECG5k-gENin38ZkQ",
+      "link": "https://www.youtube.com/watch?v=EY3LkeePaG8",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.9 Xuất hóa đơn từ sàn TMDT với thông tin thanh toán mặc định là 'Chuyển khoản",
+      "image": "https://i.ytimg.com/vi/uuIUE-dWlFs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz_eeWd6aGKw7twKtR7ju6nk_qNw",
+      "link": "https://www.youtube.com/watch?v=uuIUE-dWlFs",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.8 Xuất hóa đơn từ sàn TMDT với thông tin người mua kèm theo tên sàn và mã đơn hàng",
+      "image": "https://i.ytimg.com/vi/W16-XLoqgFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtCSXpCp0BEDd-CrbhksGrEZnCJQ",
+      "link": "https://www.youtube.com/watch?v=W16-XLoqgFQ",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.7 Sử dụng thời gian cập nhật trạng thái gần nhất của ĐH từ sàn TMDT để thiết lập ngày lập hóa đơn",
+      "image": "https://i.ytimg.com/vi/A8lvjwhLavg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_aOWQIxAriQLKpFdoreuGoQKOEw",
+      "link": "https://www.youtube.com/watch?v=A8lvjwhLavg",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.6 Giá bán HH, dịch vụ,... trên sàn TMDT chưa bao gồm thuế VAT, tính theo VAT HH, dịch vụ liên kết",
+      "image": "https://i.ytimg.com/vi/Zskd8lH0lzo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAA-k4PJ34o0KbKYjjn9erFfRx1Tg",
+      "link": "https://www.youtube.com/watch?v=Zskd8lH0lzo",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.5 Giá bán hàng hóa, dịch vụ... trên sàn TMDT chưa bao gồm thuế VAT",
+      "image": "https://i.ytimg.com/vi/5Ol_hWmvT1k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5O13I0D9tn-Z60SsABSVoJMaNQw",
+      "link": "https://www.youtube.com/watch?v=5Ol_hWmvT1k",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.4 Giá bán Hhóa, dịch vụ,... trên sàn TMDT đã bao gồm thuế VAT, tính theo VAT HH, dịch vụ liên kết",
+      "image": "https://i.ytimg.com/vi/cOmMDNbmErA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo6oK-kLjgQ2qPuiBzgUYDznD0Dg",
+      "link": "https://www.youtube.com/watch?v=cOmMDNbmErA",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.3 Giá bán hàng hóa, dịch vụ... trên sàn TMDT đã bao gồm thuế VAT",
+      "image": "https://i.ytimg.com/vi/YdflyoG90MA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfXNad5UevZLJ2Tx5UHI9M6mUKfw",
+      "link": "https://www.youtube.com/watch?v=YdflyoG90MA",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.2 Gửi hóa đơn lên CQT kèm phí giao dịch/phí sàn TMDT",
+      "image": "https://i.ytimg.com/vi/Cs4HvJPkA_4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMzk3zshstoVG-3gmJaVe7DrPi4g",
+      "link": "https://www.youtube.com/watch?v=Cs4HvJPkA_4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "2.1 Gửi hóa đơn lên CQT kèm phí vận chuyển",
+      "image": "https://i.ytimg.com/vi/HUXtGwOIYs4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-pqrrkMTI4OaButb6493gqpKc1g",
+      "link": "https://www.youtube.com/watch?v=HUXtGwOIYs4",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.8 Nội dung tiền tố hiển thị cho sản phẩm tặng/khuyến mãi",
+      "image": "https://i.ytimg.com/vi/hELXLNT1IkY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkW2C5rpA18gH0ZBXkQnFlGZEJvA",
+      "link": "https://www.youtube.com/watch?v=hELXLNT1IkY",
+      "groups": [
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "1.7 Tính thuế cho chiết khấu thương mại khi gửi CQT",
+      "image": "https://i.ytimg.com/vi/dgdwZB7VnhY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdQI90V2idZo0IDye7VtdBN3abjA",
+      "link": "https://www.youtube.com/watch?v=dgdwZB7VnhY",
+      "groups": [
+        "settings_e_invoice"
       ]
     },
     {
