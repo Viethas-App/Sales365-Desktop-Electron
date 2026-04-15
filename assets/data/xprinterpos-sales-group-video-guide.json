@@ -173,7 +173,8 @@
       "image": "https://i.ytimg.com/vi/nhaKDUxCSSY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2UzZWWdy9DGrUAnjZOG94CDjo2w",
       "link": "https://www.youtube.com/watch?v=nhaKDUxCSSY",
       "groups": [
-        "invoice_sales_return_invoice"
+        "invoice_sales_return_invoice",
+        "quick_user_guide"
       ]
     },
     {
@@ -361,7 +362,8 @@
       "link": "https://www.youtube.com/watch?v=7zuCwptHMlQ",
       "groups": [
         "product_product_category",
-        "product_service_category"
+        "product_service_category",
+        "quick_user_guide"
       ]
     },
     {
@@ -775,7 +777,8 @@
       "link": "https://www.youtube.com/watch?v=pR30i4R5yfg",
       "groups": [
         "product_product_category",
-        "product_service_category"
+        "product_service_category",
+        "quick_user_guide"
       ]
     },
     {

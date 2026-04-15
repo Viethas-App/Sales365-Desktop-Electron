@@ -680,7 +680,8 @@
       "image": "https://i.ytimg.com/vi/XpnZpChImRM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPI2tHgfENkOrEANAjGKXk4s56dw",
       "link": "https://www.youtube.com/watch?v=XpnZpChImRM",
       "groups": [
-        "product_print_barcode"
+        "product_print_barcode",
+        "quick_user_guide"
       ]
     },
     {
@@ -1000,7 +1001,8 @@
       "image": "https://i.ytimg.com/vi/Gqmfqesbad8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWiotYvuNnFKdBd0hr8E88M8SerQ",
       "link": "https://www.youtube.com/watch?v=Gqmfqesbad8",
       "groups": [
-        "invoice_sales_return_invoice"
+        "invoice_sales_return_invoice",
+        "quick_user_guide"
       ]
     },
     {

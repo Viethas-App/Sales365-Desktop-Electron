@@ -1,6 +1,144 @@
 {
   "vi": [
     {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiết khấu KH - Chiết khấu doanh số [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/DZ5US43FB2k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX8uA_X6Z8IPfCf0eT4V7_Uy6vAA",
+      "link": "https://www.youtube.com/watch?v=DZ5US43FB2k",
+      "groups": [
+        "sales_program_discount_customer_sales_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Chương trình bán hàng - Chiếu khấu KH - Chiết khấu HĐ bán hàng [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/_hJU7_mZ6Xc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0RiRoFHYtVcxXYeC-MWN1mdNJrw",
+      "link": "https://www.youtube.com/watch?v=_hJU7_mZ6Xc",
+      "groups": [
+        "sales_program_discount_customer_invoice_discount"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Khách hàng [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/uvHTkYg5cBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACvimZfUOOYipJE-4CPCQzmo8noQ",
+      "link": "https://www.youtube.com/watch?v=uvHTkYg5cBY",
+      "groups": [
+        "partner_customer"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Đối tác - Nhân viên  [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/t-Nu0IQlw6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUkQkV_4tUSERsns3SYqd0T7iGOw",
+      "link": "https://www.youtube.com/watch?v=t-Nu0IQlw6k",
+      "groups": [
+        "partner_employee"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Trả nguyên liệu cho nhà cung cấp [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/K0goMcI9BMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNrkgwbrTnTg-r12AmOx5juhCInQ",
+      "link": "https://www.youtube.com/watch?v=K0goMcI9BMs",
+      "groups": [
+        "invoice_return_supplier"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Nhập nguyên liệu từ bếp [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/8MTYp0w_afw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8xZhGk8p6Ogv_E8JT4rKjZnRjLw",
+      "link": "https://www.youtube.com/watch?v=8MTYp0w_afw",
+      "groups": [
+        "invoice_import_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn nguyên liệu [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/CYZcsYvYH-Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoo4xzi8_o7Vy1CiKomUI4AE7Hjg",
+      "link": "https://www.youtube.com/watch?v=CYZcsYvYH-Q",
+      "groups": [
+        "invoice_ingredient"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hóa đơn - Hóa đơn bán hàng [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/KDFH129idnM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGjaQptW8I_l3jWXe3grNiT_htbQ",
+      "link": "https://www.youtube.com/watch?v=KDFH129idnM",
+      "groups": [
+        "invoice_order_invoice",
+        "quick_user_guide"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem lô/ HSD [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/UpdNjRG4mZQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB29aMyWufxoKpq5_iFVQmZyPLg9g",
+      "link": "https://www.youtube.com/watch?v=UpdNjRG4mZQ",
+      "groups": [
+        "design_design_label_batch_expiry"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Khu điểu phối bếp, quầy pha chế [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/r6ciXOBl3S0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKkYbN8FP7FmmHWXa0WdJ5jL_dvg",
+      "link": "https://www.youtube.com/watch?v=r6ciXOBl3S0",
+      "groups": [
+        "design_kitchen"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem nguyên liệu [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/BeKp4w5dO1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBYtTJBlDSa976ukt0JrabsVgMMA",
+      "link": "https://www.youtube.com/watch?v=BeKp4w5dO1E",
+      "groups": [
+        "design_design_label_ingredient"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế tem món [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/nn8DN5p6FWo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHHwvt3POjcQLrt4vRQTXy2zrEdA",
+      "link": "https://www.youtube.com/watch?v=nn8DN5p6FWo",
+      "groups": [
+        "design_design_label_dish"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế - Thiết kế thực đơn [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/6-mto4MhBCA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjR2a-xedzyxaNuOItmcZOofuzxQ",
+      "link": "https://www.youtube.com/watch?v=6-mto4MhBCA",
+      "groups": [
+        "design_design_menu"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Thiết kế -  Thiết kế khu vực, bàn [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/gNoK-qD_iGU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmb9R555d1hRSfGjb3kq4OJlnbQw",
+      "link": "https://www.youtube.com/watch?v=gNoK-qD_iGU",
+      "groups": [
+        "design_area"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dịch vụ - Danh mục dịch vụ [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/_8Y6ArBLBbI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6pEwF5FNcT6dLnYoqTzTJCr4cqg",
+      "link": "https://www.youtube.com/watch?v=_8Y6ArBLBbI",
+      "groups": [
+        "service_service_category"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Dịch vụ - Danh sách dịch vụ [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/HMTfXX6Q8uQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOhc9x8xCDwaDbnFH8IBfv-FLOfw",
+      "link": "https://www.youtube.com/watch?v=HMTfXX6Q8uQ",
+      "groups": [
+        "service_service_list"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Hàng hóa - Nguyên vật liệu - In tem hàng loạt [Sales365-F&B-desktop-VIE]",
+      "image": "https://i.ytimg.com/vi/Gqpn7YzDTaI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIbrmN3U-6hyNSZIs2jNwr0Zwu8A",
+      "link": "https://www.youtube.com/watch?v=Gqpn7YzDTaI",
+      "groups": [
+        "ingredient_print_barcode",
+        "quick_user_guide"
+      ]
+    },
+    {
       "title": "Hướng dẫn Cấu hình về cách và thời điểm gửi hóa đơn lên CQT [Sales365-F&B-desktop-VIE]",
       "image": "https://i.ytimg.com/vi/5esgb9wyaVY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzBoOi_MCyh-3J1NNK5pPqF5AJTQ",
       "link": "https://www.youtube.com/watch?v=5esgb9wyaVY",
@@ -176,7 +314,8 @@
       "image": "https://i.ytimg.com/vi/ndjsVKJ3vu4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhtvOY8S7sXXog40aZKMyF7uwlqA",
       "link": "https://www.youtube.com/watch?v=ndjsVKJ3vu4",
       "groups": [
-        "dishes_menu"
+        "dishes_menu",
+        "quick_user_guide"
       ]
     },
     {
@@ -184,7 +323,8 @@
       "image": "https://i.ytimg.com/vi/QUOHbioY06M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYetTg_oFjTnsKmwpToe8aeoPPFQ",
       "link": "https://www.youtube.com/watch?v=QUOHbioY06M",
       "groups": [
-        "dishes_dish_list"
+        "dishes_dish_list",
+        "quick_user_guide"
       ]
     },
     {

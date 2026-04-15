@@ -670,7 +670,8 @@
       "image": "https://i.ytimg.com/vi/lU0iXbtSnrw/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAzidHxoOdbS6vO-TaKTDARD2b5lA&usqp=CCk",
       "link": "https://www.youtube.com/shorts/lU0iXbtSnrw",
       "groups": [
-        "dishes_dish_list"
+        "dishes_dish_list",
+        "quick_user_guide"
       ]
     },
     {
@@ -678,7 +679,8 @@
       "image": "https://i.ytimg.com/vi/Nomruqz_fy4/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDGp0tOLYlMUUkqkzvL48zWJKyjQg&usqp=CCk",
       "link": "https://www.youtube.com/shorts/Nomruqz_fy4",
       "groups": [
-        "dishes_menu"
+        "dishes_menu",
+        "quick_user_guide"
       ]
     },
     {
@@ -774,7 +776,8 @@
       "image": "https://i.ytimg.com/vi/sIBQezhSw28/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDRKABUB5raiTVktRaPfeiDzAU8Nw&usqp=CCk",
       "link": "https://www.youtube.com/shorts/sIBQezhSw28",
       "groups": [
-        "ingredient_print_barcode"
+        "ingredient_print_barcode",
+        "quick_user_guide"
       ]
     },
     {
@@ -798,7 +801,8 @@
       "image": "https://i.ytimg.com/vi/tDASvBChqA8/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAT_GJTNuRt4r25yCTlPZ2nTtrqyg&usqp=CCk",
       "link": "https://www.youtube.com/shorts/tDASvBChqA8",
       "groups": [
-        "invoice_order_invoice"
+        "invoice_order_invoice",
+        "quick_user_guide"
       ]
     },
     {

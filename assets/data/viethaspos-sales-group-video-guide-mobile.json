@@ -581,7 +581,8 @@
       "image": "https://i.ytimg.com/vi/W0ZtQB4CVss/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCJ5aS0iCgA1V9JWjc4verafDHxaw",
       "link": "https://www.youtube.com/watch?v=W0ZtQB4CVss",
       "groups": [
-        "invoice_sales_return_invoice"
+        "invoice_sales_return_invoice",
+        "quick_user_guide"
       ]
     },
     {
@@ -621,7 +622,8 @@
       "image": "https://i.ytimg.com/vi/tsUv0ydUn8o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLCvHg5ehGBAuibD8ZYNrCbO35hTQA",
       "link": "https://www.youtube.com/watch?v=tsUv0ydUn8o",
       "groups": [
-        "product_product_category"
+        "product_product_category",
+        "quick_user_guide"
       ]
     },
     {
@@ -629,7 +631,8 @@
       "image": "https://i.ytimg.com/vi/T-MENliqA08/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARgUIHIoPzAP&rs=AOn4CLACag9nG6os-7MdJec6YurL_Pf4tw",
       "link": "https://www.youtube.com/watch?v=T-MENliqA08",
       "groups": [
-        "product_product_list"
+        "product_product_list",
+        "quick_user_guide"
       ]
     },
     {
