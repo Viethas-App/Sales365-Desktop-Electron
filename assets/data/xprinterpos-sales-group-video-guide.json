@@ -1,27 +1,27 @@
 {
   "vi": [
     {
-      "title": "Hướng dẫn Các loại hóa đơn [Sales365-sales-desktop-VIE]",
-      "image": "https://i.ytimg.com/vi/LuhCTAofQJU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzrP8lsIzvI3LxtwdmL4nl1XSlcw",
-      "link": "https://www.youtube.com/watch?v=LuhCTAofQJU",
-      "groups": [
-        "invoice"
-      ]
-    },
-    {
-      "title": "Hướng dẫn Sản phẩm - DS cấu hình, Nhóm cấu hình, Trạng Thái gửi CQT  [Sales365-sales-desktop-VIE]",
-      "image": "https://i.ytimg.com/vi/s8lr9qrGnpk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWv15ACMz-sDIqt9swrpvC_0i9IQ",
-      "link": "https://www.youtube.com/watch?v=s8lr9qrGnpk",
+      "title": "Hướng dẫn Cấu hình về cách và thời điểm gửi hóa đơn lên CQT    [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/e8yVL54_Mkg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvAx0LJ5Inh-qs0vkLNDxoZ2FXXA",
+      "link": "https://www.youtube.com/watch?v=e8yVL54_Mkg",
       "groups": [
         "settings_e_invoice"
       ]
     },
     {
-      "title": "Hướng dẫn Đơn vị vận chuyển - Đơn vận chuyển  [Sales365-sales-desktop-VIE]",
-      "image": "https://i.ytimg.com/vi/TodTmuHCLbs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmxxsQkN8LKDLBqXiaT6twY602tw",
-      "link": "https://www.youtube.com/watch?v=TodTmuHCLbs",
+      "title": "Hướng dẫn Các loại hóa đơn   [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/B8nSTrGUX7U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYzXXHwK458gCqRx0jz_u3ddIyfA",
+      "link": "https://www.youtube.com/watch?v=B8nSTrGUX7U",
       "groups": [
-        "delivery_shipping_bill"
+        "settings_e_invoice"
+      ]
+    },
+    {
+      "title": "Hướng dẫn Danh sách cấu hình, Nhóm cấu hình, Trạng Thái gửi CQT  [ XprinterPos-Sales-desktop-VIE ]",
+      "image": "https://i.ytimg.com/vi/4Z9Y2a3Xlp4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCky4iALAks5dMuWErQYrynlzsPgQ",
+      "link": "https://www.youtube.com/watch?v=4Z9Y2a3Xlp4",
+      "groups": [
+        "settings_e_invoice"
       ]
     },
     {
